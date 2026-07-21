@@ -1,0 +1,195 @@
+{
+  "index": 24,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 61,
+      "bottomRightX": 86,
+      "bottomRightY": 78,
+      "content": "3.5",
+      "type": "header"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 61,
+      "bottomRightX": 464,
+      "bottomRightY": 87,
+      "content": "# Language review 5",
+      "type": "title"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 115,
+      "bottomRightX": 360,
+      "bottomRightY": 134,
+      "content": "### 1 *The Present perfect continuous*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 145,
+      "bottomRightX": 221,
+      "bottomRightY": 159,
+      "content": "We use this tense to:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 159,
+      "bottomRightX": 593,
+      "bottomRightY": 256,
+      "content": "1 talk about the present effects of something that happened over a period of time in the recent past.\n2 talk about a continuous action that started in the past, continued up to now and may be continuing now.\n3 show that something has been changing or developing over a period of time and has been happening regularly.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 270,
+      "bottomRightX": 590,
+      "bottomRightY": 351,
+      "content": "**Examples:** He has been playing football. (That's why his clothes are dirty.)\nIt has been raining. (That's why the clothes are wet.)\nMona has been studying English for six years. (And she is still studying English.)\nThe weather has been getting warmer recently.",
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 361,
+      "bottomRightX": 494,
+      "bottomRightY": 392,
+      "content": "Compare the Present perfect simple and the Present perfect continuous tenses.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 409,
+      "bottomRightX": 202,
+      "bottomRightY": 425,
+      "content": "The simple tense",
+      "type": "text"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 425,
+      "bottomRightX": 325,
+      "bottomRightY": 489,
+      "content": "- emphasizes the completion of the action\n- can refer to actions that happened a long time ago",
+      "type": "list"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 505,
+      "bottomRightX": 164,
+      "bottomRightY": 521,
+      "content": "**Examples:**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 521,
+      "bottomRightX": 255,
+      "bottomRightY": 554,
+      "content": "I've done my homework.\nI've read that book.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 378,
+      "topLeftY": 410,
+      "bottomRightX": 520,
+      "bottomRightY": 426,
+      "content": "The continuous tense",
+      "type": "text"
+    },
+    {
+      "topLeftX": 380,
+      "topLeftY": 425,
+      "bottomRightX": 624,
+      "bottomRightY": 491,
+      "content": "- emphasizes how long the action has been going on\n- usually refers to something that has been happening recently",
+      "type": "list"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 503,
+      "bottomRightX": 468,
+      "bottomRightY": 519,
+      "content": "**Examples:**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 519,
+      "bottomRightX": 596,
+      "bottomRightY": 586,
+      "content": "I've been doing my homework for hours.\nI've been reading that book.\n(just now)",
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 599,
+      "bottomRightX": 514,
+      "bottomRightY": 632,
+      "content": "- Both tenses can be used to describe actions that started in the past and are still continuing.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 651,
+      "bottomRightX": 592,
+      "bottomRightY": 717,
+      "content": "**Examples:** I have lived here for six years. (Perhaps the speaker will not continue living there.)\nI have been living here since 1994. (The speaker will probably go on living here.)",
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 738,
+      "bottomRightX": 479,
+      "bottomRightY": 772,
+      "content": "- The following verbs are not used with the continuous tense:\nbe, have (=own), believe, know, need, like, love, prefer",
+      "type": "list"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 782,
+      "bottomRightX": 360,
+      "bottomRightY": 799,
+      "content": "### 2 *Verb + infinitive or + -ing form*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 809,
+      "bottomRightX": 517,
+      "bottomRightY": 843,
+      "content": "The verbs may be followed either by the infinitive or the -ing form:\nbegin, continue, start, like, love, prefer, hate",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 853,
+      "bottomRightX": 602,
+      "bottomRightY": 903,
+      "content": "**Examples:** It began to rain / began raining. I (don't) like to sail / like sailing.\nNote: When would is used in front of like, love, prefer, hate, you must use to + infinitive.",
+      "type": "aside_text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 910,
+      "bottomRightX": 468,
+      "bottomRightY": 926,
+      "content": "Now do activities A, B, and C in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 941,
+      "bottomRightX": 101,
+      "bottomRightY": 956,
+      "content": "20",
+      "type": "footer"
+    }
+  ]
+}

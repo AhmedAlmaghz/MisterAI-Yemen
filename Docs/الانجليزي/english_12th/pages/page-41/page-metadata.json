@@ -1,0 +1,179 @@
+{
+  "index": 40,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 63,
+      "topLeftY": 61,
+      "bottomRightX": 86,
+      "bottomRightY": 78,
+      "content": "5.5",
+      "type": "header"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 61,
+      "bottomRightX": 407,
+      "bottomRightY": 88,
+      "content": "# Language review 9",
+      "type": "title"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 104,
+      "bottomRightX": 225,
+      "bottomRightY": 122,
+      "content": "### 1 *Modal verbs - 1*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 136,
+      "bottomRightX": 515,
+      "bottomRightY": 170,
+      "content": "Modal verbs are not used on their own. They are used with other verbs to express different meanings.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 170,
+      "bottomRightX": 245,
+      "bottomRightY": 187,
+      "content": "- Degrees of possibility",
+      "type": "list"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 187,
+      "bottomRightX": 202,
+      "bottomRightY": 201,
+      "content": "You are not certain.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 208,
+      "bottomRightX": 442,
+      "bottomRightY": 226,
+      "content": "**Example:** It may (not)/might (not) could be a toothbrush.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 238,
+      "bottomRightX": 180,
+      "bottomRightY": 254,
+      "content": "You are certain.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 261,
+      "bottomRightX": 373,
+      "bottomRightY": 294,
+      "content": "**Examples:** (Positive) I must be a toothbrush.\n(Negative) I can't be a toothbrush.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 294,
+      "bottomRightX": 551,
+      "bottomRightY": 328,
+      "content": "**Note:** *Must not (mustn't)* can only be used when you want to tell somebody that they are not allowed to do something.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 328,
+      "bottomRightX": 441,
+      "bottomRightY": 345,
+      "content": "**Example:** You must not look at your books during an exam.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 361,
+      "bottomRightX": 274,
+      "bottomRightY": 460,
+      "content": "- Ability\n  *can/cannot* refers to the present\n  *could (not)* is used\n  - to refer to the past\n  - after *wish*\n  - in conditional sentences",
+      "type": "list"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 491,
+      "bottomRightX": 429,
+      "bottomRightY": 559,
+      "content": "**Examples:** I can /cannot swim.\nI could (not) swim when I was six.\nI wish I could swim.\nIf I lived near the sea, I could learn to swim.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 559,
+      "bottomRightX": 348,
+      "bottomRightY": 575,
+      "content": "**Note:** You can use **be able to** instead of **can**.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 575,
+      "bottomRightX": 326,
+      "bottomRightY": 609,
+      "content": "**Examples:** I am able to swim.\nI wish I was able to swim.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 637,
+      "bottomRightX": 320,
+      "bottomRightY": 655,
+      "content": "### 2 *'Sense' verbs + object + verb*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 667,
+      "bottomRightX": 570,
+      "bottomRightY": 718,
+      "content": "Some sense verbs are followed by the *-ing* form. This emphasizes the action as continuous and is often used for setting the scene (see Language review 4). When followed by the infinitive, this emphasizes that the action is completed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 730,
+      "bottomRightX": 500,
+      "bottomRightY": 797,
+      "content": "**Example:** I saw/heard/watched the goats come down the street.\n(And later told the farmer what I saw/heard, etc.)\nI saw/heard/watched the goats coming down the street.\n(And tried to stop them coming into the garden.)",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 808,
+      "bottomRightX": 416,
+      "bottomRightY": 825,
+      "content": "**Find examples of this language in the texts.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 844,
+      "bottomRightX": 414,
+      "bottomRightY": 862,
+      "content": "**Now do activities A and B in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 939,
+      "bottomRightX": 101,
+      "bottomRightY": 955,
+      "content": "36",
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "index": 52,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 57,
+      "topLeftY": 61,
+      "bottomRightX": 86,
+      "bottomRightY": 79,
+      "content": "6.10",
+      "type": "header"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 58,
+      "bottomRightX": 420,
+      "bottomRightY": 87,
+      "content": "## Discovering Yemen",
+      "type": "title"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 107,
+      "bottomRightX": 368,
+      "bottomRightY": 128,
+      "content": "### Talk about the picture.",
+      "type": "title"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 137,
+      "bottomRightX": 563,
+      "bottomRightY": 172,
+      "content": "Describe what you can see - first the two four-wheel-drives in the foreground and then the things further away in the distance.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 188,
+      "bottomRightX": 614,
+      "bottomRightY": 239,
+      "content": "Now say what you think about the picture. Where must it have been taken? Who do you think the people in the four-wheel-drives are? Where might they be going? Give reasons.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 247,
+      "bottomRightX": 634,
+      "bottomRightY": 795,
+      "content": "![img-81.jpeg](img-81.jpeg)",
+      "type": "image",
+      "imageId": "img-81.jpeg"
+    },
+    {
+      "topLeftX": 213,
+      "topLeftY": 840,
+      "bottomRightX": 484,
+      "bottomRightY": 858,
+      "content": "Now do activities A to B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 941,
+      "bottomRightX": 101,
+      "bottomRightY": 956,
+      "content": "48",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 975,
+      "bottomRightX": 126,
+      "bottomRightY": 1005,
+      "content": "![A small circular logo with a stylized 'A' inside.]()",
+      "type": "footer"
+    }
+  ]
+}

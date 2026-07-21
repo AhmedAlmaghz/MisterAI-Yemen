@@ -1,0 +1,235 @@
+{
+  "index": 8,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 58,
+      "topLeftY": 61,
+      "bottomRightX": 84,
+      "bottomRightY": 79,
+      "content": "1.5",
+      "type": "header"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 61,
+      "bottomRightX": 466,
+      "bottomRightY": 88,
+      "content": "# Language review 1",
+      "type": "title"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 108,
+      "bottomRightX": 214,
+      "bottomRightY": 129,
+      "content": "## 1 Comparison",
+      "type": "title"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 138,
+      "bottomRightX": 605,
+      "bottomRightY": 172,
+      "content": "- • Comparative and superlative forms of adjectives\nThe most common way to compare things is to use these forms of the adjective.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 179,
+      "bottomRightX": 422,
+      "bottomRightY": 214,
+      "content": "**Examples:** Hassan is **older than** me.\nYousif is **the oldest** boy in the class.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 226,
+      "bottomRightX": 622,
+      "bottomRightY": 275,
+      "content": "- • *as*\nWe use a positive statement with *as* to say that things are equal. We use a negative statement (*as* + *not*) to show that things are not equal.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 286,
+      "bottomRightX": 489,
+      "bottomRightY": 338,
+      "content": "**Examples:** My sister is **as tall as** me.\nMy friends are **as** interested in football **as** I am.\nMy car is **not as fast as** yours.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 338,
+      "bottomRightX": 495,
+      "bottomRightY": 356,
+      "content": "**Note:** This is the same as saying: My car is *slower* than yours.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 361,
+      "bottomRightX": 619,
+      "bottomRightY": 395,
+      "content": "- • *same*\nThis word shows that things are equal. It can also be used in a negative statement.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 404,
+      "bottomRightX": 428,
+      "bottomRightY": 438,
+      "content": "**Examples:** My sister is the **same** height as me.\nMy cousin is **not the same** age as me.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 438,
+      "bottomRightX": 492,
+      "bottomRightY": 471,
+      "content": "**Note:** The word *same* is followed by a noun, not an adjective.\nThe word can also be used at the end of a sentence.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 488,
+      "bottomRightX": 432,
+      "bottomRightY": 505,
+      "content": "**Examples:** These two colours are/aren't the **same**.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 516,
+      "bottomRightX": 193,
+      "bottomRightY": 532,
+      "content": "- • *like/unlike*",
+      "type": "list"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 550,
+      "bottomRightX": 565,
+      "bottomRightY": 567,
+      "content": "The two words are not adjectives but they are used to make comparisons.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 573,
+      "bottomRightX": 565,
+      "bottomRightY": 607,
+      "content": "**Examples:** **Like my father**, I am interested in sports. **Unlike my father**,\nI am not interested in football.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 607,
+      "bottomRightX": 604,
+      "bottomRightY": 641,
+      "content": "**Note:** The underlined phrases can be used at the end of a sentence or at the beginning. In both cases, a comma separates them from the rest of the sentence.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 656,
+      "bottomRightX": 203,
+      "bottomRightY": 674,
+      "content": "## 2 Contrast",
+      "type": "title"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 685,
+      "bottomRightX": 240,
+      "bottomRightY": 701,
+      "content": "- • *however/although*",
+      "type": "list"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 701,
+      "bottomRightX": 499,
+      "bottomRightY": 718,
+      "content": "These two words can be used to give the same meaning as *but*.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 726,
+      "bottomRightX": 520,
+      "bottomRightY": 760,
+      "content": "**Examples:** **Although** he worked hard, he didn't pass his exam.\nHe worked hard. **However**, he didn't pass his exam.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 777,
+      "bottomRightX": 587,
+      "bottomRightY": 794,
+      "content": "**Note:** They contrast unexpected relationships between two actions or events.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 800,
+      "bottomRightX": 180,
+      "bottomRightY": 817,
+      "content": "- • *whereas*",
+      "type": "list"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 817,
+      "bottomRightX": 457,
+      "bottomRightY": 834,
+      "content": "This word can be used to give the same meaning as *but*.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 841,
+      "bottomRightX": 504,
+      "bottomRightY": 858,
+      "content": "**Examples:** **Whereas** Ahmed worked hard, his brother didn't.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 858,
+      "bottomRightX": 402,
+      "bottomRightY": 875,
+      "content": "**Note:** It can only be used to describe opposites.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 883,
+      "bottomRightX": 551,
+      "bottomRightY": 900,
+      "content": "**Find examples of comparison and contrast in the texts.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 913,
+      "bottomRightX": 477,
+      "bottomRightY": 933,
+      "content": "**Now do activities A, B and C in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 940,
+      "bottomRightX": 94,
+      "bottomRightY": 956,
+      "content": "4",
+      "type": "footer"
+    }
+  ]
+}

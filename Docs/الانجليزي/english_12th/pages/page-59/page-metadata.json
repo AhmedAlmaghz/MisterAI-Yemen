@@ -1,0 +1,275 @@
+{
+  "index": 58,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 249,
+      "topLeftY": 68,
+      "bottomRightX": 298,
+      "bottomRightY": 85,
+      "content": "ARTS 3",
+      "type": "header"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 94,
+      "bottomRightX": 454,
+      "bottomRightY": 120,
+      "content": "# Telford Hall Episode 1",
+      "type": "title"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 129,
+      "bottomRightX": 352,
+      "bottomRightY": 213,
+      "content": "Ahmed Hassan Al-Hadrami glanced at his new watch, a present from his parents. 'Only a quarter of an hour to go,' he thought. He was on a train to Norton College in the North of England to do a three-year course in town planning.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 213,
+      "bottomRightX": 337,
+      "bottomRightY": 293,
+      "content": "The train started to slow down. Through the window, he could see the first buildings of the town. The sky was grey and streams of rain were running down the glass. 'I hope the weather isn't always like this,' he thought.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 310,
+      "bottomRightX": 344,
+      "bottomRightY": 359,
+      "content": "Ahmed dragged his two large suitcase through the door of Telford Hall. A woman with silver hair was sitting at the reception desk.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 359,
+      "bottomRightX": 291,
+      "bottomRightY": 391,
+      "content": "'Good evening. My name's Ahmed Al-Hadrami.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 391,
+      "bottomRightX": 345,
+      "bottomRightY": 456,
+      "content": "'I'm Mrs Dale,' said the woman. 'welcome to Telford Hall. You're in room 123 on the first floor. Derek!' A tall young man with curly fair hair appeared.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 456,
+      "bottomRightX": 344,
+      "bottomRightY": 490,
+      "content": "'Hi,' said Derek. 'Derek Barker. Second-year engineering. Let me help you with your cases.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 490,
+      "bottomRightX": 299,
+      "bottomRightY": 506,
+      "content": "'Thank you very much,' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 506,
+      "bottomRightX": 344,
+      "bottomRightY": 539,
+      "content": "'Don't mention it,' replied Derek. 'See you at dinner in five minutes.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 555,
+      "bottomRightX": 337,
+      "bottomRightY": 604,
+      "content": "In the dining room, Ahmed was looking at a dish in the middle of the table. He turned to Derek.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 604,
+      "bottomRightX": 230,
+      "bottomRightY": 620,
+      "content": "'What's that?' he asked.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 620,
+      "bottomRightX": 328,
+      "bottomRightY": 653,
+      "content": "'Shepherd's pie,' replied Derek. 'Meat and onions covered with mashed potatoes.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 653,
+      "bottomRightX": 323,
+      "bottomRightY": 686,
+      "content": "Ahmed frowned. 'What kind of meat?' he asked.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 686,
+      "bottomRightX": 332,
+      "bottomRightY": 718,
+      "content": "'Beef, sometimes lamb,' said the student on his left. 'My name's Bob Wilson.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 718,
+      "bottomRightX": 318,
+      "bottomRightY": 751,
+      "content": "'Ahmed Al-Hadrami,' said Ahmed. They shook hands.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 751,
+      "bottomRightX": 348,
+      "bottomRightY": 801,
+      "content": "'Look,' said Derek, 'you're both new. Why don't I show you around the town tomorrow? It's quite interesting.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 801,
+      "bottomRightX": 245,
+      "bottomRightY": 818,
+      "content": "'Thank you,' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 818,
+      "bottomRightX": 334,
+      "bottomRightY": 867,
+      "content": "'Yes, thank you,' said Bob. Oh, by the way, Ahmed, I'm doing town planning. What about you?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 882,
+      "bottomRightX": 340,
+      "bottomRightY": 932,
+      "content": "After dinner, Ahmed went up to his room. He was tired. He unpacked, then lay on his bed and looked around. It had been a long day. He",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 129,
+      "bottomRightX": 620,
+      "bottomRightY": 195,
+      "content": "had flown all the away to England and found Telford Hall. He had met Bob, Derek and Mrs Dale. And he had found out what shepherd's pie was. 'So far, so good,' he thought.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 213,
+      "bottomRightX": 629,
+      "bottomRightY": 325,
+      "content": "After one week at Norton, Ahmed was starting to feel at home. Derek had shown him and Bob Wilson around the town and he had found out a lot himself. He had strolled down narrow streets on old stone pavements. Their names told the history of the town: Mill Street, Silk Street, Canal Street, weaver's Square, Loom Hill ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 342,
+      "bottomRightX": 612,
+      "bottomRightY": 391,
+      "content": "As part of their town planning curse, Bob and Ahmed had a lecture every Wednesday on the development of Norton.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 391,
+      "bottomRightX": 630,
+      "bottomRightY": 571,
+      "content": "'Towards the end of the 18th century,' the lecturer said. 'coal was discovered nearby and very quickly Norton changed from an agricultural market town to an industrial centre. The small water-powered factories in the hills closed one by one and new factories opened in the town. And for your assignment, I want you to fill in these questionnaires. You need to go out into the country and find out about those old factories, such as when they closed and how many people worked in them.' The lecture ended.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 385,
+      "topLeftY": 571,
+      "bottomRightX": 624,
+      "bottomRightY": 589,
+      "content": "'Now I have to buy a car,' Ahmed said to Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 385,
+      "topLeftY": 589,
+      "bottomRightX": 552,
+      "bottomRightY": 605,
+      "content": "'What!' exclaimed Bob. 'Why?'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 605,
+      "bottomRightX": 609,
+      "bottomRightY": 637,
+      "content": "'How else can we get out into the country?' asked Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 653,
+      "bottomRightX": 585,
+      "bottomRightY": 686,
+      "content": "'And that's my final offer,' said the car salesman.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 686,
+      "bottomRightX": 622,
+      "bottomRightY": 768,
+      "content": "Ahmed and Bob walked around the car again. It was a black London taxi, about ten years old, but in good condition. Ahmed had wanted one ever since he had seen a programme about London on television.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 372,
+      "topLeftY": 768,
+      "bottomRightX": 602,
+      "bottomRightY": 801,
+      "content": "'Done,' said Ahmed. The next day, he and Bob drove into the country.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 829,
+      "bottomRightX": 437,
+      "bottomRightY": 844,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 845,
+      "bottomRightX": 614,
+      "bottomRightY": 912,
+      "content": "- What have you learned from the story about England and English student life?\n- How is life in England different from life in your own country?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 938,
+      "bottomRightX": 105,
+      "bottomRightY": 954,
+      "content": "53",
+      "type": "footer"
+    }
+  ]
+}

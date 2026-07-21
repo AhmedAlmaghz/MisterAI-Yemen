@@ -1,0 +1,255 @@
+{
+  "index": 77,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 223,
+      "topLeftY": 74,
+      "bottomRightX": 294,
+      "bottomRightY": 90,
+      "content": "SCIENCE 8",
+      "type": "header"
+    },
+    {
+      "topLeftX": 215,
+      "topLeftY": 107,
+      "bottomRightX": 497,
+      "bottomRightY": 135,
+      "content": "# Internal combustion engine",
+      "type": "title"
+    },
+    {
+      "topLeftX": 215,
+      "topLeftY": 140,
+      "bottomRightX": 620,
+      "bottomRightY": 225,
+      "content": "When you turn the key in the ignition of a car, a lorry, a motor cycle or any other petrol-powered vehicle, you switch on the electrical circuit. Turn it again and you can start the engine. But what happens inside the engine? What is the sequence of events? These and other questions can be answered by explaining the sequence in one cylinder in step-by-step detail:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 251,
+      "bottomRightX": 231,
+      "bottomRightY": 274,
+      "content": "# Action",
+      "type": "title"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 275,
+      "bottomRightX": 414,
+      "bottomRightY": 402,
+      "content": "![img-123.jpeg](img-123.jpeg)",
+      "type": "image",
+      "imageId": "img-123.jpeg"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 284,
+      "bottomRightX": 232,
+      "bottomRightY": 304,
+      "content": "Turning the ignition key",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 333,
+      "bottomRightX": 220,
+      "bottomRightY": 351,
+      "content": "Piston moves down A",
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 409,
+      "bottomRightX": 414,
+      "bottomRightY": 533,
+      "content": "![img-124.jpeg](img-124.jpeg)",
+      "type": "image",
+      "imageId": "img-124.jpeg"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 448,
+      "bottomRightX": 207,
+      "bottomRightY": 480,
+      "content": "Piston at bottom of stroke",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 497,
+      "bottomRightX": 177,
+      "bottomRightY": 512,
+      "content": "Piston rises B",
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 542,
+      "bottomRightX": 414,
+      "bottomRightY": 666,
+      "content": "![img-125.jpeg](img-125.jpeg)",
+      "type": "image",
+      "imageId": "img-125.jpeg"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 545,
+      "bottomRightX": 211,
+      "bottomRightY": 578,
+      "content": "Spark plug provides ignition C",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 626,
+      "bottomRightX": 198,
+      "bottomRightY": 644,
+      "content": "Mixture explodes",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 659,
+      "bottomRightX": 209,
+      "bottomRightY": 677,
+      "content": "Piston rises again D",
+      "type": "text"
+    },
+    {
+      "topLeftX": 302,
+      "topLeftY": 677,
+      "bottomRightX": 414,
+      "bottomRightY": 801,
+      "content": "![img-126.jpeg](img-126.jpeg)",
+      "type": "image",
+      "imageId": "img-126.jpeg"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 708,
+      "bottomRightX": 230,
+      "bottomRightY": 727,
+      "content": "Piston at top of cylinder",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 805,
+      "bottomRightX": 227,
+      "bottomRightY": 823,
+      "content": "This cycle is known as:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 830,
+      "bottomRightX": 595,
+      "bottomRightY": 852,
+      "content": "INDUCTION - COMPRESSION - IGNITION - EXHAUST",
+      "type": "text"
+    },
+    {
+      "topLeftX": 491,
+      "topLeftY": 251,
+      "bottomRightX": 552,
+      "bottomRightY": 274,
+      "content": "# Result",
+      "type": "title"
+    },
+    {
+      "topLeftX": 427,
+      "topLeftY": 284,
+      "bottomRightX": 607,
+      "bottomRightY": 319,
+      "content": "The starter motor turns the engine. The piston moves up and down.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 426,
+      "topLeftY": 333,
+      "bottomRightX": 606,
+      "bottomRightY": 415,
+      "content": "Petrol and air are sucked in through the open inlet valve at the top of the cylinder. The air and petrol mixture is controlled by the carburettor.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 427,
+      "topLeftY": 447,
+      "bottomRightX": 581,
+      "bottomRightY": 481,
+      "content": "The cylinder is full of air and petrol.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 427,
+      "topLeftY": 496,
+      "bottomRightX": 557,
+      "bottomRightY": 528,
+      "content": "Air and petrol mixture is compressed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 426,
+      "topLeftY": 544,
+      "bottomRightX": 594,
+      "bottomRightY": 609,
+      "content": "At the top of the cylinder is the spark plug. This provides the electric spark that ignites the mixture.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 427,
+      "topLeftY": 625,
+      "bottomRightX": 567,
+      "bottomRightY": 643,
+      "content": "The piston is forced down.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 426,
+      "topLeftY": 658,
+      "bottomRightX": 610,
+      "bottomRightY": 691,
+      "content": "The burnt mixture is pushed out of the exhaust valve.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 426,
+      "topLeftY": 707,
+      "bottomRightX": 613,
+      "bottomRightY": 741,
+      "content": "The inlet valve opens again and the cycle is repeated ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 366,
+      "topLeftY": 862,
+      "bottomRightX": 426,
+      "bottomRightY": 876,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 367,
+      "topLeftY": 878,
+      "bottomRightX": 598,
+      "bottomRightY": 943,
+      "content": "- The internal combustion engine was invented at the end of the last century. We are now at the end of the 20th century. Is it time for a new source of power?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 617,
+      "topLeftY": 933,
+      "bottomRightX": 631,
+      "bottomRightY": 947,
+      "content": "72",
+      "type": "footer"
+    }
+  ]
+}

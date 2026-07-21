@@ -1,0 +1,142 @@
+{
+  "index": 72,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 232,
+      "topLeftY": 64,
+      "bottomRightX": 304,
+      "bottomRightY": 82,
+      "content": "SCIENCE 3",
+      "type": "header"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 99,
+      "bottomRightX": 282,
+      "bottomRightY": 125,
+      "content": "# Light",
+      "type": "title"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 138,
+      "bottomRightX": 284,
+      "bottomRightY": 154,
+      "content": "# Definition",
+      "type": "title"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 154,
+      "bottomRightX": 622,
+      "bottomRightY": 237,
+      "content": "Light is a form of energy. Over the years, physicists have had different ideas about how light behaves. First some said it acts like a stream of particles. Later others observed that light acts like a wave that can travel through a vacuum, such as outer space. Most recently, the quantum theory has stated that it is a combination of both.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 256,
+      "bottomRightX": 175,
+      "bottomRightY": 271,
+      "content": "# Reflection",
+      "type": "title"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 272,
+      "bottomRightX": 356,
+      "bottomRightY": 486,
+      "content": "We see something when an object emits light, reflects light like a mirror, or changes light passing through it. We see most things by reflection. When you look at your desk, what you really see is light reflected from the desk. How much light is reflected depends on the surface that the light hits. A smooth white surface reflects more light than a rough black one. On a smooth surface, the angle at which light hits it is the same as the angle at which it is reflected. On a rough surface, these angles are different because the surface scatters the light.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 256,
+      "bottomRightX": 619,
+      "bottomRightY": 482,
+      "content": "![img-107.jpeg](img-107.jpeg)",
+      "type": "image",
+      "imageId": "img-107.jpeg"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 518,
+      "bottomRightX": 177,
+      "bottomRightY": 533,
+      "content": "# Refraction",
+      "type": "title"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 535,
+      "bottomRightX": 359,
+      "bottomRightY": 633,
+      "content": "Put a spoon at an angle in a glass of water. Stand back and look at it. The spoon appears to bend or split into two parts. This happens because light waves bend when they pass from one transparent medium to another. This effect is called refraction.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 634,
+      "bottomRightX": 363,
+      "bottomRightY": 701,
+      "content": "Refraction is made use of most commonly in *lenses*. Lenses are specially-shaped pieces of glass that refract light exactly. There two types of lenses.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 115,
+      "topLeftY": 701,
+      "bottomRightX": 207,
+      "bottomRightY": 898,
+      "content": "A convex lens is thicker in the middle than at the edges and can make objects look larger. A concave lens is thinner in the middle than at the edges and makes objects look smaller.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 689,
+      "bottomRightX": 362,
+      "bottomRightY": 922,
+      "content": "![img-108.jpeg](img-108.jpeg)",
+      "type": "image",
+      "imageId": "img-108.jpeg"
+    },
+    {
+      "topLeftX": 384,
+      "topLeftY": 515,
+      "bottomRightX": 632,
+      "bottomRightY": 836,
+      "content": "![img-109.jpeg](img-109.jpeg)",
+      "type": "image",
+      "imageId": "img-109.jpeg"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 847,
+      "bottomRightX": 454,
+      "bottomRightY": 862,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 863,
+      "bottomRightX": 617,
+      "bottomRightY": 912,
+      "content": "- What is our main source of natural light?\n- When does a raindrop act like a prism?\n- When do we use lenses?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 938,
+      "bottomRightX": 103,
+      "bottomRightY": 955,
+      "content": "67",
+      "type": "footer"
+    }
+  ]
+}

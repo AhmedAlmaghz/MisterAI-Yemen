@@ -1,0 +1,108 @@
+{
+  "index": 59,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 224,
+      "topLeftY": 62,
+      "bottomRightX": 277,
+      "bottomRightY": 79,
+      "content": "ARTS 4",
+      "type": "header"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 108,
+      "bottomRightX": 536,
+      "bottomRightY": 137,
+      "content": "## A famous play by Shakespeare",
+      "type": "title"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 145,
+      "bottomRightX": 602,
+      "bottomRightY": 194,
+      "content": "The story of a play is called the plot. The people in the play are called the characters. William Shakespeare wrote 37 plays - tragedies, comedies and histories. Which kind is this play?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 281,
+      "topLeftY": 239,
+      "bottomRightX": 414,
+      "bottomRightY": 276,
+      "content": "### *Hamlet*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 288,
+      "bottomRightX": 328,
+      "bottomRightY": 511,
+      "content": "This play is about murder and revenge. Hamlet is Prince of Denmark. His father, the king, dies. A short time later, Gertrude, Hamlet's mother, marries again. She marries Claudius, Hamlet's uncle, who becomes the new king. Hamlet is angry at his quick marriage. Then the ghost of the old king appears to Hamlet and tells him that Claudius killed him by poison. He asks his son to revenge his murder. Form that time on, Hamlet can think of only one thing - killing Claudius.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 512,
+      "bottomRightX": 330,
+      "bottomRightY": 647,
+      "content": "Polonius is an adviser to the king. He has a daughter, Ophelia. She loves Hamlet, but she finds that he has changed. She does not know why this has happened, but she believes that she has lost his love. Then, by accident, Hamlet kills Polonius. This is too much for Ophelia. She goes mad, falls into a river and drowns.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 648,
+      "bottomRightX": 325,
+      "bottomRightY": 833,
+      "content": "Laertes, Ophelia's brother, blames Hamlet for the deaths of his father and his sister. He decides to kill Hamlet. He gets help from Claudius, who also wants Hamlet dead. A sword fight is arranged between Hamlet and Laertes. It is to be an exhibition only, with the points of the swords covered so that nobody can get hurt. However, Laertes leaves his sword uncovered and puts poison on the point. The fight begins, with Gertrude and",
+      "type": "text"
+    },
+    {
+      "topLeftX": 356,
+      "topLeftY": 292,
+      "bottomRightX": 599,
+      "bottomRightY": 605,
+      "content": "![img-85.jpeg](img-85.jpeg)",
+      "type": "image",
+      "imageId": "img-85.jpeg"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 609,
+      "bottomRightX": 592,
+      "bottomRightY": 825,
+      "content": "Claudius watching. Claudius has prepared a drink for Hamlet with poison in it in case Laertes fails. When Laertes cuts Hamlet with his sword, Hamlet is surprised. He manages to knock Laertes' sword from his hand and exchange swords. Then he stabs Laertes, who falls dying. In the meantime, before Claudius can stop her, Gertrude takes some of Hamlet's drink and dies. The dying Laertes tells Hamlet everything. Then Hamlet turns and kills Claudius. Soon after, Hamlet dies from the poisoned sword.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 871,
+      "bottomRightX": 426,
+      "bottomRightY": 886,
+      "content": "#### Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 887,
+      "bottomRightX": 513,
+      "bottomRightY": 904,
+      "content": "- Was Hamlet good or bad?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 621,
+      "topLeftY": 941,
+      "bottomRightX": 639,
+      "bottomRightY": 956,
+      "content": "54",
+      "type": "footer"
+    }
+  ]
+}

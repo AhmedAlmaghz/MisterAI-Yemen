@@ -1,0 +1,84 @@
+{
+  "index": 46,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 69,
+      "bottomRightX": 84,
+      "bottomRightY": 86,
+      "content": "6.2",
+      "type": "header"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 57,
+      "bottomRightX": 344,
+      "bottomRightY": 85,
+      "content": "## A lucky escape",
+      "type": "title"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 95,
+      "bottomRightX": 580,
+      "bottomRightY": 150,
+      "content": "Look at the picture. Then describe it using words that you collected in your Workbook in the last lesson and the language below. Start with the things furthest away.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 158,
+      "bottomRightX": 443,
+      "bottomRightY": 211,
+      "content": "In the distance, you can see ...\nNearer us, there's ...\nIn the foreground, there are ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 231,
+      "bottomRightX": 605,
+      "bottomRightY": 269,
+      "content": "Now think about the accident. First choose and read out the correct headline from page 41. Then discuss these questions:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 197,
+      "topLeftY": 285,
+      "bottomRightX": 431,
+      "bottomRightY": 337,
+      "content": "- What must have/may have happened?\n- What is happening now?\n- What is probably going to happen next?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 355,
+      "bottomRightX": 637,
+      "bottomRightY": 882,
+      "content": "![img-73.jpeg](img-73.jpeg)",
+      "type": "image",
+      "imageId": "img-73.jpeg"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 886,
+      "bottomRightX": 479,
+      "bottomRightY": 904,
+      "content": "Now do activities A and D in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 941,
+      "bottomRightX": 98,
+      "bottomRightY": 956,
+      "content": "42",
+      "type": "footer"
+    }
+  ]
+}

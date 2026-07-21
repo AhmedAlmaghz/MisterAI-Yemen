@@ -1,0 +1,160 @@
+{
+  "index": 75,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 252,
+      "topLeftY": 67,
+      "bottomRightX": 324,
+      "bottomRightY": 84,
+      "content": "SCIENCE 6",
+      "type": "header"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 86,
+      "bottomRightX": 226,
+      "bottomRightY": 270,
+      "content": "![img-115.jpeg](img-115.jpeg)",
+      "type": "image",
+      "imageId": "img-115.jpeg"
+    },
+    {
+      "topLeftX": 510,
+      "topLeftY": 88,
+      "bottomRightX": 638,
+      "bottomRightY": 273,
+      "content": "![img-116.jpeg](img-116.jpeg)",
+      "type": "image",
+      "imageId": "img-116.jpeg"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 107,
+      "bottomRightX": 379,
+      "bottomRightY": 130,
+      "content": "# Vaccinations",
+      "type": "title"
+    },
+    {
+      "topLeftX": 244,
+      "topLeftY": 147,
+      "bottomRightX": 496,
+      "bottomRightY": 274,
+      "content": "Before the late 18th century, thousands of people died every year from such diseases as smallpox, typhoid and cholera. Doctors tried unsuccessfully to treat patients with these diseases while scientists struggled to find suitable cures. The big breakthrough came from an unexpected source: an unknown country doctor in England.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 295,
+      "bottomRightX": 211,
+      "bottomRightY": 325,
+      "content": "Dr Edward Jenner was",
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 303,
+      "bottomRightX": 358,
+      "bottomRightY": 499,
+      "content": "![img-117.jpeg](img-117.jpeg)",
+      "type": "image",
+      "imageId": "img-117.jpeg"
+    },
+    {
+      "topLeftX": 496,
+      "topLeftY": 303,
+      "bottomRightX": 625,
+      "bottomRightY": 482,
+      "content": "![img-118.jpeg](img-118.jpeg)",
+      "type": "image",
+      "imageId": "img-118.jpeg"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 328,
+      "bottomRightX": 203,
+      "bottomRightY": 499,
+      "content": "experimenting with ways of vaccinating against smallpox when he noticed that people working with cows did not suffer the disease. On May 14th, 1796, Jenner",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 501,
+      "bottomRightX": 343,
+      "bottomRightY": 625,
+      "content": "successfully used the first vaccine against smallpox to immunize a patient. The word vaccine comes from the Latin cow, because Jenner's vaccine was developed from cowpox, a disease similar to smallpox but only found in cattle. Jenner's work with a cowpox vaccine was the first scientific attempt to control a disease by immunization.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 295,
+      "bottomRightX": 485,
+      "bottomRightY": 327,
+      "content": "A century later, the next significant",
+      "type": "text"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 328,
+      "bottomRightX": 494,
+      "bottomRightY": 453,
+      "content": "development was made by a French chemist, Dr Louis Pasteur. He developed Jenner's work and showed that diseases are spread by germs.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 454,
+      "bottomRightX": 622,
+      "bottomRightY": 610,
+      "content": "He also proved that vaccination using a very weak form of the disease could lead to immunity. Pasteur's breakthrough came in 1885 when he treated a boy who had been bitten by a rabid dog. Although Pasteur was successful, many other doctors were against the idea of vaccination. They felt that it was dangerous. They were soon proved wrong, and by the 20th century vaccines were commonplace.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 655,
+      "bottomRightX": 333,
+      "bottomRightY": 929,
+      "content": "AIDS is one of the most feared diseases in history. Millions of dollars are being spent on research into developing a vaccine against AIDS. Scientists think that AIDS developed from the blood of monkeys in Central Africa. The first cases of AIDS in humans were diagnosed in the early 1970s. Once AIDS had infected people, transmission around the world was rapid. Modern drugs have helped with some aspects of the illness, but they do not provide a cure. The only long-term hope is in the development of a vaccine. We need the modern-day equivalents of scientists like Jenner and Pasteur.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 687,
+      "bottomRightX": 616,
+      "bottomRightY": 876,
+      "content": "![img-119.jpeg](img-119.jpeg)",
+      "type": "image",
+      "imageId": "img-119.jpeg"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 887,
+      "bottomRightX": 437,
+      "bottomRightY": 901,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 377,
+      "topLeftY": 903,
+      "bottomRightX": 596,
+      "bottomRightY": 935,
+      "content": "- Is it right to introduce a disease - even a weak form - into a person's body?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 612,
+      "topLeftY": 941,
+      "bottomRightX": 627,
+      "bottomRightY": 955,
+      "content": "70",
+      "type": "footer"
+    }
+  ]
+}

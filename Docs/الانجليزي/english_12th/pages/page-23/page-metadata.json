@@ -1,0 +1,201 @@
+{
+  "index": 22,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 61,
+      "bottomRightX": 84,
+      "bottomRightY": 78,
+      "content": "3.3",
+      "type": "header"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 61,
+      "bottomRightX": 455,
+      "bottomRightY": 88,
+      "content": "## Thinking about the future",
+      "type": "title"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 100,
+      "bottomRightX": 588,
+      "bottomRightY": 154,
+      "content": "Read about six people in their last year at school. What are they good at? What are their interests? What are they like? Fill in the table in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 208,
+      "bottomRightX": 208,
+      "bottomRightY": 363,
+      "content": "![img-24.jpeg](img-24.jpeg)",
+      "type": "image",
+      "imageId": "img-24.jpeg"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 204,
+      "bottomRightX": 337,
+      "bottomRightY": 378,
+      "content": "Patrick's ambition after leaving school is to become a doctor. However, he is not very good at Chemistry or Biology. His best subject is Mathematics. For the past year he has been going to evening classes in first-aid. He is adventurous and when he can, he goes underwater swimming.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 192,
+      "bottomRightX": 483,
+      "bottomRightY": 339,
+      "content": "![img-25.jpeg](img-25.jpeg)",
+      "type": "image",
+      "imageId": "img-25.jpeg"
+    },
+    {
+      "topLeftX": 487,
+      "topLeftY": 184,
+      "bottomRightX": 614,
+      "bottomRightY": 344,
+      "content": "Diana is very efficient and likes organizing things. Since the beginning of the year she has been planning all the class trips and activities. She writes all the letters and notices on her computer. Her best subject is English, but she enjoys Mathematics more.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 341,
+      "bottomRightX": 614,
+      "bottomRightY": 395,
+      "content": "At the weekend she goes sailing and she is the secretary of the local sailing club. She would like to go into Government Administration.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 407,
+      "bottomRightX": 198,
+      "bottomRightY": 559,
+      "content": "![img-26.jpeg](img-26.jpeg)",
+      "type": "image",
+      "imageId": "img-26.jpeg"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 403,
+      "bottomRightX": 331,
+      "bottomRightY": 561,
+      "content": "Andrew is not very good at any subjects at school although he will probably pass his final examinations. He has a driving licence and every weekend he drives out into the country and then walks for hours. He is very interested in nature and has been",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 565,
+      "bottomRightX": 321,
+      "bottomRightY": 616,
+      "content": "reading about trees, plants and flowers for almost two years. He would like to work in the country. He is very hard-working and gets on well with people.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 424,
+      "bottomRightX": 483,
+      "bottomRightY": 573,
+      "content": "![img-27.jpeg](img-27.jpeg)",
+      "type": "image",
+      "imageId": "img-27.jpeg"
+    },
+    {
+      "topLeftX": 487,
+      "topLeftY": 424,
+      "bottomRightX": 619,
+      "bottomRightY": 582,
+      "content": "Justin has two very different hobbies: driving his four-wheel-drive car in the country, and cooking. He spends most Saturdays driving along muddy roads. On Sundays he cooks all the meals for the whole family. He has been doing this since he was 12. His best",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 582,
+      "bottomRightX": 610,
+      "bottomRightY": 622,
+      "content": "subjects are Mathematics and Sport. Both his parents are teachers, but he would like to go into business.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 640,
+      "bottomRightX": 210,
+      "bottomRightY": 787,
+      "content": "![img-28.jpeg](img-28.jpeg)",
+      "type": "image",
+      "imageId": "img-28.jpeg"
+    },
+    {
+      "topLeftX": 222,
+      "topLeftY": 638,
+      "bottomRightX": 349,
+      "bottomRightY": 794,
+      "content": "Clare has been collecting folk music CDs for three years. She now has 150. She has lots of friends and she likes playing her music in them. One day she would like to work in radio or television. At school her best subjects are History and Music. She has a good",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 790,
+      "bottomRightX": 330,
+      "bottomRightY": 822,
+      "content": "speaking voice and often acts in the plays put on by the school drama group.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 634,
+      "bottomRightX": 473,
+      "bottomRightY": 784,
+      "content": "![img-29.jpeg](img-29.jpeg)",
+      "type": "image",
+      "imageId": "img-29.jpeg"
+    },
+    {
+      "topLeftX": 476,
+      "topLeftY": 634,
+      "bottomRightX": 596,
+      "bottomRightY": 794,
+      "content": "Fareeda is a very helpful young woman and is very popular with the others in her class. She has been driving for six months and at the weekend she takes old people shopping in her parents' car. At school she is excellent at History, but she does not want to go to",
+      "type": "text"
+    },
+    {
+      "topLeftX": 364,
+      "topLeftY": 786,
+      "bottomRightX": 596,
+      "bottomRightY": 820,
+      "content": "college. She wants to help other people in some way, perhaps as social worker.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 873,
+      "bottomRightX": 504,
+      "bottomRightY": 910,
+      "content": "Match the six people with the work experience opportunities described on page 17.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 926,
+      "bottomRightX": 429,
+      "bottomRightY": 946,
+      "content": "Now do activity B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 941,
+      "bottomRightX": 96,
+      "bottomRightY": 956,
+      "content": "18",
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "index": 19,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 235,
+      "topLeftY": 61,
+      "bottomRightX": 481,
+      "bottomRightY": 92,
+      "content": "# Language review 4",
+      "type": "title"
+    },
+    {
+      "topLeftX": 635,
+      "topLeftY": 62,
+      "bottomRightX": 664,
+      "bottomRightY": 78,
+      "content": "2.10",
+      "type": "header"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 126,
+      "bottomRightX": 366,
+      "bottomRightY": 147,
+      "content": "## 1 *Use of the Present perfect tense*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 158,
+      "bottomRightX": 490,
+      "bottomRightY": 178,
+      "content": "Use the Present perfect tense to describe the present situation.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 188,
+      "bottomRightX": 609,
+      "bottomRightY": 206,
+      "content": "**Example:** The worst hurricane in living memory **has caused** terrible damage.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 226,
+      "bottomRightX": 338,
+      "bottomRightY": 246,
+      "content": "## 2 *Use of the Past simple tense*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 260,
+      "bottomRightX": 496,
+      "bottomRightY": 297,
+      "content": "Use the Past simple tense to describe something that happened at a known time. Use adverbs to say when the event happened.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 309,
+      "bottomRightX": 483,
+      "bottomRightY": 327,
+      "content": "**Example:** The storm **hit** the area late on Tuesday evening.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 343,
+      "bottomRightX": 362,
+      "bottomRightY": 364,
+      "content": "## 3 *Prepositions in relative clauses*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 376,
+      "bottomRightX": 415,
+      "bottomRightY": 397,
+      "content": "- * Relative clauses giving necessary information",
+      "type": "list"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 409,
+      "bottomRightX": 441,
+      "bottomRightY": 448,
+      "content": "**Example:** The house is very old. I used to live in it.\nThe house **I used to live in** is very old.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 448,
+      "bottomRightX": 455,
+      "bottomRightY": 466,
+      "content": "**Note:** The preposition is at the end of the relative clause.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 484,
+      "bottomRightX": 421,
+      "bottomRightY": 504,
+      "content": "- * Relative clauses giving additional information.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 517,
+      "bottomRightX": 625,
+      "bottomRightY": 593,
+      "content": "**Example:** Sana'a Secondary School is one of the biggest schools in the country.\nI went to it when I was younger.\nSana'a Secondary School, **to which I went when I was younger**,\nis one of the biggest schools in the country.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 593,
+      "bottomRightX": 586,
+      "bottomRightY": 630,
+      "content": "**Note:** The preposition is at the beginning of the relative clause. The clause is written between commas.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 649,
+      "bottomRightX": 360,
+      "bottomRightY": 669,
+      "content": "## 4 *Adverbs and adverbial phrases*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 683,
+      "bottomRightX": 303,
+      "bottomRightY": 701,
+      "content": "These tell us more about actions.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 710,
+      "bottomRightX": 583,
+      "bottomRightY": 767,
+      "content": "**Examples:** (How) People stood around **silently**.\n(Where) **In the countryside** whole villages have disappeared.\n(When) The storm hit the area **late on Tuesday evening**.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 774,
+      "bottomRightX": 607,
+      "bottomRightY": 794,
+      "content": "**Find other examples of the above language points in the texts.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 808,
+      "bottomRightX": 470,
+      "bottomRightY": 828,
+      "content": "**Now do activities A, B and C in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 622,
+      "topLeftY": 940,
+      "bottomRightX": 638,
+      "bottomRightY": 957,
+      "content": "15",
+      "type": "footer"
+    }
+  ]
+}

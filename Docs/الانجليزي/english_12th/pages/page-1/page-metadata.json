@@ -1,0 +1,84 @@
+{
+  "index": 0,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 73,
+      "topLeftY": 87,
+      "bottomRightX": 255,
+      "bottomRightY": 108,
+      "content": "**Republic Of Yemen**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 113,
+      "bottomRightX": 246,
+      "bottomRightY": 158,
+      "content": "Ministry Of Education\nand Scientific Research",
+      "type": "text"
+    },
+    {
+      "topLeftX": 495,
+      "topLeftY": 85,
+      "bottomRightX": 630,
+      "bottomRightY": 164,
+      "content": "![img-0.jpeg](img-0.jpeg)",
+      "type": "image",
+      "imageId": "img-0.jpeg"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 357,
+      "bottomRightX": 618,
+      "bottomRightY": 416,
+      "content": "# **ENGLISH COURSE**",
+      "type": "title"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 560,
+      "bottomRightX": 506,
+      "bottomRightY": 608,
+      "content": "## **Pupil’s Book 6**",
+      "type": "title"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 771,
+      "bottomRightX": 496,
+      "bottomRightY": 800,
+      "content": "**All copyrights reserved**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 811,
+      "bottomRightX": 376,
+      "bottomRightY": 839,
+      "content": "**by**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 845,
+      "bottomRightX": 599,
+      "bottomRightY": 872,
+      "content": "**Ministry Of Education and Scientific Research**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 893,
+      "bottomRightX": 428,
+      "bottomRightY": 916,
+      "content": "**2026 - 1447**",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "index": 50,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 61,
+      "bottomRightX": 84,
+      "bottomRightY": 78,
+      "content": "6.7",
+      "type": "header"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 58,
+      "bottomRightX": 469,
+      "bottomRightY": 87,
+      "content": "## Working in public service",
+      "type": "title"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 96,
+      "bottomRightX": 594,
+      "bottomRightY": 151,
+      "content": "Read about three people who work in public service. Which one do you already know? What is her job? What words and information help you?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 185,
+      "bottomRightX": 418,
+      "bottomRightY": 304,
+      "content": "I grew up here when the war was terrible. I hated it. The city centre was destroyed. And that was when I decided I had to help make this place the Arab World's most beautiful city and most important business centre again. That's what I've been doing since I finished college, and we've done a lot. I really love helping to make life better for everyone here.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 471,
+      "topLeftY": 163,
+      "bottomRightX": 636,
+      "bottomRightY": 342,
+      "content": "![img-77.jpeg](img-77.jpeg)",
+      "type": "image",
+      "imageId": "img-77.jpeg"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 345,
+      "bottomRightX": 271,
+      "bottomRightY": 537,
+      "content": "![img-78.jpeg](img-78.jpeg)",
+      "type": "image",
+      "imageId": "img-78.jpeg"
+    },
+    {
+      "topLeftX": 330,
+      "topLeftY": 382,
+      "bottomRightX": 624,
+      "bottomRightY": 500,
+      "content": "Even when I was young, I liked trying to help people with their problems, so my job is just right for me. I've been doing it now for three very busy years. There's a lot to do here. It's the main entry port for Hajjis from all over the Moslem World, so there are many nationalities and lots of people with cultural and social problems.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 573,
+      "bottomRightX": 367,
+      "bottomRightY": 692,
+      "content": "Before, there was no health care in the area. I've been working here for eight years now, and things have really improved. I visit several villages each week, and I deal with more major problems go to hospital in Hajjah. I also do a lot of health education. I feel good that we've reduced death and disease so much.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 452,
+      "topLeftY": 549,
+      "bottomRightX": 625,
+      "bottomRightY": 755,
+      "content": "![img-79.jpeg](img-79.jpeg)",
+      "type": "image",
+      "imageId": "img-79.jpeg"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 762,
+      "bottomRightX": 562,
+      "bottomRightY": 815,
+      "content": "Read about the other two people. What jobs do they do? Choose from the jobs in the box. As you read, think about the words and information that help you.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 153,
+      "topLeftY": 823,
+      "bottomRightX": 530,
+      "bottomRightY": 857,
+      "content": "customs officer district nurse English teacher, heart surgeon paramedic planning officer social worker radiographer",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 871,
+      "bottomRightX": 530,
+      "bottomRightY": 890,
+      "content": "Discuss what all these people like about their work.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 907,
+      "bottomRightX": 491,
+      "bottomRightY": 924,
+      "content": "Now do activities A, B and C in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 941,
+      "bottomRightX": 101,
+      "bottomRightY": 956,
+      "content": "46",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 992,
+      "bottomRightX": 124,
+      "bottomRightY": 1002,
+      "content": "--",
+      "type": "footer"
+    }
+  ]
+}

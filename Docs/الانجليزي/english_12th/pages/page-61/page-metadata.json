@@ -1,0 +1,196 @@
+{
+  "index": 60,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 240,
+      "topLeftY": 69,
+      "bottomRightX": 291,
+      "bottomRightY": 87,
+      "content": "ARTS 5",
+      "type": "header"
+    },
+    {
+      "topLeftX": 222,
+      "topLeftY": 105,
+      "bottomRightX": 445,
+      "bottomRightY": 134,
+      "content": "## Telford Hall Episode 2",
+      "type": "title"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 150,
+      "bottomRightX": 344,
+      "bottomRightY": 332,
+      "content": "The weeks passed. Winter was approaching and the days were getting shorter. One day, Ahmed heard the other students talking about going home for Christmas. He realized that he would soon be by himself for three weeks. Suddenly he missed home: the warm evenings walking on the beach, camping in the desert, his friends ... He wondered what his mother was cooking for the evening meal that night. He was lying on his bed looking at the ceiling when there was a knock on the door. It was Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 332,
+      "bottomRightX": 344,
+      "bottomRightY": 398,
+      "content": "'Hi, Ahmed. Listen,' he began. 'I've just been on the phone to my parents and they asked me to invite you to spend Christmas with us. Would you like to come?'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 412,
+      "bottomRightX": 342,
+      "bottomRightY": 577,
+      "content": "'Dear Khaled,' Ahmed began. He was sitting in the lounge at Telford Hall, writing a letter to his brother, Khaled. Ahmed wanted to tell Khaled all about Christmas, Bob's parents lived near Liverpool and had taken him to lots of places in the city and the surrounding countryside. On Christmas Day, Bob's older sister, Jenny, had come with her husband, Graham, and their two children. It had been strange to hear the children call Bob 'Uncle.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 593,
+      "bottomRightX": 327,
+      "bottomRightY": 626,
+      "content": "One morning, Ahmed said to Bob, 'You're eating in my room this evening.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 625,
+      "bottomRightX": 206,
+      "bottomRightY": 642,
+      "content": "'Why?' asked Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 642,
+      "bottomRightX": 311,
+      "bottomRightY": 692,
+      "content": "Ahmed explained about *Ramadan*. He explained that every Moslem fasted dawn to dusk during that month.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 692,
+      "bottomRightX": 269,
+      "bottomRightY": 708,
+      "content": "'It must be difficult,' said Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 708,
+      "bottomRightX": 334,
+      "bottomRightY": 773,
+      "content": "'It sometimes is,' answered Ahmed, 'but it's our duty. And we look forward to *Eid al-Fitr*.' 'What's that?' asked Bob. Another explanation followed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 773,
+      "bottomRightX": 327,
+      "bottomRightY": 822,
+      "content": "'Well, it's tonight. I've invited Mick, Jerry and Derek and a couple of others. You can come, can't you?'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 822,
+      "bottomRightX": 313,
+      "bottomRightY": 838,
+      "content": "'Try to keep me away!' Bob exclaimed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 853,
+      "bottomRightX": 323,
+      "bottomRightY": 887,
+      "content": "'Where do I sit?' asked Derek as he came into Ahmed's room.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 887,
+      "bottomRightX": 242,
+      "bottomRightY": 903,
+      "content": "'Anywhere,' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 903,
+      "bottomRightX": 326,
+      "bottomRightY": 920,
+      "content": "He had pushed all the furniture to one end",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 160,
+      "bottomRightX": 613,
+      "bottomRightY": 485,
+      "content": "![img-86.jpeg](img-86.jpeg)",
+      "type": "image",
+      "imageId": "img-86.jpeg"
+    },
+    {
+      "topLeftX": 424,
+      "topLeftY": 489,
+      "bottomRightX": 567,
+      "bottomRightY": 506,
+      "content": "*Christmas lights in Norton*",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 365,
+      "topLeftY": 531,
+      "bottomRightX": 604,
+      "bottomRightY": 614,
+      "content": "of his room and everybody was sitting on the floor around a brass tray his parents had sent him. It was now piled high with meat and rice. On Ahmed's desk there were two dishes of sweet pastry made with honey and nuts.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 379,
+      "topLeftY": 614,
+      "bottomRightX": 547,
+      "bottomRightY": 631,
+      "content": "'Who made all this?' asked Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 365,
+      "topLeftY": 631,
+      "bottomRightX": 612,
+      "bottomRightY": 778,
+      "content": "Ahmed explained that he had given the recipes and spices to the cooks in the kitchen of Telford Hall and spent the afternoon helping them. He played some cassettes from home and later passed around the dishes of sweet pastry. Earlier in the day, he had phoned his family to wish them a good *Eid* and he was a little sad that he was not at home. But Ahmed felt good celebrating *Eid al-Fitr* with his new friends.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 365,
+      "topLeftY": 793,
+      "bottomRightX": 613,
+      "bottomRightY": 909,
+      "content": "At the end of the first year, town planning students had to do six three-hour exam papers, one every morning and afternoon for three days. Ahmed had been studying hard and he decided to relax before the exams and take the weekend off. He wanted to visit Stratford-upon-Avon. Bob had agreed to go with him.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 938,
+      "bottomRightX": 100,
+      "bottomRightY": 954,
+      "content": "55",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 991,
+      "bottomRightX": 124,
+      "bottomRightY": 1002,
+      "content": "--",
+      "type": "footer"
+    }
+  ]
+}

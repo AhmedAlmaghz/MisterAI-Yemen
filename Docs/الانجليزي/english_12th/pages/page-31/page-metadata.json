@@ -1,0 +1,162 @@
+{
+  "index": 30,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 61,
+      "bottomRightX": 84,
+      "bottomRightY": 78,
+      "content": "4.3",
+      "type": "header"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 61,
+      "bottomRightX": 357,
+      "bottomRightY": 87,
+      "content": "## Learning to cook",
+      "type": "title"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 95,
+      "bottomRightX": 552,
+      "bottomRightY": 129,
+      "content": "James is interested in learning to cook. His mother teaches him how to make a fish curry.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 171,
+      "topLeftY": 145,
+      "bottomRightX": 562,
+      "bottomRightY": 183,
+      "content": "**Listen to the conversation. Answer the questions in Workbook activity A. Listen and repeat the conversation.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 204,
+      "bottomRightX": 204,
+      "bottomRightY": 272,
+      "content": "![img-34.jpeg](img-34.jpeg)",
+      "type": "image",
+      "imageId": "img-34.jpeg"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 208,
+      "bottomRightX": 542,
+      "bottomRightY": 260,
+      "content": "![img-35.jpeg](img-35.jpeg)",
+      "type": "image",
+      "imageId": "img-35.jpeg"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 324,
+      "bottomRightX": 132,
+      "bottomRightY": 339,
+      "content": "Ask about it",
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 390,
+      "bottomRightX": 132,
+      "bottomRightY": 404,
+      "content": "Name ingu",
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 408,
+      "bottomRightX": 151,
+      "bottomRightY": 526,
+      "content": "![img-36.jpeg](img-36.jpeg)",
+      "type": "image",
+      "imageId": "img-36.jpeg"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 593,
+      "bottomRightX": 132,
+      "bottomRightY": 606,
+      "content": "Ask about it",
+      "type": "text"
+    },
+    {
+      "topLeftX": 78,
+      "topLeftY": 611,
+      "bottomRightX": 132,
+      "bottomRightY": 624,
+      "content": "Describe me",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 647,
+      "bottomRightX": 166,
+      "bottomRightY": 712,
+      "content": "![img-37.jpeg](img-37.jpeg)",
+      "type": "image",
+      "imageId": "img-37.jpeg"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 287,
+      "bottomRightX": 630,
+      "bottomRightY": 777,
+      "content": "**James:** What are you doing, mum?  \n **Mother:** I'm making a fish curry.  \n **James:** That sounds good. And these are the ingredients?  \n **Mother:** Yes, I always prepare them before I start cooking.  \n **James:** So... that's the fish ... and the tomatoes and onions ... and that's garlic, isn't it?  \n **Mother:** Yes. Two peeled and chopped tomatoes, two chopped onions, and three crushed cloves of garlic.  \n **James:** What's that round, brown thing?  \n **Mother:** It's a *loomi* - a small, dried lime.  \n **James:** And those other things... they're spices, I suppose.  \n **Mother:** Yes, two teaspoons of *baharat* - that's a mixture of spices. And ... half a teaspoon of turmeric, half a teaspoon of chilli powder and a quarter of a teaspoon of ground ginger.  \n **James:** What's in this bowl?  \n **Mother:** Lemon juice... about one teaspoon.  \n **James:** Anything else?  \n **Mother:** Oil for frying, and, of course, salt and pepper.  \n **James:** So those are the ingredients. How do you actually cook the curry, then?  \n **Mother:** First you fry the onions and garlic. Then you add the spices and fry for a further two minutes. Next you add the tomatoes, *loomi*, lemon juice, salt and pepper. After that, you cover the mixture with water and simmer for fifteen minutes.  \n **James:** What about the fish?  \n **Mother:** While the mixture is boiling gently, you fry the pieces of fish.  \n **James:** How long for?  \n **Mother:** Until they are golden brown. Then you put the fish into the sauce and simmer for a further fifteen minutes... and that's it... fish curry. Simple, isn't it?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 527,
+      "topLeftY": 407,
+      "bottomRightX": 613,
+      "bottomRightY": 447,
+      "content": "![img-38.jpeg](img-38.jpeg)",
+      "type": "image",
+      "imageId": "img-38.jpeg"
+    },
+    {
+      "topLeftX": 452,
+      "topLeftY": 515,
+      "bottomRightX": 634,
+      "bottomRightY": 577,
+      "content": "![img-39.jpeg](img-39.jpeg)",
+      "type": "image",
+      "imageId": "img-39.jpeg"
+    },
+    {
+      "topLeftX": 269,
+      "topLeftY": 769,
+      "bottomRightX": 493,
+      "bottomRightY": 907,
+      "content": "![img-40.jpeg](img-40.jpeg)",
+      "type": "image",
+      "imageId": "img-40.jpeg"
+    },
+    {
+      "topLeftX": 172,
+      "topLeftY": 918,
+      "bottomRightX": 472,
+      "bottomRightY": 935,
+      "content": "**Now do activities B and C in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 941,
+      "bottomRightX": 98,
+      "bottomRightY": 956,
+      "content": "26",
+      "type": "footer"
+    }
+  ]
+}

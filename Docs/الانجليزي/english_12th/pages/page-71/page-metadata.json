@@ -1,0 +1,241 @@
+{
+  "index": 70,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 235,
+      "topLeftY": 65,
+      "bottomRightX": 308,
+      "bottomRightY": 81,
+      "content": "# SCIENCE 1",
+      "type": "title"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 93,
+      "bottomRightX": 409,
+      "bottomRightY": 118,
+      "content": "# Acids and alkalis",
+      "type": "title"
+    },
+    {
+      "topLeftX": 227,
+      "topLeftY": 124,
+      "bottomRightX": 292,
+      "bottomRightY": 139,
+      "content": "# Definitions",
+      "type": "title"
+    },
+    {
+      "topLeftX": 226,
+      "topLeftY": 140,
+      "bottomRightX": 633,
+      "bottomRightY": 224,
+      "content": "An acid has a sharp or sour taste. In fact the word acid comes from a Latin word that means sour. Acids corrode, or eat away at, metals and rocks. In chemistry a base is a substance that reacts with acids to produce salts. Bases that dissolve in water are called alkalis. The word alkali is from Arabic and means 'the ashes of a plant'. Acids and alkalis neutralize each other.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 243,
+      "bottomRightX": 284,
+      "bottomRightY": 277,
+      "content": "# Detecting and measuring acidity and alkalinity",
+      "type": "title"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 293,
+      "bottomRightX": 181,
+      "bottomRightY": 309,
+      "content": "# The litmus test",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 310,
+      "bottomRightX": 352,
+      "bottomRightY": 392,
+      "content": "Litmus is a vegetable dye that is used to test the acidity of solutions. Litmus paper is soaked in this dye. It is green, but when put in an acid solution, it turns red. If the solution is alkaline, it turns blue.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 409,
+      "bottomRightX": 174,
+      "bottomRightY": 425,
+      "content": "# The pH scale",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 425,
+      "bottomRightX": 360,
+      "bottomRightY": 493,
+      "content": "The strength of an acid or alkali is measured on the pH scale. This measures the concentration of hydrogen ions on a scale of 0 to 14. Low numbers show high acidity. On this scale,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 380,
+      "topLeftY": 241,
+      "bottomRightX": 623,
+      "bottomRightY": 416,
+      "content": "![img-97.jpeg](img-97.jpeg)",
+      "type": "image",
+      "imageId": "img-97.jpeg"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 427,
+      "bottomRightX": 622,
+      "bottomRightY": 496,
+      "content": "soap has a pH value of 9.5 and distilled water a value of 7, which is called a neutral pH value. A pH meter, or an indicator such as litmus paper, is used to measure pH values.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 528,
+      "bottomRightX": 289,
+      "bottomRightY": 546,
+      "content": "# Acids and alkalis in everyday life",
+      "type": "title"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 562,
+      "bottomRightX": 153,
+      "bottomRightY": 576,
+      "content": "# Acid rain",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 578,
+      "bottomRightX": 350,
+      "bottomRightY": 678,
+      "content": "The gases released by burning oil and coal and from car engines react with water in the atmosphere to produce rain that contains acid. This acid rain, with a pH value between 2.2 and 5, corrodes building materials, damages plants and pollutes lakes so that fish die.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 694,
+      "bottomRightX": 125,
+      "bottomRightY": 709,
+      "content": "# Soil",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 710,
+      "bottomRightX": 342,
+      "bottomRightY": 760,
+      "content": "Plants will not grow in soil that is very acidic or very alkaline. Most plants prefer soil with an almost neutral pH value.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 777,
+      "bottomRightX": 211,
+      "bottomRightY": 795,
+      "content": "# Wasp and bee stings",
+      "type": "title"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 803,
+      "bottomRightX": 219,
+      "bottomRightY": 929,
+      "content": "![img-98.jpeg](img-98.jpeg)",
+      "type": "image",
+      "imageId": "img-98.jpeg"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 803,
+      "bottomRightX": 348,
+      "bottomRightY": 928,
+      "content": "![img-99.jpeg](img-99.jpeg)",
+      "type": "image",
+      "imageId": "img-99.jpeg"
+    },
+    {
+      "topLeftX": 378,
+      "topLeftY": 528,
+      "bottomRightX": 468,
+      "bottomRightY": 544,
+      "content": "# Common alkalis",
+      "type": "title"
+    },
+    {
+      "topLeftX": 378,
+      "topLeftY": 546,
+      "bottomRightX": 561,
+      "bottomRightY": 603,
+      "content": "Baking powder is bicarbonate of soda.\nIts chemical formula is NaHCO3.\nLime is calcium hydroxide.\nIts chemical formula is Ca(OH)2.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 379,
+      "topLeftY": 613,
+      "bottomRightX": 461,
+      "bottomRightY": 629,
+      "content": "# Common acids",
+      "type": "title"
+    },
+    {
+      "topLeftX": 373,
+      "topLeftY": 635,
+      "bottomRightX": 528,
+      "bottomRightY": 748,
+      "content": "![img-100.jpeg](img-100.jpeg)",
+      "type": "image",
+      "imageId": "img-100.jpeg"
+    },
+    {
+      "topLeftX": 534,
+      "topLeftY": 635,
+      "bottomRightX": 617,
+      "bottomRightY": 856,
+      "content": "![img-101.jpeg](img-101.jpeg)",
+      "type": "image",
+      "imageId": "img-101.jpeg"
+    },
+    {
+      "topLeftX": 373,
+      "topLeftY": 755,
+      "bottomRightX": 528,
+      "bottomRightY": 856,
+      "content": "![img-102.jpeg](img-102.jpeg)",
+      "type": "image",
+      "imageId": "img-102.jpeg"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 866,
+      "bottomRightX": 444,
+      "bottomRightY": 879,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 383,
+      "topLeftY": 881,
+      "bottomRightX": 593,
+      "bottomRightY": 915,
+      "content": "- What other common acids and alkalis do you know?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 945,
+      "bottomRightX": 98,
+      "bottomRightY": 958,
+      "content": "65",
+      "type": "footer"
+    }
+  ]
+}

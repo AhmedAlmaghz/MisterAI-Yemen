@@ -1,0 +1,150 @@
+{
+  "index": 33,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 184,
+      "topLeftY": 64,
+      "bottomRightX": 432,
+      "bottomRightY": 90,
+      "content": "# Words and more words",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 64,
+      "bottomRightX": 656,
+      "bottomRightY": 81,
+      "content": "4.7",
+      "type": "header"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 100,
+      "bottomRightX": 524,
+      "bottomRightY": 138,
+      "content": "Read this extract from a reference book about the English language and do Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 151,
+      "bottomRightX": 538,
+      "bottomRightY": 191,
+      "content": "New words are coming into the English language almost every day. Where do these new words come from?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 212,
+      "bottomRightX": 342,
+      "bottomRightY": 349,
+      "content": "One way of creating new words to borrow or take them from other languages. English has been taking words from Latin, Greek and French for hundreds of years. French, for example, has given us some very common words, such as table, dinner and medicine. But English has borrowed from many other languages also; the list is endless.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 354,
+      "bottomRightX": 346,
+      "bottomRightY": 498,
+      "content": "![img-42.jpeg](img-42.jpeg)",
+      "type": "image",
+      "imageId": "img-42.jpeg"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 507,
+      "bottomRightX": 341,
+      "bottomRightY": 658,
+      "content": "Kayak, a kind of boat, and igloo, a house made of snow, come directly from the Eskimo language because these two objects are found only among the Eskimos, who live in the icy cold of the Arctic. Many years ago contact or meetings with Arab mathematicians brought the Arabic words algebra and zero into English. Trade with the Arab world has given English words like sugar, cotton and coffee.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 659,
+      "bottomRightX": 351,
+      "bottomRightY": 879,
+      "content": "Another way of forming new words is to add a prefix or suffix to the stem of a word that already exists. The stem of a word is the part that is common to all forms of that word, such as walk, walk (ing), walk(ed). A prefix is a group of letters that goes in front of the stem. Some common examples of prefixes are re-(remake), un-(unhappy) and mis-(misunderstand). A suffix is added to the end of a word. Examples are -able (comfortable) and -less (careless). A prefix usually changes the meaning of a word. A suffix usually changes the word into a different part of speech.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 213,
+      "bottomRightX": 608,
+      "bottomRightY": 347,
+      "content": "A third way of making new words is to combine or join together two different words to make another word. The words blue and berry can be combined to get the word blueberry. There are many berries that are blue in colour, but there is only one berry that is known as a blueberry. Other examples of words joined together are farmhouse,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 363,
+      "topLeftY": 349,
+      "bottomRightX": 461,
+      "bottomRightY": 583,
+      "content": "handbag and newspaper. Sometimes the combined word, which is called a compound, has a hyphen in it, as in air-conditioner. Sometimes it is written as two words, as in seat belt, cassette recorder and word processor.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 470,
+      "topLeftY": 350,
+      "bottomRightX": 622,
+      "bottomRightY": 583,
+      "content": "![img-43.jpeg](img-43.jpeg)",
+      "type": "image",
+      "imageId": "img-43.jpeg"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 584,
+      "bottomRightX": 613,
+      "bottomRightY": 685,
+      "content": "A fourth method of creating new words is to change the way a word is used. For example, a noun can be used as a verb, so that as well as buying some milk (noun) we can milk (verb) a cow. Other parts of speech can also be converted or changed. For example,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 363,
+      "topLeftY": 690,
+      "bottomRightX": 500,
+      "bottomRightY": 870,
+      "content": "![img-44.jpeg](img-44.jpeg)",
+      "type": "image",
+      "imageId": "img-44.jpeg"
+    },
+    {
+      "topLeftX": 502,
+      "topLeftY": 688,
+      "bottomRightX": 608,
+      "bottomRightY": 874,
+      "content": "an adjective can be used as a noun, as when a spare wheel is called a spare. Prepositions are sometimes used as verbs, as in to up the price which, of course, means to raise or increase the price.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 900,
+      "bottomRightX": 466,
+      "bottomRightY": 918,
+      "content": "Now do activities B to F in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 622,
+      "topLeftY": 944,
+      "bottomRightX": 638,
+      "bottomRightY": 958,
+      "content": "29",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 974,
+      "bottomRightX": 95,
+      "bottomRightY": 1014,
+      "content": "M",
+      "type": "footer"
+    }
+  ]
+}

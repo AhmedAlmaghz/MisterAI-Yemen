@@ -1,0 +1,148 @@
+{
+  "index": 27,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 286,
+      "topLeftY": 61,
+      "bottomRightX": 530,
+      "bottomRightY": 89,
+      "content": "# Language review 6",
+      "type": "title"
+    },
+    {
+      "topLeftX": 634,
+      "topLeftY": 61,
+      "bottomRightX": 667,
+      "bottomRightY": 79,
+      "content": "3.10",
+      "type": "header"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 123,
+      "bottomRightX": 436,
+      "bottomRightY": 143,
+      "content": "## 1 Nouns, adjectives and verbs + prepositions",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 152,
+      "bottomRightX": 572,
+      "bottomRightY": 187,
+      "content": "Some adjectives, nouns and verbs are commonly followed by prepositions.\nThese are the ones you have seen in Unit 3:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 200,
+      "bottomRightX": 523,
+      "bottomRightY": 268,
+      "content": "|  *Nouns* | *Adjectives* | *Verbs*  |\n| --- | --- | --- |\n|  training in experience of chance of | interested in grateful for | look forward to applying for  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 276,
+      "bottomRightX": 578,
+      "bottomRightY": 327,
+      "content": "**Examples:** I would like to **apply for** the job.\nI have **experience of** working with children.\n**Note:** They are always followed by either a noun or a gerund (the *-ing* form).",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 351,
+      "bottomRightX": 187,
+      "bottomRightY": 368,
+      "content": "## 2 Addition",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 381,
+      "bottomRightX": 604,
+      "bottomRightY": 399,
+      "content": "Addition, here, means giving information. To do this, we use connecting words,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 399,
+      "bottomRightX": 301,
+      "bottomRightY": 448,
+      "content": "- inside a sentence,\n- at the end of a sentence,\n- at the beginning of a sentence.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 457,
+      "bottomRightX": 619,
+      "bottomRightY": 544,
+      "content": "**Examples:** He wore a hat and a coat **as well as/together with** woollen gloves.\nHe wore a hat and a coat. He put on woollen gloves **as well/also**.\nShe is polite and friendly. **Furthermore**, she is very conscientious.\n**In addition,**\n**Another reason** for giving her the job is her patience.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 543,
+      "bottomRightX": 563,
+      "bottomRightY": 560,
+      "content": "**Note:** *also* can be used inside a sentence. He **also** put on woollen gloves.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 581,
+      "bottomRightX": 224,
+      "bottomRightY": 601,
+      "content": "## 3 Consequence",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 612,
+      "bottomRightX": 465,
+      "bottomRightY": 646,
+      "content": "Consequence is about one idea being the result of another.\nThe expressions used to connect the ideas are as follows:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 655,
+      "bottomRightX": 362,
+      "bottomRightY": 722,
+      "content": "because so therefore\nthus (followed by the word ending *-ing*)\nconsequently as a consequence\nas a result accordingly that is why",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 742,
+      "bottomRightX": 449,
+      "bottomRightY": 760,
+      "content": "**Find examples of this language in the texts.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 774,
+      "bottomRightX": 469,
+      "bottomRightY": 792,
+      "content": "**Now do activities A, B and C in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 619,
+      "topLeftY": 941,
+      "bottomRightX": 638,
+      "bottomRightY": 957,
+      "content": "23",
+      "type": "footer"
+    }
+  ]
+}

@@ -14,7 +14,7 @@
 
 [LOGO]
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-1.jpeg](img-1.jpeg)
 
@@ -63,7 +63,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٣٨هـ - ٢٠١٧م
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![LOGO](e-learning)
 
@@ -90,7 +90,7 @@ http://www.e-learning-moe.edu.ye/
 
 د. عبدالله سلطان الصلاحي.
 
-http://www.e-learning-moe.edu.ye/
+
 
 # تقديم
 
@@ -109,7 +109,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-4.jpeg](img-4.jpeg)
 
@@ -130,7 +130,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 الديناميكي في جهاز الاستقبال الإذاعي إلى آخر ذلك من المفاهيم الخاصة بالإلكترونيات والأجهزة الإلكترونية.
 
@@ -150,7 +150,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-5.jpeg](img-5.jpeg)
 
@@ -196,7 +196,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 الموضوع
 
@@ -240,7 +240,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![LOGO]
 
@@ -281,7 +281,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 # كمية التحرك والمقذوفات
 Momentum and Projectiles
@@ -312,7 +312,7 @@ Momentum and Projectiles
 
 ٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-7.jpeg](img-7.jpeg)
 
@@ -341,7 +341,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-9.jpeg](img-9.jpeg)
 
@@ -379,7 +379,7 @@ $$\text{صفر} = \text{ك ع} \text{ جا هـ} - \text{ك ع} \text{ جا هـ
 
 ١١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-10.jpeg](img-10.jpeg)
 
@@ -420,7 +420,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 $$\therefore \sqrt{3} \cdot (\frac{3}{2}) + \frac{3}{2} = 2 \quad , \quad \leftarrow 3 \cdot \frac{3}{2} + \frac{3}{2} = 2$$
 $$\therefore 4 \cdot \frac{3}{2} = 2 \quad \text{ومنها } \frac{1}{2} = \frac{1}{2} \text{ م/ث}$$
@@ -451,7 +451,7 @@ $$(\text{ك}_1 + \text{ك}_2) \text{ ع} \text{ جتاها} = (1500 + 2500) \tex
 
 ١٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-11.jpeg](img-11.jpeg)
 
@@ -489,7 +489,7 @@ $$\therefore \text{ ع} = 15,6 \text{ م} / \text{ث}$$
 
 ١٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-12.jpeg](img-12.jpeg)
 
@@ -517,7 +517,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-14.jpeg](img-14.jpeg)
 
@@ -557,7 +557,7 @@ $$\therefore \text{ق}_{\text{محرك}} \times \Delta \text{ ز} = - \Delta \te
 
 ١٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## الحل :
 
@@ -587,7 +587,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-16.jpeg](img-16.jpeg)
 
@@ -630,7 +630,7 @@ $$\therefore \frac{2}{2} = ١١٢٠٠ \text{ م / ث} = \frac{٢ \times ٩,٨ \t
 
 ١٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## حركة الأقمار الصناعية حول الأرض The Orbiting Motion of Satellites
 
@@ -658,7 +658,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ومقارنة رمي الحجر بقذف القمر الصناعي، فسنجد أن القمر إذا قُذِفَ بسرعة أفقية فإن المدى الذي سيقطعه أفقياً سيعتمد على مقدار سرعة القذف التي إذا وصلت إلى القيمة المناسبة فإن القمر سيدور حول الأرض في مسار دائري ذو نصف قطر ثابت وسرعة ثابتة انظر الشكل (٨)، والسرعة اللازمة لدوران القمر حول الأرض هي ٨ كم / ث .
 
@@ -682,7 +682,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## حساب سرعة القمر الصناعي اللازمة لاستمراره في مداره
 
@@ -716,7 +716,7 @@ $$\therefore \text{ع} = \sqrt{\frac{10 \times 6 \times 10^{-11} \times 6 \times
 
 ٢١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-20.jpeg](img-20.jpeg)
 
@@ -744,7 +744,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 لا شك أنك ستلاحظ أنه من الصعب إدارته في الحالة الأولى، وفي الحالة الثانية ستجد صعوبة في إيقاف الإطار.
 
@@ -770,7 +770,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-23.jpeg](img-23.jpeg)
 
@@ -807,7 +807,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 - لحساب الأرواح الرأسية للمقذوف عند أي زمن يستخدم المعادلة (٣).
 - لحساب أقصى ارتفاع يصل إليه المقذوف يستخدم المعادلة (٤).
@@ -837,7 +837,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-25.jpeg](img-25.jpeg)
 
@@ -886,7 +886,7 @@ $$ع ع = \sqrt{ع ص + ع ص} = \sqrt{(3/6) + (4 - 2)} = \sqrt{10,8} + 16 = \sq
 
 ٢٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 # تقويم الوحدة
 
@@ -936,7 +936,7 @@ $$\text{ك – السرعة الزاوية لجسم} = \frac{\text{كمية ال
 
 ٢٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-26.jpeg](img-26.jpeg)
 
@@ -973,7 +973,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 # التيار المتردد (المتناوب)
 Alternating Current
@@ -1000,7 +1000,7 @@ Alternating Current
 
 ٢٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 درست في الصفوف السابقة التيار الكهربائي المستمر (D.C) ومصادره ودوائره الكهربائية وكذلك تأثيراته المختلفة .
 
@@ -1040,7 +1040,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٣٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-32.jpeg](img-32.jpeg)
 
@@ -1066,7 +1066,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٣١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-33.jpeg](img-33.jpeg)
 
@@ -1098,7 +1098,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٣٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## كيف يعمل الدينامو لتوليد (ق . د . ك) المترددة؟
 
@@ -1132,7 +1132,7 @@ $$\text{ق} = \mu \text{ ب} \omega \text{ جا } \omega \text{ ز} \dots\dots\d
 
 ٣٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 تستخدم العلاقة ( ٤ ) لحساب القوة الدافعة الكهربائية التأثيرية المتولدة في الملف عندما يكون عدد لفاته لفة واحدة ، لكن عندما يكون الملف مكون من عدد ( ن ) من اللفات فإن العلاقة ( ٤ ) تكتب على الصورة :
 
@@ -1158,7 +1158,7 @@ $$ق = ن ب س \omega \text{ جا } \omega \text{ ز} \dots\dots\dots (٥)$$
 
 ٣٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٣- عندما تصبح زاوية دوران الملف = ١٨٠° فهل قيمة (ق . د . ك) المتولدة تزداد أم تقل ؟ وما مقدارها عند هذه اللحظة ؟
 
@@ -1192,7 +1192,7 @@ $$\omega = f \pi r^2 \text{ ومنها } \frac{\omega}{\pi r^2} = f \text{ وو�
 
 ٣٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-36.jpeg](img-36.jpeg)
 
@@ -1228,7 +1228,7 @@ $$= ٢٢٠ \text{ فولت} .$$
 
 ٣٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 **تعريف القيمة الفعالة للتيار المتردد :** تقدر بشدة تيار مستمر يولد نفس الطاقة الحرارية التي يولدها التيار المتردد عند مرورهما في نفس الموصل ولنفس الزمن. وعلى ضوء ما سبق فقد تم تصميم جهاز لقياس شدة التيار المتردد يعتمد على توليد الطاقة الحرارية المتولدة فيه عند مرور تيار متردد في دائرته، ويطلق على هذا الجهاز (الأميتر الحراري) أو (الأميتر ذو السلك الحراري) **Hot Wire Ammeter**.
 
@@ -1260,7 +1260,7 @@ $$\text{المتردد } \text{ق}_{\text{فعالة}} = \frac{\text{ق}_{\text{
 
 ٣٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-38.jpeg](img-38.jpeg)
 
@@ -1303,7 +1303,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٣٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## تطبيقات قانون أوم في دوائر التيار المتردد
 
@@ -1334,7 +1334,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٣٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٣- استبدال البطارية السابقة بمصدر تيار متردد ولكن قوته الدافعة من (٣-٦) فولت، كما في الشكل (٧) ثم أقفل الدائرة بواسطة المفتاح، ولاحظ ما يحدث للمصباح. لا شك أنه سيضيء، ما سبب ذلك؟
 
@@ -1354,7 +1354,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٤٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ويتكرر ما حدث في الدورة الأولى في كل دورة من دورات التيار المتردد فإذا كان تردد التيار كما في اليمن ٥٠ هيرتز فإن شحن وتفريغ المكثف يتكرر ١٠٠ مرة في كل ثانية. ويوضح الشكل (٩) المنحنيات البيانية لكل من: الشحنة الكهربائية (س) وفرق الجهد الكهربائي بين لوحي المكثف (ج) وشدة التيار الكهربائي (ت) المار في دائرة المكثف.
 
@@ -1394,7 +1394,7 @@ $$\therefore \frac{\text{س}}{\text{ج}} = \text{ت} = \text{سع جع} \times \
 
 ٤١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-43.jpeg](img-43.jpeg)
 
@@ -1452,7 +1452,7 @@ $$\sigma_e = \sigma_e \times \text{جا } (\omega_e + \frac{\pi}{2}) \quad (٨) 
 
 ٤٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 المتردد بسبب زيادة مقاومته.
 
@@ -1490,7 +1490,7 @@ $$\text{وبالتعويض في العلاقة ( ٤ ) فإن : } \sigma_{\text{�
 
 ٤٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-44.jpeg](img-44.jpeg)
 
@@ -1530,7 +1530,7 @@ $$\text{ق.د.ك} = - \text{ح} \frac{\text{ت}_\text{ز}}{\text{ز}} \quad (2) 
 
 ٤٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 حيث (حث) يرمز إلى معامل الحث الذاتي للملف ويقاس بوحدة الهزي والإشارة السالبة تدل على أن (ق.د.ك) المتولدة في الملف تعاكس القوة الدافعة لمصدر التيار المتردد (ق).
 
@@ -1570,7 +1570,7 @@ $$\text{حيث أن جتا ج = جتا ج}_\text{ز} + \frac{\pi}{2} + \text{ج}
 
 ٤٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 الطور بين شدة التيار وفرق الجهد في دائرة الملف المتصل بمصدر تيار متردد مقداره يساوي ($\frac{\pi}{2}$ راديان = ٩٠°)، في أية لحظة، بحيث يتقدم الجهد عن التيار بزاوية طور قدرها ٩٠° كما يبينه الشكل (١١).
 
@@ -1594,7 +1594,7 @@ $$\therefore \omega = f \pi r \quad (٣) \dots \dots \dots$$
 
 ٤٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 نشاط (٧)
 
@@ -1622,7 +1622,7 @@ $$\therefore d_e = 2 \times \sigma = 2,2 \times 220 = 484 \text{ فولت.}$$
 
 ٤٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ويطلق على مكافئ المفاعلة الحثية للملف، والمفاعلة السعوية للمكثف والمقاومة الأومية اسم المعاوقة Impedance ويرمز لها بالرمز (م) وتقاس بوحدة الأوم.
 
@@ -1652,7 +1652,7 @@ $$\text{ج} = \text{ج} \times \text{ج} + \text{ج} \times \text{ج} \dots \dot
 
 ٤٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 $$\text{ج}_\text{م} = \text{ت}_\text{ع} \times \text{م} \text{جا} \text{ج}_\text{ز} = \text{ج}_\text{م} \text{جا} \text{ج}_\text{ز} \dots \dots \dots (٣)$$
 
@@ -1678,7 +1678,7 @@ $$\text{ج}_\text{س} = \text{ت}_\text{ع} \times \text{م} \text{س}$$
 
 ٤٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-50.jpeg](img-50.jpeg)
 
@@ -1708,7 +1708,7 @@ $$\text{ظال} = \frac{\text{ج} \cdot \text{ح} - \text{ج} \cdot \text{س}}{\
 
 ٥٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 # ❖ - ملحوظة (٢) :
 
@@ -1744,7 +1744,7 @@ $$\frac{1}{\sqrt{\pi} \sqrt{\pi} \sqrt{\pi}} = f_0$$
 
 ٥١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the E-Learning (Maoe) featuring a stylized 'M' and 'E' with a star and the word 'e-learning' below it.]()
 
@@ -1766,7 +1766,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٥٢
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 الذبذبات بسبب تحول الطاقة الكهربائية إلى طاقة حرارية في أسلاك التوصيل والمقاومة الأومية للملف، ولكن إذا شحن المكثف مرة أخرى يتم تكرار العمليات السابقة لتوليد ذبذبات كهرومغناطيسية تنتشر في الفضاء بسرعة الضوء.
 
@@ -1790,7 +1790,7 @@ $$f = \frac{\sqrt{\text{ل}}}{\sqrt{\pi \times \mu \times \mu \times \text{سع}
 
 ٥٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## المفاعلة الحثية للتيار المتردد في عدة ملفات متصلة معاً :
 
@@ -1834,7 +1834,7 @@ $$\text{حيث : } \frac{1}{\text{حث الكلية}} = \frac{1}{\text{حث}_1} 
 
 ٥٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## المفاعلة السعوية للتيار المتردد في عدة مكثفات متصلة معاً :
 ### أولاً : توصيل المكثفات على التوالي :
@@ -1869,7 +1869,7 @@ $$\text{سع الكلية} = \frac{1}{\text{السعة الكلية} \times \tex
 
 ٥٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## ثانياً : توصيل المكثفات على التوازي :
 
@@ -1897,7 +1897,7 @@ $$\text{سعة الكلية} = \frac{1}{\text{السعة الكلية} \times \t
 
 ٥٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## مثال (٥) :
 
@@ -1936,7 +1936,7 @@ $$\therefore \text{ت} = \frac{\text{ج}}{\text{سع} \text{ك}} = \frac{200}{37
 
 ٥٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-57.jpeg](img-57.jpeg)
 
@@ -1986,7 +1986,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٥٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ( تستنفد جزءاً من طاقة التيار المتردد - لا تستنفد طاقة منه - لا شيء مما ذكر )
 ب- إذا كانت سعة مكثف $7 \times 10^{-6}$ فاراد وكان طرفاه متصلين بمصدر تيار متردد تردده ( ٥٠ هيرتز ) فإن المفاعلة السعوية للمكثف تكون قيمتها ...
@@ -2023,7 +2023,7 @@ $$ج_ع = ( ج_{حث} - ج_{سع} ) , ( ت_ع = \frac{ج_ع}{م} ) , ( ج_ع = �
 
 ٥٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-58.jpeg](img-58.jpeg)
 
@@ -2063,7 +2063,7 @@ $$\left[ \frac{(\text{مك} - \text{مك})}{\text{م}} \cdot \frac{(\text{جج})
 
 ٦٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 الإلكترونيات
 Electronics
@@ -2090,7 +2090,7 @@ Electronics
 
 ٦١
 
-http://www.e-learning-moe.edu.ye/
+
 
 إن المتتبع للصناعات الإلكترونية، يلاحظ التطورات المتسارعة والمصحوبة بالتقنية عالية الجودة، فقد ازداد الاعتماد على الدوائر الكهربائية المتكاملة أكثر من الاعتماد على الدوائر الكهربائية المنفصلة، وظهر اتباع أسلوب جديد في صناعة الدوائر الكهربائية وهو أسلوب تقارب الأجزاء للدوائر الكهربائية في الأجهزة الإلكترونية الحديثة، مما أدى إلى تناقص أحجام الأجهزة الإلكترونية، بحيث أصبح من الممكن وضع بعضها في جسم الإنسان. إن هذا يعود إلى صناعة الوصلات الثنائية والترانزستورات، والدوائر المتكاملة (IC) التي تدخل في صناعتها مواد تسمى أشباه الموصلات.
 
@@ -2115,7 +2115,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٦٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 - حدد موقع هذه العناصر في الجدول الدوري .
 
@@ -2166,7 +2166,7 @@ Pure Semiconductors Crystal Structure
 
 ٦٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-60.jpeg](img-60.jpeg)
 
@@ -2190,7 +2190,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٦٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 المجموعة الخامسة وعناصر المجموعة الثالثة شوائب، ويمكن لهذه الشوائب أن تلعب دوراً هاماً في إضافة خصائص مميزة لأشباه الموصلات منها الحصول على نوعين من أشباه الموصلات غير النقية هما شبه موصل غير نقي من النوع السالب وشبه موصل غير نقي من النوع الموجب، وبذلك تزداد قدرة أشباه الموصلات على توصيل التيار الكهربائي كما سيأتي شرحه.
 
@@ -2211,7 +2211,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٦٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the E-learning and E-learning Conference (E-learning)]()
 
@@ -2232,7 +2232,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٦٦
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 إن من شأن هذه الخصائص التي تمتلكها أشباه الموصلات أن جعلتها تفتح آفاقاً واسعة في الصناعات الإلكترونية مثل صناعة الوصلة الثنائية والترانزستور. فماذا يقصد بالوصلة الثنائية ؟
 
@@ -2262,7 +2262,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٦٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-66.jpeg](img-66.jpeg)
 
@@ -2287,7 +2287,7 @@ Flow of Electric Current Across P-N Junction
 
 ٦٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## أولاً : طريقة الانحياز الأمامي Forward-bias Method
 
@@ -2307,7 +2307,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٦٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-69.jpeg](img-69.jpeg)
 
@@ -2326,7 +2326,7 @@ P-N Junction As Rectifier
 
 ٧٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## Transistor الترانزستور
 
@@ -2352,7 +2352,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٧١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -2380,7 +2380,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٧٢
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 مع توصيل مللي أمبير (أو جلفانومتر) بكل من الباعث والقاعدة والمجمع كما في الشكل (١٤) فماذا يلاحظ؟
 
@@ -2414,7 +2414,7 @@ $$\therefore z_E = ٩٥ + ٥ = ١٠٠ \text{ مللي أمبير.}$$
 
 ٧٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -2438,7 +2438,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٧٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 الكهربائي في دائرة (الباعث - القاعدة)، بينما يتم الحصول على مقاومة كبيرة (عالية) لتيار المجمع وذلك يجعل اتصال (المجمع - القاعدة) اتصالاً خلفياً (عكسياً)، فيزداد بذلك المجال الكهربائي عبر هذا الاتصال، أي يزداد المجال الكهربائي في دائرة (المجمع - القاعدة) ونتيجة لذلك تكون القدرة والجهد في دائرة المجمع أكبر من القدرة والجهد في دائرة الباعث وعليه فإن:
 
@@ -2463,7 +2463,7 @@ $$\therefore \text{معامل تكبير فرق الجهد} = 4545,4$$
 
 ٧٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-77.jpeg](img-77.jpeg)
 
@@ -2493,7 +2493,7 @@ $$\therefore \text{معامل تكبير القدرة} = \frac{50000}{121} = 413
 
 ٧٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 هذه الإلكترونات مع عدد مساوٍ لها من الفجوات الموجبة التي تعبر وصلة
 
@@ -2530,7 +2530,7 @@ Common Emitter Amplification Process
 
 ٧٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-80.jpeg](img-80.jpeg)
 
@@ -2553,7 +2553,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٧٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 إن أكبر مجال لاستعمال الدوائر المتكاملة هو صناعة الحاسبات والساعات والصواريخ الموجهة، فهي أسرع بكثير من الدوائر المنفصلة (بسبب ملفات الحث المرتبطة بالدوائر المنفصلة)، وهناك فوائد أخرى توفرها الدوائر المتكاملة لمصنعي الحاسبات الإلكترونية والتلفاز، فهي تقلل مبالغ التجميع التي تصرف على الدوائر المنفصلة التي تحتاج إلى عمل يدوي، وتحتل حيزاً صغيراً جداً مقارنة بالأجهزة القديمة.
 
@@ -2567,7 +2567,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٧٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-81.jpeg](img-81.jpeg)
 
@@ -2589,7 +2589,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ل – توجد ثلاث طرق للتكبير يستخدم فيها الترانزستور كمكبر هي:
 طريقة ...، وطريقة ...، وطريقة ...
@@ -2629,7 +2629,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-82.jpeg](img-82.jpeg)
 
@@ -2660,7 +2660,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٨- أحد هذه الرموز الآتية هو رمز الترانزستور:
 
@@ -2706,7 +2706,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-83.jpeg](img-83.jpeg)
 
@@ -2734,7 +2734,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 الأجهزة الإلكترونية
 Electronic Devices
@@ -2758,7 +2758,7 @@ Electronic Devices
 
 ٨٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 في هذه الوحدة سنستعرض بعضاً من الأجهزة الإلكترونية المستخدمة في الحياة مثل الرادار والراديو والتلفاز العادي والملون، والتي تُعد بعضاً من التطبيقات لما درسته في الوحدة السابقة مثل الوصلة الثنائية والترانزستور ودوائر التكبير الخاصة به، ولكن قبل التطرق إلى دراسة هذه الأجهزة الإلكترونية، يتحتم علينا إعطاء نبذة علمية عن التوصيل الكهربائي خلال الغازات (أي التفريغ الكهربائي في الغازات). لقد تعرفت من خلال دراستك للوحدة السابقة، أن هناك مواداً جيدة التوصيل للكهرباء ومواداً رديئة التوصيل للكهرباء وأن هناك مواداً لا تعد جيدة التوصيل وفي الوقت نفسه لا تُعد مواد رديئة التوصيل وهي أشباه الموصلات. بمعنى آخر، إن المواد صنفت من حيث توصيلها للتيار الكهربائي إلى ثلاثة أصناف. فإلى أي صنف من هذه التصنيفات تنتمي الغازات من حيث التوصيل الكهربائي؟ للتعرف على ذلك نفذ النشاط الآتي:
 
@@ -2776,7 +2776,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 إن تأين الغازات وبالتالي قدرتها على التوصيل الكهربائي يُفسر بزيادة درجة الحرارة، فذرات أو جزيئات الغاز الساخنة تتحرك أسرع عند ارتفاع درجة حرارتها، وعند ذلك فإن عدداً من الجزيئات أو الذرات تبدأ بالحركة السريعة بشكل يجعل قسماً منها يتحلل إلى الكترونات وأيونات موجبة عند تصادمها مع الذرات أو الجزيئات الأخرى ويصبح الغاز بذلك موصلاً للكهرباء لوجود حاملات الشحنة (الإلكترونات والأيونات).
 
@@ -2796,7 +2796,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-87.jpeg](img-87.jpeg)
 
@@ -2815,7 +2815,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 الموجبة لتكوين ذرات متعادلة مرة أخرى ونتيجة لهذا تشع ذرات الغاز الطاقة التي اكتسبتها عند تأييدها على شكل فوتونات (ضوء) وهذا هو سبب توهج أنبوبة التفريغ.
 
@@ -2844,7 +2844,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٨٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -2864,7 +2864,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٠
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 ## طريقة عمل كاشف الذبذبات:
 
@@ -2884,7 +2884,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-92.jpeg](img-92.jpeg)
 
@@ -2910,7 +2910,7 @@ Radio Detection and Ranging فكلمتي Radio Detection تعني الكشف ب�
 
 ٩٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-93.jpeg](img-93.jpeg)
 
@@ -2934,7 +2934,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## تشغيل محطة الرادار :
 
@@ -2964,7 +2964,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 سرعته واتجاهه مباشرة... كما أنها أصبحت تستخدم هوائياً واحداً يوصل بالمرسل والمستقبل على التبادل، فامكن بذلك توفير الجهد والوقت المبذول في تحريك الهوائيين المنفصلين في اتجاه واحد.
 
@@ -2988,7 +2988,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-95.jpeg](img-95.jpeg)
 
@@ -3018,7 +3018,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 - اطلب منه كذلك أن يشرح لك - باختصار - عملية الاستقبال الإذاعي (أي استقبال الأصوات الصادرة من محطة الإذاعة) بواسطة جهاز الراديو، وكذلك المراحل التي تمر بها هذه العملية حتى تسمع تلك الأصوات.
 إن عملية الاستقبال الإذاعي: هي عملية استلام الموجات اللاسلكية (الراديوية) من قبل جهاز الاستقبال (جهاز الراديو) وتحويلها إلى تيارات كهربائية تأثيرية ومن ثم إلى موجات صوتية سمعية لها تردد وخصائص الصوت الموجه إلى الميكروفون.
@@ -3043,7 +3043,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-98.jpeg](img-98.jpeg)
 
@@ -3071,7 +3071,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 قطبي مغناطيس كهربائي، انظر الشكل ( ١٠ - ب ) أقطابه دائرية الشكل ( له قطب مركزي وقطب آخر حلقي يحيط بالمركزي ).
 
@@ -3091,7 +3091,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٩٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -3113,7 +3113,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٠
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 ووظيفة الأنود تركيز وتسارع الإلكترونات نحو طبقة الخلايا الكهروضوئية كحزمة ضيقة جداً ومركزة تسمى الشعاع الإلكتروني.
 
@@ -3133,7 +3133,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-102.jpeg](img-102.jpeg)
 
@@ -3155,7 +3155,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## الاستقبال التلفازي Television Waves Reception
 
@@ -3186,7 +3186,7 @@ TV Receiver Set
 
 ١٠٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-105.jpeg](img-105.jpeg)
 
@@ -3204,7 +3204,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## Coloured Television التلفاز الملون
 
@@ -3222,7 +3222,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -3238,7 +3238,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## تقويم الوحدة
 
@@ -3260,7 +3260,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-108.jpeg](img-108.jpeg)
 
@@ -3281,7 +3281,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٥ - الموجات التي يرسلها الرادار هي موجات لاسلكية منخفضة التردد. ( )
 
@@ -3315,7 +3315,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٠٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-109.jpeg](img-109.jpeg)
 
@@ -3375,7 +3375,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٨ - الدائرة التي تقوم بتحويل التيارات المعدلة إلى موجات لاسلكية هي دائرة:
 
@@ -3429,7 +3429,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-110.jpeg](img-110.jpeg)
 
@@ -3463,7 +3463,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 س٦) اذكر وظيفة كل من: الاسيلوسكوب، الملف المعدني في مستقبل الرادار، الملف المعدني في مرسل الرادار، الدائرة المهتزة، دائرة الرنين، البندقية الإلكترونية، الشبكة الحاكمة، الشاشة، الشعاع الإلكتروني، المرشحات في التلفاز الملون .
 
@@ -3484,7 +3484,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 [LOGO]
 
@@ -3519,7 +3519,7 @@ Atomic Physics
 
 ١١٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 لقد نمت وتطورت العلوم الفيزيائية التقليدية (الكلاسيكية) كعلم الميكانيكا والديناميكا الحرارية والكهرومغناطيسية منذ زمن جاليلو ونيوتن حتى أواخر القرن التاسع عشر، واستطاعت بكفاءة عالية تفسير الظواهر الطبيعية للأنظمة العيانية (أي للأشياء التي في متناول حواسنا).
 
@@ -3537,7 +3537,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-112.jpeg](img-112.jpeg)
 
@@ -3568,7 +3568,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## طيف المصادر الضوئية :
 
@@ -3590,7 +3590,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -3606,7 +3606,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٨
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 ## خطوط الامتصاص لذرة الهيدروجين :
 
@@ -3626,7 +3626,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١١٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-120.jpeg](img-120.jpeg)
 
@@ -3648,7 +3648,7 @@ $H_\alpha$ ، $H_\beta$ ، $H_\gamma$ ، $H_\delta$ ، ... ، $H_\infty$ على 
 
 ١٢٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ففي عام (١٩٠٩م) قام العالم البريطاني (رذرفورد) بتجربته المشهورة وهي قذف صفيحة رقيقة جداً من الذهب سمكها ١٠⁻³م بحزمة من جسيمات ألفا (وقد عرفت فيما بعد بأنها أيونات الهيليوم الموجبة He⁺⁺) المطلقة بطاقة عالية من مصدر مشع، كالراديوم، موضوع في قالب من الرصاص (لماذا من الرصاص ؟). هذه الجسيمات عند اصطدامها بالصفيحة تتشتت وتضطدم بشاشة إسطوانية مطلية بطبقة رقيقة من
 
@@ -3672,7 +3672,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٢١
 
-http://www.e-learning-moe.edu.ye/
+
 
 في حجم صغير جداً في مركز الذرة سماه النواة، وهذا يفسر ارتداد عدد قليل من جسيمات ألفا. وأن الإلكترونات ذات الشحنة السالبة تتوزع حول النواة في مدارات شبيهة بمدارات الكواكب السيارة في النظام الشمسي، بحيث تتعادل شحنتها السالبة مع الشحنة الموجبة للنواة. وبما أن حجم الإلكترون صغير جداً بالنسبة لأبعاد الذرة، فيمكن أن يعتبر معظم حجم الذرة المحيط بالنواة فراغاً، وهذا يفسر لماذا معظم جسيمات ألفا الساقطة على الصفيحة الذهبية تجتازها دون أن تعاني من أي انحراف. وهكذا فهذا النموذج وطُعد نفسه وأصبح يعرف بالنظام النووي، والشكل (١٠) يبين صورة تخيلية تقريبية لهذا النموذج.
 
@@ -3702,7 +3702,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٢٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## إشعاع الجسم الأسود Blackbody Radiation
 
@@ -3724,7 +3724,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٢٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-127.jpeg](img-127.jpeg)
 
@@ -3742,7 +3742,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٢٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ثابت سُمِّي فيما بعد ثابت بلانك تكريماً للعالم بلانك وقيمته = ١٠ × ٦,٦٢٥ = (جول. ثانية) و (f) تردد الإشعاع المبعث.
 
@@ -3758,7 +3758,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٢٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-128.jpeg](img-128.jpeg)
 
@@ -3780,7 +3780,7 @@ $$\Delta \text{ طا} = \text{طا} - \text{طا} \quad \text{hf} = \dots \dots 
 
 ١٢٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 على شكل إشعاع له نفس التردد f شكل (١٤ د) . والمدار المنقط يمثل مدار محرم لا يجوز للإلكترون أن يتواجد فيه لأنه لا يفي بالفرضية الثانية لبوهر .
 
@@ -3796,7 +3796,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٢٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-130.jpeg](img-130.jpeg)
 
@@ -3828,7 +3828,7 @@ $$نق = 2 \text{ نق} \quad (7)$$
 
 ١٢٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 نق ١ ، ٤ نق ١ ، ٩ نق ١ ، ١٦ نق ١ ...
 
@@ -3856,7 +3856,7 @@ $$\text{ع}_1 = \frac{\text{ع}}{1} \text{ ، ع}_2 = \frac{\text{ع}}{2} \text{
 
 ١٢٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -3895,7 +3895,7 @@ $$(حيث أن 1 \text{ إ.ف}) = 1,6 \times 10^{-19} \text{ جول})$$
 
 ١٣٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 يمكن كتابة العلاقة (١١) بدلالة العلاقة (١٢) كالاتي :
 
@@ -3916,7 +3916,7 @@ $$\text{ط}_1, \frac{\text{ط}_1}{4}, \frac{\text{ط}_1}{9}, \frac{\text{ط}_1}{
 
 ١٣١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -3932,7 +3932,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٣٢
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 إلى مستويات طاقة أعلى ، وبالعكس الإلكترون الأكثر قرباً من النواة يمتلك طاقة أقل ويكون في حالة أكثر استقراراً ، ولهذا فالإلكترون المثار الواقع على مدار بعيد من النواة ( نتيجة لطاقة خارجية حملته إلى ذلك المدار ، انظر الشكل ( ١٦ ) ) ، يحاول أن يعود بسرعة إلى مكانه الأول ( الأصلي ) باعثاً بالطاقة التي امتصها على شكل إشعاع .
 
@@ -3960,7 +3960,7 @@ $$\therefore \frac{1}{\lambda} = \frac{١٣,٦}{\text{ع}} \left( \frac{1}{\text
 
 ١٣٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-133.jpeg](img-133.jpeg)
 
@@ -3989,7 +3989,7 @@ $$R_H = \frac{1}{\lambda} = \frac{1}{\frac{1}{i_f}} \left( \frac{1}{i_f} - \frac
 
 ١٣٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-134.jpeg](img-134.jpeg)
 
@@ -4001,7 +4001,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٣٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 نلاحظ أن طاقة الخط الطيفي (أي طاقة الطول الموجي المرافق) ما هو إلا الفرق بين طاقتي مستويين كما تشير إليه العلاقة (١٥). هذه الفروقات تتناقص بسرعة كلما اتجهنا نحو مستويات الطاقة العلوية حتى تتلاشى وتصبح مستويات الطاقة مستويات متصلة (الفروقات بينها معدومة) ويختفي عندها التكميم ويكون الطيف المناظر لها في آخر السلاسل طيفاً متصلاً كما هو مبين في الأشكال (٧) (١٦) (١٧) والإلكترون يكون خارج الذرة.
 
@@ -4023,7 +4023,7 @@ $$R_H = \frac{1}{\lambda} \left( \frac{1}{\delta_i} - \frac{1}{\delta_i} \right)
 
 ١٣٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 $$R_H = \left( \frac{1}{\infty} - \frac{1}{2} \right) R_H = \frac{1}{\lambda}$$
 
@@ -4063,7 +4063,7 @@ $$\lambda = \frac{4}{R_H 3} = 10 \times 1,215,023 \times 10^{-5} \text{ سم} = 
 
 ١٣٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 طاقة مقدارها ط₁ = -١٣,٦ (إلكترون فولت). ونتيجة لاصطدام الذرة بالإلكترون القادم من المهبط يمتص إلكترون ذرة الهيدروجين طاقة هذا الإلكترون القادم وينتقل إلى مستوى مثار تحسب طاقته (ط ن) من العلاقة التالية:
 
@@ -4090,7 +4090,7 @@ $$ط ن = \frac{ط ن}{ن^2} = \frac{١٣,٦}{٤} = -٣,٤ (\text{إلكترون
 
 ١٣٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 إما أن ينتقل الإلكترون من المستوى الثالث ( $n_i = 3$ ) إلى المستوى الأول (الأرضي) ( $n_f = 1$ ) أو أن ينتقل من المستوى الثالث ( $n_i$ ) إلى المستوى الثاني، ثم ينتقل من المستوى الثاني إلى المستوى الأرضي ( $n_f = 1$ ) انظر الشكل (١٩ ب). ولحساب هذه الأطوال الموجية للانتقالات الممكنة تستخدم العلاقة (١٥).
 (١) الطول الموجي الناتج عن الانتقال من المستوى الثالث إلى المستوى الأول.
@@ -4125,7 +4125,7 @@ $$\therefore \lambda = \frac{4}{R_H \times 3} = 1.2157 \times 10^{-5} \text{ س�
 
 ١٣٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -4141,7 +4141,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٠
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 ## حدود إمكانية نظرية بوهر :
 
@@ -4153,7 +4153,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-138.jpeg](img-138.jpeg)
 
@@ -4199,7 +4199,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٨ - اذكر نجاحات وإخفاقات نظرية بوهر .
 ٩ - ارسم مخطط مستوى الطاقة لكل من سلاسل ليمان وبالمر وباشن وبراكيت لذرة الهيدروجين .
@@ -4215,7 +4215,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![LOGO]
 
@@ -4244,7 +4244,7 @@ Matter and Radiation
 
 ١٤٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 سوف يدرس الطالب في هذه الوحدة بعض الظواهر الطبيعية التي هي ناتجة عن تفاعل الإشعاع مع المادة كالظاهرة الكهروضوئية وتوليد الأشعة السينية وأشعة الليزر وتفسير كل منها . وتعتبر المقدمة التي درسها الطالب في الوحدة الخامسة عن ذرة الهيدروجين وأطيافها عاملاً مساعداً لفهم هذه التفسيرات .
 
@@ -4264,7 +4264,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-140.jpeg](img-140.jpeg)
 
@@ -4288,7 +4288,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-141.jpeg](img-141.jpeg)
 
@@ -4310,7 +4310,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-143.jpeg](img-143.jpeg)
 
@@ -4335,7 +4335,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٤٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-145.jpeg](img-145.jpeg)
 
@@ -4351,7 +4351,7 @@ $$طغ = \frac{1}{2} كغ = ج س م \dots\dots\dots (1)$$
 
 ١٤٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 من هذه العلاقة يمكن تعيين سرعة وطاقة حركة أسرع الإلكترونات وتسمى العلاقة البيانية في الشكل (٥) بين فرق جهد الخلية وشدة تيارها (ت) عند شدة ضوئية معينة (ش) بالمنحنى المميز للخلية.
 
@@ -4374,7 +4374,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٥٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 للإلكترون المحرر المعطاة بالمعادلة ( ١ )، بالرغم من ثبات الشدة الضوئية للأضواء المختلفة التي لها نفس تيار التشبع .
 
@@ -4398,7 +4398,7 @@ $$\frac{1}{2} \text{ كع ع ك}^2 = \text{hf} - \text{w}_0 \dots ( ٢ )$$
 
 ١٥١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-149.jpeg](img-149.jpeg)
 
@@ -4416,7 +4416,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٥٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 أما إذا كان تردد الضوء الساقط (f) أكبر من التردد الحرج (f₀) فإن طاقة الفوتون (hf) التي امتصها الإلكترون، يُستخدم جزءاً منها يساوي (hf₀) لتحرير الإلكترون من طاقة ربطه بالمعدن وتدعى دالة شغل الفلز، وهي مقدار ثابت للفلز الواحد ويرمز لها بالرمز (w₀)، بينما بقية الطاقة والتي تساوي (w₀ - hf) تظهر على شكل طاقة حركية (1/2 كغ²) للإلكترون أي أن:
 
@@ -4441,7 +4441,7 @@ $$\text{ط}_f = \frac{1}{2} \text{كغ}^2 = \text{w}_0 - \text{hf} = 2 \quad (3)
 
 ١٥٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -4459,7 +4459,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٥٤
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 أ) الطاقة الحركية العظمى للإلكترونات المنبعثة. ب) دالة الشغل للبوتاسيوم ($w_0$). ج) التردد الحرج ($f_0$).
 
@@ -4494,7 +4494,7 @@ $\therefore f_0 = \frac{w_0}{h} = \frac{2.797 \times 10^{-19}}{34 - 0.6625} = 4.
 
 ١٥٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -4520,7 +4520,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٥٦
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 ## الأشعة السينية :
 
@@ -4534,7 +4534,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٥٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-154.jpeg](img-154.jpeg)
 
@@ -4552,7 +4552,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٥٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 وتكون مميزة لمادته، لأن لكل عنصر مستويات طاقة خاصة به. ولهذا تسمى هذه الإشعاعات بالأشعة السينية المميزة، أنظر الشكل (١٤ أ). حيث يظهر عليه الطيف الخطي المميز لعنصر التنجستن.
 
@@ -4574,7 +4574,7 @@ $$\therefore \text{f} = \frac{\text{س}}{\text{h}} \text{ج} \quad \dots \dots \
 
 ١٥٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-157.jpeg](img-157.jpeg)
 
@@ -4604,7 +4604,7 @@ $$h = 6.625 \times 10^{-34} \text{ جول. ث، } \mu = 3 \times 10^{-8} \text{ 
 
 ١٦٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## الحل :
 
@@ -4638,7 +4638,7 @@ $$\text{ج} = \frac{hf}{\text{س}^2} = \frac{19,9 \times 10^{-16}}{19 \times 1,6
 
 ١٦١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-158.jpeg](img-158.jpeg)
 
@@ -4671,7 +4671,7 @@ $$= 10 \times 6,62 \times 10^{-34} \text{ جول . ث}$$
 
 ١٦٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٣ - تستخدم في مجال الصناعة كدراسة البناء البلوري للعناصر والكشف عن الشقوق في الفلزات كهياكل الطائرات أو الأنابيب المعدنية .
 ٤ - تستخدم في المطارات للكشف عن وجود الأجسام الصلبة في أمتعة المسافرين دون فتحها .
@@ -4692,7 +4692,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٦٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the E-Learning (Maoe) featuring a stylized 'M' and 'E' with the word 'e-learning' below it.]()
 
@@ -4708,7 +4708,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٦٤
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 ## ٢- الإنبعاث التلقائي : (Spontaneous Emission)
 
@@ -4726,7 +4726,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٦٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-161.jpeg](img-161.jpeg)
 
@@ -4738,7 +4738,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٦٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 المستوى العلوي (طام) مستوى شبه مستقر، أي مستوى تستطيع الذرات الاستقرار فيه مدة زمنية أطول نسبياً بحيث توجد فرصة زمنية للتراكم وازدياد عددها حتى يصبح عددها أكبر من عددها في المستوى السفلي (طام)، ويسمى هذا الوجود للذرات في المستوى (طام)، بالاستيطان العكسي للذرات (Inversion Population) لأنه استيطان عكس الاستيطان الطبيعي الذي يحدث في المستوى الأرضي طام، وهذا الاستيطان العكسي هو أحد شروط حدوث الانبعاث المستحث للأشعة الليزرية. ومن البلورات التي تتمتع بمستويات شبه مستقرة هي بلورة الياقوت.
 
@@ -4754,7 +4754,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٦٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-163.jpeg](img-163.jpeg)
 
@@ -4772,7 +4772,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٦٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ذرات مثارة، شكل (١٩ ب) . وما تلبث أن تنتقل هذه الذرات تلقائياً إلى المستوى شبه المستقر طام - زمن عمره حوالي ٣٠ × ١٠³ ثانية .
 
@@ -4802,7 +4802,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٦٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ٥- تزداد شدة الحزمة الضوئية الكائنة بين المرأتين حتى تبلغ حداً معيناً ينفذ منها نسبة معينة إلى الخارج من خلال المرآة النصف شفافة، وبذلك تنبعث حزمة متوازية من أشعة الليزر ذات شدة عالية موحدة التردد (f)، أي موحدة الطول الموجي (λ) الذي مقداره ٦٩٤٣ أنجستروم، والذي يعطي لوناً أحمر، انظر الشكلين (١٧) و (١٩). والذرات التي انتقلت بالحث من المستوى (طام) إلى المستوى الأرضي (طام) يُعاد إثارتها ثانية بواسطة مصباح الزيتون إلى المستويين العلويين طام، طام، لتكمل دورة جديدة وهكذا يستمر توليد أشعة الليزر.
 تلاحظ في مخطط مستويات الطاقة لعنصر الكروم (شكل ١٨) أن المستوى الشبه مستقر (طام) هو عبارة عن مستويين رمزنا لهما بالرمزين طام، طام وبالتالي فإن الإشعاع الليزري يعطي في الحقيقة طولين موجيين مناظرين للانتقالين التاليين:
@@ -4821,7 +4821,7 @@ $$\text{طام} = \frac{\lambda}{\lambda} = ٦٩٤٣ \text{ (A)} \text{ طام} 
 
 ١٧٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## تقويم الوحدة
 
@@ -4864,7 +4864,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٧١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-171.jpeg](img-171.jpeg)
 
@@ -4891,7 +4891,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٧٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 الفيزياء النووية
 Nuclear Physics
@@ -4915,7 +4915,7 @@ Nuclear Physics
 
 ١٧٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-173.jpeg](img-173.jpeg)
 
@@ -4947,7 +4947,7 @@ $$\text{طاقة} + \text{طاقة} + \text{Be}^{12}\text{C} + \text{ن} + \text
 
 ١٧٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ويعتبر هذا التصور من أكثر التصورات والنظريات التي استطاعت تفسير مختلف الظواهر الناتجة عن التفاعلات النووية سواء النشاط الإشعاعي الطبيعي أو التفاعلات النووية الصناعية. كذلك فسرت وجود نظائر للعنصر الواحد، على أساس أن النظائر هي أنوية لنفس العنصر تشابه في عدد البروتونات وتختلف في عدد النيوترونات.
 
@@ -4969,7 +4969,7 @@ $$^{11}_{6}\text{C} , ^{12}_{6}\text{C} , ^{13}_{6}\text{C} , ^{14}_{6}\text{C}$
 
 ١٧٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -4993,7 +4993,7 @@ $${}_{88}^{226}\text{Ra} \longrightarrow {}_{86}^{222}\text{Rn} + {}_{2}^{4}\tex
 
 ١٧٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 وينتج البوزيترون $\beta^+$ من تحلل البروتون إلى نيوترون داخل النواة غير المستقرة كما يأتي:
 
@@ -5013,7 +5013,7 @@ $$\beta^+ + \gamma \longrightarrow \beta^- + \gamma^+$$
 
 ١٧٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-174.jpeg](img-174.jpeg)
 
@@ -5045,7 +5045,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٧٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## التحليل الإشعاعي وعمر النصف Radioactivity Decay & Half-Life
 
@@ -5077,7 +5077,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٧٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-177.jpeg](img-177.jpeg)
 
@@ -5113,7 +5113,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٨٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## تعريف الإنشطار النووي :
 
@@ -5139,7 +5139,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٨١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![LOGO]
 
@@ -5160,7 +5160,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٨٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## تقويم الوحدة
 
@@ -5202,7 +5202,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٨٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -5212,7 +5212,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٨٤
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 الطاقة الشمسية
 Solar Energy
@@ -5237,7 +5237,7 @@ Solar Energy
 
 ١٨٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-181.jpeg](img-181.jpeg)
 
@@ -5260,7 +5260,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٨٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## أعظم مصدر للطاقة :
 
@@ -5288,7 +5288,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٨٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 الهليوم، ويصاحبه نقص في الكتلة يعادل ٠,٠٢٩ و.ك.ذ، أي ما يعادل ٢٧,٠٣٥ مليون إلكترون فولت، يتحول هذا القدر من الطاقة إلى طاقة إشعاعية هائلة، ولعلك تتخيل كم من ذرات الهيدروجين التي تتحول أنويتها إلى أنوية لذرات الهليوم وكم الطاقة التي ستنتج. وينتقل من هذه الطاقة إلى الأرض جزء بسيط جداً بدون وجود وسط مادي بسرعة تصل إلى ( ١٠ × ٣ ) متر/ث.
 
@@ -5318,7 +5318,7 @@ $$\frac{4,18 \times 2}{60} = 0,14 \text{ جول / الثانية. سم}^2$$
 
 ١٨٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 بحسب كمية الطاقة الساقطة على سطح كرة وهمية محيطة بالشمس، أي مركزها الشمس، ونصف قطرها المسافة المتوسطة بين الشمس والأرض وتساوي (١٥٠) مليون كيلو متر.
 
@@ -5350,7 +5350,7 @@ $$\begin{aligned} &= ٤ \times \frac{٢٢}{٧} ( ١٥٠ \times ١٠ \times ١٠^
 
 ١٨٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 كذلك عند استخدام المطياف Spectroscope في تحليل الطيف الشمسي نحصل على نفس الألوان كما يوضحه الشكل (٤). وقد ثبت أن ما يصل إلى سطح الأرض من إشعاعات شمسية تنقسم إلى منطقتين أساسيتين هما :
 
@@ -5384,7 +5384,7 @@ $$(٠,٤ \text{ ميكرو متر} > ٠,٣ \text{ ميكرو متر})$$
 
 ١٩٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## ١- الإشعاع المباشر Direct Radiation :
 
@@ -5408,7 +5408,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -5433,7 +5433,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ومن إستخدامات الطاقة الشمسية في الحياة :
 
@@ -5463,7 +5463,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and the text 'e-learning'.]()
 
@@ -5491,7 +5491,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩٤
 
-<http://www.e-learning-moe.edu.ye/>
+<>
 
 ## - البطاريات الشمسية :
 
@@ -5523,7 +5523,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 وهي عبارة عن طبقة عاكسة تحفظ الضوء في الجزء الحامل من البطارية ، ثم طبقتين من السيليكون المطعم بالشوائب تكونان قلب البطارية أو قلب الخلية الشمسية ، أما الطبقة الخامسة فهي عبارة عن غشاء رقيق شفاف يحمي طبقة السيليكون العليا ، وتكتمل الخلية بالطبقة السادسة ، وهي لوح معدني دقيق يمثل القطب الموجب للخلية
 
@@ -5550,7 +5550,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## تقويم الوحدة
 
@@ -5589,7 +5589,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-200.jpeg](img-200.jpeg)
 
@@ -5615,7 +5615,7 @@ tاسعة
 
 ١٩٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 في هذه الوحدة سنحاول التعرف على مفهوم الكون ومكوناته وما يمكن مشاهدته فيه إما بالعين المجردة أو باستخدام التلسكوبات المتطورة (المناظير الفلكية)، كما سنتطرق إلى كيفية بدء أو نشوء الكون في ضوء النظريات التي تتحدث عن ذلك، كما سنتعرف على المجرات وهم تتكون وعلى المسافات بين المجرات، كما سنتوسع قليلاً في التحدث عن نشوء وتطور النجوم وأنواع النجوم والفرق بينها وماهية الثقوب السوداء. كما سنذكر المجرة التي تقع فيها الأرض، وكيف تمثل مجموعتنا الشمسية في هذه المجرة.
 
@@ -5643,7 +5643,7 @@ http://www.e-learning-moe.edu.ye/
 
 ١٩٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-202.jpeg](img-202.jpeg)
 
@@ -5669,7 +5669,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## الكون الممتد Extended Universe
 
@@ -5691,7 +5691,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠١
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -5713,7 +5713,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 ويظهر السديم وكأنه أجسام سماوية وأجسام مبعثرة بين النجوم وهو عبارة عن بقايا نجوم وسحب من غازات تكونت من الهيدروجين ومواد أخرى .
 ويرى أدوين هابل (أحد العلماء الأمريكيين) أن المجرات يمكن أن تصنف من حيث الشكل إلى ثلاثة أصناف هي :
@@ -5752,7 +5752,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 هذه المجرة حول محور يمر بمركزها، وتقع المجموعة الشمسية عند ثلثي المسافة تقريباً من مركز المجرة. وتتكون هذه المجرة من ملايين من النجوم، والشمس تعتبر واحدة من نجوم هذه المجرة، ويلزم شمسنا ٢٠٠ مليون سنة لكي تكمل دورة واحدة حول مركز المجرة علماً أن سرعة الشمس المدارية ٢٥٠ كم/ث. وتظهر هذه المجرة كشريط من النجوم يعرف بدرب التبانة، أو الطريق اللبني، أي أنه شريط متلألئ وتظهر النجوم على شكل مجموعات متقاربة من الصور تعرف بالكوكبات، وتعرف هذه الكوكبات (مجموعة من النجوم) وهي ليست في الحقيقة متقاربة بل إنها تبعد عن بعضها بمئات السنين الضوئية، وأقرب مجرة لمجرتنا هي مجرة المرأة المقيدة بالسلاسل التي تبعد عن مجرتنا بحوالي ٦٥٠ سنة ضوئية. ولزيد من التعرف على الكوكبات، والتي تسمى بالإبراج أيضاً، دعنا نسأل الأسئلة الآتية:
 
@@ -5775,7 +5775,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## نشوء وتطور النجوم : Formation of Stars
 
@@ -5797,7 +5797,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-208.jpeg](img-208.jpeg)
 
@@ -5815,7 +5815,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 إِلَّا أَنَّهُ وَفِي بَعْضِ الْأَحْيَانِ لَا يَمُرُّ النَّجْمُ بِهَذِهِ التَّطَوُّرَاتِ وَلَكِنَّهُ يَمُرُّ بِتَغْيِيرَاتٍ مَدْمَرَةٍ، فَهُوَ يَتَمَدَّدُ وَيَنْكَمِشُ مَرَّاتٍ عَدِيدَةٍ، وَبِالْقُرْبِ مِنْ نِهَايَةِ حَيَاتِهِ يَنْفَجِرُ انْفِجَارًا ضَخْمًا، وَيُسَمَّى النَّجْمُ فِي هَذِهِ الْحَالَةِ بِالنَّجْمِ السَّاطِعِ Supernova ، وَيُمْكِنُ أَنْ يَنْتَجَ ضَوْءًا ضَخْمًا كَالضَّوْءِ الَّذِي تَصْدُرُهُ الْمَجْرَةُ كُلُّهَا، وَالْمَوَادُّ الَّتِي تَقْذِفُهَا هَذِهِ النُّجُومُ فِي الْفَضَاءِ تَقْذِفُ بِسُرْعَاتٍ عَظِيمَةٍ .
 
@@ -5828,7 +5828,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٧
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![Logo of the e-learning, featuring a stylized 'e' and 'learning' text.]()
 
@@ -5850,7 +5850,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢٠٨
 
-http://www.e-learning-moe.edu.ye/
+
 
 ويمكنك حسابها كالآتي :
 
@@ -5868,7 +5868,7 @@ $$= 9,460,800,000,000 \text{ كم} .$$
 
 ٢٠٩
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-210.jpeg](img-210.jpeg)
 
@@ -5921,7 +5921,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢١٠
 
-http://www.e-learning-moe.edu.ye/
+
 
 ## قوائم المصطلحات
 
@@ -5959,7 +5959,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢١١
 
-http://www.e-learning-moe.edu.ye/
+
 
 |  Continuous spectrum | الطيف المتصل  |
 | --- | --- |
@@ -5996,7 +5996,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢١٢
 
-http://www.e-learning-moe.edu.ye/
+
 
 |  Ionization of gases | تأمين الغازات  |
 | --- | --- |
@@ -6033,7 +6033,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢١٣
 
-http://www.e-learning-moe.edu.ye/
+
 
 |  Oscilloscope | كاشف الذبابات (اسيلوسكوب)  |
 | --- | --- |
@@ -6070,7 +6070,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢١٤
 
-http://www.e-learning-moe.edu.ye/
+
 
 |  Ruby laser | ليزر الياقوت  |
 | --- | --- |
@@ -6095,7 +6095,7 @@ http://www.e-learning-moe.edu.ye/
 
 ٢١٥
 
-http://www.e-learning-moe.edu.ye/
+
 
 e-learning
 
@@ -6103,7 +6103,7 @@ e-learning
 
 ٢١٦
 
-http://www.e-learning-moe.edu.ye/
+
 
 ![img-211.jpeg](img-211.jpeg)
 

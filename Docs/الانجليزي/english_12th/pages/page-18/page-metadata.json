@@ -1,0 +1,76 @@
+{
+  "index": 17,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 194,
+      "topLeftY": 65,
+      "bottomRightX": 379,
+      "bottomRightY": 90,
+      "content": "# Natural disasters",
+      "type": "title"
+    },
+    {
+      "topLeftX": 638,
+      "topLeftY": 65,
+      "bottomRightX": 657,
+      "bottomRightY": 81,
+      "content": "2.6",
+      "type": "header"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 112,
+      "bottomRightX": 638,
+      "bottomRightY": 150,
+      "content": "Here are some definitions of natural disasters. Match them with the pictures. Write your answers in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 168,
+      "bottomRightX": 623,
+      "bottomRightY": 452,
+      "content": "A very large wood is called a forest. A forest fire is very difficult to control because it spreads so quickly.\nB A drought is a water shortage after a long period with no rain.\nC When there is deep water over normally dry land, this is called a flood. When this happens very quickly, such as in a wadi in the mountains, it is called a flash flood.\nD An epidemic is an illness that spreads quickly and affects many people.\nE A volcano is a mountain with a hole in the top. Smoke rises out of the hole and liquid or molten rock flows. When the molten rock bursts out suddenly, this is called a volcanic eruption.\nF A famine is a shortage of food. During a famine, people sometimes starve, they die of hunger.\nG A hurricane is a powerful storm with strong winds.\nH The hard rock surface of the earth is called the crust. The earth's crust is divided into several sections called plates. The place where two plates meet is called a fault line. Two plates moving along a fault line causes an earthquake. During an earthquake the ground moves and shakes.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 467,
+      "bottomRightX": 638,
+      "bottomRightY": 902,
+      "content": "![img-21.jpeg](img-21.jpeg)",
+      "type": "image",
+      "imageId": "img-21.jpeg"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 907,
+      "bottomRightX": 515,
+      "bottomRightY": 925,
+      "content": "Now do activities B and C in the Workbook.",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 617,
+      "topLeftY": 944,
+      "bottomRightX": 633,
+      "bottomRightY": 959,
+      "content": "13",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 974,
+      "bottomRightX": 95,
+      "bottomRightY": 1014,
+      "content": "A",
+      "type": "footer"
+    }
+  ]
+}

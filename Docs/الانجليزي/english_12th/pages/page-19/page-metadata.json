@@ -1,0 +1,148 @@
+{
+  "index": 18,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 63,
+      "topLeftY": 62,
+      "bottomRightX": 84,
+      "bottomRightY": 79,
+      "content": "2.7",
+      "type": "header"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 62,
+      "bottomRightX": 410,
+      "bottomRightY": 90,
+      "content": "## A newspaper report",
+      "type": "title"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 108,
+      "bottomRightX": 573,
+      "bottomRightY": 146,
+      "content": "Read the headlines and look at the photograph in this newspaper report. What do you expect to read about?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 182,
+      "bottomRightX": 621,
+      "bottomRightY": 220,
+      "content": "# HURRICANE HITS CENTRAL AMERICA",
+      "type": "title"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 230,
+      "bottomRightX": 266,
+      "bottomRightY": 259,
+      "content": "## Thousands dead",
+      "type": "title"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 262,
+      "bottomRightX": 274,
+      "bottomRightY": 475,
+      "content": "The worst hurricane in living memory has caused terrible damage and loss of life throughout Central America. In the large towns, nearly three-quarters of all buildings have been destroyed. In the countryside, whole villages, in which hundreds of people lived, have disappeared. Hundreds of thousands are homeless and 10,000 are feared dead.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 476,
+      "bottomRightX": 274,
+      "bottomRightY": 743,
+      "content": "The storm hit the area late on Tuesday evening, destroying everything in its path. Winds of over 240 kph demolished all the wooden houses and tore the roofs off others, including the country's main hospital. Cars and lorries were blown onto their sides. Whole banana plantations, on which thousands of people worked, were flattened. Electricity and telephone lines were cut. In the mountain areas, heavy rain caused flash floods and",
+      "type": "text"
+    },
+    {
+      "topLeftX": 274,
+      "topLeftY": 227,
+      "bottomRightX": 619,
+      "bottomRightY": 488,
+      "content": "![img-22.jpeg](img-22.jpeg)",
+      "type": "image",
+      "imageId": "img-22.jpeg"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 488,
+      "bottomRightX": 479,
+      "bottomRightY": 504,
+      "content": "Houses flattened by 240 kph winds",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 513,
+      "bottomRightX": 447,
+      "bottomRightY": 630,
+      "content": "landslides. Roads and bridges, along which all supplies used to come, were swept away. Rivers of mud, up to five metres deep, swept down the mountainsides, covering several villages.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 630,
+      "bottomRightX": 447,
+      "bottomRightY": 746,
+      "content": "On Wednesday afternoon the full extent of the damage became clear. Crowds of people stood around silently, looking at the wrecks of the houses they used to live in. Many had lost relatives, their",
+      "type": "text"
+    },
+    {
+      "topLeftX": 458,
+      "topLeftY": 513,
+      "bottomRightX": 633,
+      "bottomRightY": 681,
+      "content": "homes and their jobs. Men, women and children cried helplessly. Rescue teams started work as soon as they could, but they can do little for most of the people. There are no tents and few medical supplies. The only way to deliver them is by helicopter and the army only has two.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 458,
+      "topLeftY": 681,
+      "bottomRightX": 633,
+      "bottomRightY": 746,
+      "content": "The hurricane is now moving towards the south coast of the USA, but is getting weaker all the time.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 808,
+      "bottomRightX": 542,
+      "bottomRightY": 864,
+      "content": "Look at the last sentence. Imagine you live on the south coast of the USA. Think of a headline for a newspaper report on the same day.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 881,
+      "bottomRightX": 484,
+      "bottomRightY": 898,
+      "content": "Now do activities A to E in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 941,
+      "bottomRightX": 98,
+      "bottomRightY": 956,
+      "content": "14",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 975,
+      "bottomRightX": 124,
+      "bottomRightY": 1005,
+      "content": "![A small circular logo with a stylized 'A' inside.]()",
+      "type": "footer"
+    }
+  ]
+}

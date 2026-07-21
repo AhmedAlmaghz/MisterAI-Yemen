@@ -1,0 +1,299 @@
+{
+  "index": 11,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 239,
+      "topLeftY": 65,
+      "bottomRightX": 483,
+      "bottomRightY": 93,
+      "content": "# Language review 2",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 65,
+      "bottomRightX": 666,
+      "bottomRightY": 81,
+      "content": "1.10",
+      "type": "header"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 111,
+      "bottomRightX": 593,
+      "bottomRightY": 146,
+      "content": "When you are describing something in writing, it is important that you paint a picture in the reader's mind.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 171,
+      "bottomRightX": 196,
+      "bottomRightY": 191,
+      "content": "## 1 Description",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 199,
+      "bottomRightX": 207,
+      "bottomRightY": 216,
+      "content": "- adjective order",
+      "type": "list"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 216,
+      "bottomRightX": 583,
+      "bottomRightY": 234,
+      "content": "When using two or more adjectives to describe something, follow this order:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 239,
+      "bottomRightX": 174,
+      "bottomRightY": 256,
+      "content": "1 Opinion",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 257,
+      "bottomRightX": 368,
+      "bottomRightY": 273,
+      "content": "good, bad, beautiful, amazing, horrible",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 274,
+      "bottomRightX": 186,
+      "bottomRightY": 288,
+      "content": "2 Size/build",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 290,
+      "bottomRightX": 261,
+      "bottomRightY": 307,
+      "content": "big, heavy, short, long",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 308,
+      "bottomRightX": 145,
+      "bottomRightY": 324,
+      "content": "3 Age",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 324,
+      "bottomRightX": 269,
+      "bottomRightY": 340,
+      "content": "young old, ten-year-old",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 341,
+      "bottomRightX": 160,
+      "bottomRightY": 358,
+      "content": "4 Shape",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 358,
+      "bottomRightX": 261,
+      "bottomRightY": 374,
+      "content": "round, rectangular, fat",
+      "type": "text"
+    },
+    {
+      "topLeftX": 387,
+      "topLeftY": 239,
+      "bottomRightX": 451,
+      "bottomRightY": 254,
+      "content": "5 Colour",
+      "type": "text"
+    },
+    {
+      "topLeftX": 398,
+      "topLeftY": 257,
+      "bottomRightX": 583,
+      "bottomRightY": 274,
+      "content": "black, dark green, blue-grey",
+      "type": "text"
+    },
+    {
+      "topLeftX": 387,
+      "topLeftY": 274,
+      "bottomRightX": 479,
+      "bottomRightY": 290,
+      "content": "6 Nationality",
+      "type": "text"
+    },
+    {
+      "topLeftX": 398,
+      "topLeftY": 290,
+      "bottomRightX": 549,
+      "bottomRightY": 307,
+      "content": "Yemeni, Qatari, Indian",
+      "type": "text"
+    },
+    {
+      "topLeftX": 387,
+      "topLeftY": 308,
+      "bottomRightX": 462,
+      "bottomRightY": 322,
+      "content": "7 Material",
+      "type": "text"
+    },
+    {
+      "topLeftX": 398,
+      "topLeftY": 324,
+      "bottomRightX": 517,
+      "bottomRightY": 341,
+      "content": "paper, wool, glass",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 384,
+      "bottomRightX": 397,
+      "bottomRightY": 419,
+      "content": "Examples: A beautiful, old, Yemeni building\na heavy, round, black stone",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 434,
+      "bottomRightX": 170,
+      "bottomRightY": 451,
+      "content": "- emphasis",
+      "type": "list"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 451,
+      "bottomRightX": 606,
+      "bottomRightY": 485,
+      "content": "You can make your description stronger by repeating some words, for example, comparative adjectives and adverbs.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 496,
+      "bottomRightX": 612,
+      "bottomRightY": 531,
+      "content": "Examples: He drove faster and faster, and I got more and more worried.\nUp, up and up went the balloon, until it was a small dot in the sky.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 543,
+      "bottomRightX": 249,
+      "bottomRightY": 560,
+      "content": "## 2 Information focus",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 570,
+      "bottomRightX": 619,
+      "bottomRightY": 606,
+      "content": "You can change the focus of a sentence by moving adjectival or adverbial phrases.\nYou may want to do this for reasons of style or emphasis.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 611,
+      "bottomRightX": 475,
+      "bottomRightY": 647,
+      "content": "Examples: There were lots of goats on top of the hill. →\nOn top of the hill were lots of goats",
+      "type": "text"
+    },
+    {
+      "topLeftX": 176,
+      "topLeftY": 661,
+      "bottomRightX": 500,
+      "bottomRightY": 696,
+      "content": "Some of the hills were to the right of the road. →\nTo the right of the road were some hills.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 697,
+      "bottomRightX": 528,
+      "bottomRightY": 731,
+      "content": "Note: In the second example the subject and the verb change places.\nThis happens only when using the verb to be.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 747,
+      "bottomRightX": 246,
+      "bottomRightY": 767,
+      "content": "## 3 Joining sentences",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 777,
+      "bottomRightX": 232,
+      "bottomRightY": 795,
+      "content": "- with the -ing form",
+      "type": "list"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 802,
+      "bottomRightX": 538,
+      "bottomRightY": 872,
+      "content": "Examples: The children ran out of school. They were laughing and\nshouting happily. →\nThe children ran out of school, laughing and\nshouting happily.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 881,
+      "bottomRightX": 554,
+      "bottomRightY": 914,
+      "content": "Find examples of description, changed focus and joined\nsentences in the text.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 919,
+      "bottomRightX": 475,
+      "bottomRightY": 938,
+      "content": "Now do activities A, B and C, in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 625,
+      "topLeftY": 944,
+      "bottomRightX": 636,
+      "bottomRightY": 958,
+      "content": "7",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 975,
+      "bottomRightX": 95,
+      "bottomRightY": 1014,
+      "content": "WOM",
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "index": 16,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 62,
+      "topLeftY": 61,
+      "bottomRightX": 86,
+      "bottomRightY": 79,
+      "content": "2.5",
+      "type": "header"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 61,
+      "bottomRightX": 491,
+      "bottomRightY": 90,
+      "content": "# Language review 3",
+      "type": "title"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 102,
+      "bottomRightX": 250,
+      "bottomRightY": 120,
+      "content": "### *1 Use of the Passive*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 131,
+      "bottomRightX": 613,
+      "bottomRightY": 165,
+      "content": "You use the Passive when you want to make the thing done more important than the person who does it.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 179,
+      "bottomRightX": 519,
+      "bottomRightY": 246,
+      "content": "**Examples:** The doctors let Ed Shaw out of hospital. →\nEd Shaw **was let out** of hospital.\nThe police arrested a man for dangerous driving. →\nA man **was arrested** for dangerous driving.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 268,
+      "bottomRightX": 316,
+      "bottomRightY": 285,
+      "content": "### *2 Use of the Past continuous*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 296,
+      "bottomRightX": 576,
+      "bottomRightY": 314,
+      "content": "You use the Past continuous when you want to set the scene for a story.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 326,
+      "bottomRightX": 570,
+      "bottomRightY": 361,
+      "content": "**Examples:** We were working in the fields (when something happened).\n**Note:** Use the Past simple to say *what happened*, e.g. *I heard somebody*.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 375,
+      "bottomRightX": 494,
+      "bottomRightY": 411,
+      "content": "### *3 Sense verbs (hear, see, feel) followed by an object then a verb.*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 425,
+      "bottomRightX": 481,
+      "bottomRightY": 443,
+      "content": "You can use these structure to continue the scene-setting.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 455,
+      "bottomRightX": 437,
+      "bottomRightY": 490,
+      "content": "**Examples:** I heard somebody. He was shouting. →\nI heard somebody shouting.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 502,
+      "bottomRightX": 359,
+      "bottomRightY": 520,
+      "content": "### *4 The verb to be + to + infinitive*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 532,
+      "bottomRightX": 616,
+      "bottomRightY": 567,
+      "content": "You can use these structure to talk about future plans or forecasts. You often see it in newspaper.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 582,
+      "bottomRightX": 515,
+      "bottomRightY": 616,
+      "content": "**Examples:** The President **is to meet** the ambassador tomorrow.\nThe thick fog **is to clear** this afternoon.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 629,
+      "bottomRightX": 219,
+      "bottomRightY": 647,
+      "content": "### *5 Punctuation*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 658,
+      "bottomRightX": 583,
+      "bottomRightY": 693,
+      "content": "In newspaper reports the writer uses a mixture of direct and reported speech for variety and interest.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 707,
+      "bottomRightX": 581,
+      "bottomRightY": 804,
+      "content": "These are called speech marks.\n'It's a miracle they were found,' a Rescue Service spokesman said. 'We can't explain it.'\nNote the comma here.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 853,
+      "bottomRightX": 551,
+      "bottomRightY": 873,
+      "content": "**Find other examples of the above language in the texts.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 883,
+      "bottomRightX": 477,
+      "bottomRightY": 902,
+      "content": "**Now do activities A, B, and C in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 941,
+      "bottomRightX": 101,
+      "bottomRightY": 956,
+      "content": "12",
+      "type": "footer"
+    }
+  ]
+}

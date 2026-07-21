@@ -1,0 +1,27 @@
+{
+  "index": 4,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 166,
+      "topLeftY": 131,
+      "bottomRightX": 622,
+      "bottomRightY": 829,
+      "content": "الإدارة العامة للمناهج",
+      "type": "text"
+    },
+    {
+      "topLeftX": 59,
+      "topLeftY": 972,
+      "bottomRightX": 127,
+      "bottomRightY": 1006,
+      "content": "![Logo of the National Consultative Assembly of Iran, featuring a stylized 'M' and 'C' inside a circle.]()^{}[] ---",
+      "type": "footer"
+    }
+  ]
+}

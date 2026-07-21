@@ -1,0 +1,208 @@
+{
+  "index": 9,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 214,
+      "topLeftY": 65,
+      "bottomRightX": 392,
+      "bottomRightY": 93,
+      "content": "# The countryside",
+      "type": "title"
+    },
+    {
+      "topLeftX": 638,
+      "topLeftY": 65,
+      "bottomRightX": 658,
+      "bottomRightY": 81,
+      "content": "1.6",
+      "type": "header"
+    },
+    {
+      "topLeftX": 213,
+      "topLeftY": 110,
+      "bottomRightX": 586,
+      "bottomRightY": 148,
+      "content": "Here are some words to describe the weather.\nMatch them with the pictures in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 128,
+      "topLeftY": 163,
+      "bottomRightX": 225,
+      "bottomRightY": 180,
+      "content": "A rainy weather",
+      "type": "text"
+    },
+    {
+      "topLeftX": 245,
+      "topLeftY": 163,
+      "bottomRightX": 326,
+      "bottomRightY": 180,
+      "content": "B a misty day",
+      "type": "text"
+    },
+    {
+      "topLeftX": 347,
+      "topLeftY": 163,
+      "bottomRightX": 462,
+      "bottomRightY": 180,
+      "content": "C a sunny afternoon",
+      "type": "text"
+    },
+    {
+      "topLeftX": 483,
+      "topLeftY": 163,
+      "bottomRightX": 592,
+      "bottomRightY": 180,
+      "content": "D a windy evening",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 196,
+      "bottomRightX": 206,
+      "bottomRightY": 372,
+      "content": "![img-13.jpeg](img-13.jpeg)",
+      "type": "image",
+      "imageId": "img-13.jpeg"
+    },
+    {
+      "topLeftX": 228,
+      "topLeftY": 196,
+      "bottomRightX": 348,
+      "bottomRightY": 371,
+      "content": "![img-14.jpeg](img-14.jpeg)",
+      "type": "image",
+      "imageId": "img-14.jpeg"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 196,
+      "bottomRightX": 491,
+      "bottomRightY": 371,
+      "content": "![img-15.jpeg](img-15.jpeg)",
+      "type": "image",
+      "imageId": "img-15.jpeg"
+    },
+    {
+      "topLeftX": 512,
+      "topLeftY": 196,
+      "bottomRightX": 633,
+      "bottomRightY": 371,
+      "content": "![img-16.jpeg](img-16.jpeg)",
+      "type": "image",
+      "imageId": "img-16.jpeg"
+    },
+    {
+      "topLeftX": 192,
+      "topLeftY": 381,
+      "bottomRightX": 638,
+      "bottomRightY": 419,
+      "content": "Here are some names of things you can see in the countryside.\nMatch them with the pictures in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 433,
+      "bottomRightX": 261,
+      "bottomRightY": 450,
+      "content": "A a stream",
+      "type": "text"
+    },
+    {
+      "topLeftX": 284,
+      "topLeftY": 433,
+      "bottomRightX": 362,
+      "bottomRightY": 450,
+      "content": "B a mountain",
+      "type": "text"
+    },
+    {
+      "topLeftX": 384,
+      "topLeftY": 433,
+      "bottomRightX": 450,
+      "bottomRightY": 450,
+      "content": "C farmland",
+      "type": "text"
+    },
+    {
+      "topLeftX": 472,
+      "topLeftY": 433,
+      "bottomRightX": 526,
+      "bottomRightY": 450,
+      "content": "D a river",
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 452,
+      "bottomRightX": 283,
+      "bottomRightY": 468,
+      "content": "E a coastline",
+      "type": "text"
+    },
+    {
+      "topLeftX": 305,
+      "topLeftY": 452,
+      "bottomRightX": 363,
+      "bottomRightY": 469,
+      "content": "F a valley",
+      "type": "text"
+    },
+    {
+      "topLeftX": 384,
+      "topLeftY": 452,
+      "bottomRightX": 447,
+      "bottomRightY": 468,
+      "content": "G a desert",
+      "type": "text"
+    },
+    {
+      "topLeftX": 469,
+      "topLeftY": 452,
+      "bottomRightX": 514,
+      "bottomRightY": 468,
+      "content": "H a hill",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 488,
+      "bottomRightX": 634,
+      "bottomRightY": 888,
+      "content": "![img-17.jpeg](img-17.jpeg)",
+      "type": "image",
+      "imageId": "img-17.jpeg"
+    },
+    {
+      "topLeftX": 206,
+      "topLeftY": 896,
+      "bottomRightX": 594,
+      "bottomRightY": 935,
+      "content": "Look at the pictures. Try to describe what you can see.\nNow do activities B and C in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 628,
+      "topLeftY": 944,
+      "bottomRightX": 638,
+      "bottomRightY": 958,
+      "content": "5",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 974,
+      "bottomRightX": 95,
+      "bottomRightY": 1013,
+      "content": "SOM",
+      "type": "footer"
+    }
+  ]
+}

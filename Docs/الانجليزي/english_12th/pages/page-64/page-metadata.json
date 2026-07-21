@@ -1,0 +1,236 @@
+{
+  "index": 63,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 232,
+      "topLeftY": 69,
+      "bottomRightX": 283,
+      "bottomRightY": 86,
+      "content": "ARTS 7",
+      "type": "header"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 106,
+      "bottomRightX": 441,
+      "bottomRightY": 134,
+      "content": "# Telford Hall Episode 3",
+      "type": "title"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 142,
+      "bottomRightX": 341,
+      "bottomRightY": 175,
+      "content": "On the morning of the final examinations, the sun was shining brightly.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 176,
+      "bottomRightX": 253,
+      "bottomRightY": 191,
+      "content": "'Lovely day,' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 191,
+      "bottomRightX": 339,
+      "bottomRightY": 223,
+      "content": "'It always is when there's an examination,' said Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 224,
+      "bottomRightX": 357,
+      "bottomRightY": 371,
+      "content": "He and Ahmed were walking through the college gardens on their way to the main hall, where the examinations were held. There was a crowd of students waiting outside. At 9.45 exactly, the doors opened and the students poured into the hall, where rows of desks stood waiting. On each desk, there was a name card and a piece of paper, face down: the examination paper! Ahmed found his place.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 382,
+      "bottomRightX": 341,
+      "bottomRightY": 659,
+      "content": "![img-89.jpeg](img-89.jpeg)",
+      "type": "image",
+      "imageId": "img-89.jpeg"
+    },
+    {
+      "topLeftX": 175,
+      "topLeftY": 660,
+      "bottomRightX": 276,
+      "bottomRightY": 679,
+      "content": "A large exam hall",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 704,
+      "bottomRightX": 295,
+      "bottomRightY": 737,
+      "content": "A lecturer Ahmed had never seen was supervising the examination.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 96,
+      "topLeftY": 737,
+      "bottomRightX": 347,
+      "bottomRightY": 803,
+      "content": "'Attention everyone,' he said slowly and loudly. 'As you know, the examination lasts for three hours. When I say \"begin\" turn over your papers and start. Good luck. Begin!'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 819,
+      "bottomRightX": 347,
+      "bottomRightY": 918,
+      "content": "By the time he finished the last paper on Friday afternoon, Ahmed's arm ached from writing so much, but he did not mind. He was just happy that the exams were over. The examination results would come out the following week and Ahmed had decided to stay",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 142,
+      "bottomRightX": 468,
+      "bottomRightY": 156,
+      "content": "in Norton until then.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 157,
+      "bottomRightX": 605,
+      "bottomRightY": 189,
+      "content": "'Are you staying in Norton or going home?' he asked Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 190,
+      "bottomRightX": 611,
+      "bottomRightY": 254,
+      "content": "'Oh, I almost forgot,' said Bob. 'My parents phoned last night. They would like you to come home with me and stay with the family for a few days.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 373,
+      "topLeftY": 256,
+      "bottomRightX": 618,
+      "bottomRightY": 272,
+      "content": "'I'd love to,' said Ahmed. 'We'll take the taxi.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 287,
+      "bottomRightX": 602,
+      "bottomRightY": 352,
+      "content": "On the following Sunday morning, Ahmed, Bob and his mother went for a walk along the beach. Bob's father stayed at home to cook lunch.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 354,
+      "bottomRightX": 606,
+      "bottomRightY": 402,
+      "content": "'He always cooks Sunday lunch,' she explained, 'roast meat and vegetables - and he doesn't like being disturbed.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 403,
+      "bottomRightX": 579,
+      "bottomRightY": 433,
+      "content": "Next to the beach there were high sand dunes.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 373,
+      "topLeftY": 434,
+      "bottomRightX": 590,
+      "bottomRightY": 451,
+      "content": "'They remind me of home,' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 467,
+      "bottomRightX": 604,
+      "bottomRightY": 513,
+      "content": "When they got back to the house, they were met by a wonderful smell coming from the kitchen.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 373,
+      "topLeftY": 515,
+      "bottomRightX": 540,
+      "bottomRightY": 530,
+      "content": "'Smells delicious,' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 531,
+      "bottomRightX": 602,
+      "bottomRightY": 581,
+      "content": "It tasted delicious as well: perfectly cooked roast beef with four different vegetables and a special sauce.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 596,
+      "bottomRightX": 583,
+      "bottomRightY": 629,
+      "content": "After lunch, everybody helped with the washing up and it was soon finished.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 629,
+      "bottomRightX": 597,
+      "bottomRightY": 660,
+      "content": "'Many hands make light work,' said Bob's mother.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 661,
+      "bottomRightX": 615,
+      "bottomRightY": 826,
+      "content": "For the rest of the afternoon, they sat and talked or read the thick Sunday newspaper. Bob's sister and her family called in to say 'hello'. When they had gone, Ahmed, Bob and his father played a word game, like a crossword puzzle. In the evening, they all watched an old film on television. Later, just before he fell asleep, Ahmed thought about how much he had enjoyed spending a quite Sunday in Bob's home. It made him miss his own family.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 840,
+      "bottomRightX": 609,
+      "bottomRightY": 907,
+      "content": "Bob and Ahmed arrived back in Norton on the day the examination results came out. The list of results was on a notice board in the main college building.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 618,
+      "topLeftY": 934,
+      "bottomRightX": 633,
+      "bottomRightY": 948,
+      "content": "58",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 63,
+      "topLeftY": 974,
+      "bottomRightX": 95,
+      "bottomRightY": 1013,
+      "content": "Teflon",
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "index": 73,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 220,
+      "topLeftY": 65,
+      "bottomRightX": 292,
+      "bottomRightY": 81,
+      "content": "SCIENCE 4",
+      "type": "header"
+    },
+    {
+      "topLeftX": 213,
+      "topLeftY": 106,
+      "bottomRightX": 284,
+      "bottomRightY": 130,
+      "content": "# Sound",
+      "type": "title"
+    },
+    {
+      "topLeftX": 276,
+      "topLeftY": 155,
+      "bottomRightX": 431,
+      "bottomRightY": 171,
+      "content": "# SOUND WAVES",
+      "type": "title"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 179,
+      "bottomRightX": 340,
+      "bottomRightY": 262,
+      "content": "Sound travels as waves. Unlike light waves, sound waves need a substance, such as air, to travel through. Because sound waves cannot travel through a vacuum, there is no sound in outer space.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 263,
+      "bottomRightX": 342,
+      "bottomRightY": 295,
+      "content": "Sound is created by something vibrating. As the source of the sound vibrates - an *oud*",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 179,
+      "bottomRightX": 599,
+      "bottomRightY": 280,
+      "content": "string, for example - the molecules in the air near the source are squeezed together. They, in turn, hit against the molecules next to them and are pulled back into place by the molecules behind them. In this way, sound waves move through the air.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 288,
+      "topLeftY": 321,
+      "bottomRightX": 418,
+      "bottomRightY": 336,
+      "content": "# FREQUENCY",
+      "type": "title"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 344,
+      "bottomRightX": 309,
+      "bottomRightY": 510,
+      "content": "Sound range from very low to very high. What makes the pitch different is the frequency of the sound waves. Frequency is measured in hertz (Hz) - the number of waves per second. One hertz is equal to one wave per second. A person with very good hearing can hear sounds down to about 20 Hz and up to about 20 kilohertz (kHz), or 20,000 Hz.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 318,
+      "topLeftY": 340,
+      "bottomRightX": 431,
+      "bottomRightY": 499,
+      "content": "Sound waves can be represented by graphs showing how the intensity, or strength, varies with time. These graphs represent sound of three frequencies. At a frequency of 20 Hz, 1 complete wave occurs in ½ second. At a frequency of 50 Hz, there are 2½ waves during the same time, and at 100 Hz there are 5.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 435,
+      "topLeftY": 333,
+      "bottomRightX": 581,
+      "bottomRightY": 509,
+      "content": "![img-110.jpeg](img-110.jpeg)",
+      "type": "image",
+      "imageId": "img-110.jpeg"
+    },
+    {
+      "topLeftX": 242,
+      "topLeftY": 538,
+      "bottomRightX": 465,
+      "bottomRightY": 553,
+      "content": "# ULTRASONIC SOUND",
+      "type": "title"
+    },
+    {
+      "topLeftX": 105,
+      "topLeftY": 561,
+      "bottomRightX": 321,
+      "bottomRightY": 711,
+      "content": "Frequencies higher than those that can be heard by people are called ultrasonic, meaning 'beyond sound'. One of the special qualities of ultrasound is that it does not spread out nearly as much as ordinary sound, so it can be directed almost like a beam of light. In industry, it can be used to find invisible flaws in solid metals.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 344,
+      "topLeftY": 559,
+      "bottomRightX": 606,
+      "bottomRightY": 676,
+      "content": "![img-111.jpeg](img-111.jpeg)",
+      "type": "image",
+      "imageId": "img-111.jpeg"
+    },
+    {
+      "topLeftX": 342,
+      "topLeftY": 678,
+      "bottomRightX": 596,
+      "bottomRightY": 724,
+      "content": "Ultrasonic sound can be heard by many animals. Bats and dolphins can produce and hear sounds of 120 kHz or more. Ultrasonic sound allows bats to 'see' in the dark and dolphins to find their way underwater.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 308,
+      "topLeftY": 754,
+      "bottomRightX": 399,
+      "bottomRightY": 770,
+      "content": "# VOLUME",
+      "type": "title"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 778,
+      "bottomRightX": 342,
+      "bottomRightY": 830,
+      "content": "Volume, or loudness is measured in decibels (dB). The sound of people talking measures between 50 and 70 dB; the sound of a jet",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 778,
+      "bottomRightX": 593,
+      "bottomRightY": 829,
+      "content": "plane taking off measures between 110 and 140 dB. Sounds of more than 120 dB cause pain and can lead to deafness.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 366,
+      "topLeftY": 875,
+      "bottomRightX": 427,
+      "bottomRightY": 888,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 367,
+      "topLeftY": 891,
+      "bottomRightX": 610,
+      "bottomRightY": 924,
+      "content": "How is ultrasound used in medicine?\nWhat is the loudness sound you have heard?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 622,
+      "topLeftY": 944,
+      "bottomRightX": 638,
+      "bottomRightY": 958,
+      "content": "68",
+      "type": "footer"
+    }
+  ]
+}

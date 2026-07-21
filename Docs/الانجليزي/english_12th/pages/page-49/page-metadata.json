@@ -1,0 +1,60 @@
+{
+  "index": 48,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 43,
+      "topLeftY": 80,
+      "bottomRightX": 85,
+      "bottomRightY": 97,
+      "content": "6.4 6.5",
+      "type": "header"
+    },
+    {
+      "topLeftX": 172,
+      "topLeftY": 77,
+      "bottomRightX": 324,
+      "bottomRightY": 105,
+      "content": "## Saving Anwar",
+      "type": "title"
+    },
+    {
+      "topLeftX": 169,
+      "topLeftY": 113,
+      "bottomRightX": 605,
+      "bottomRightY": 153,
+      "content": "Listen to the conversation. In Workbook activity A, number the pictures in the order you hear them.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 164,
+      "bottomRightX": 633,
+      "bottomRightY": 913,
+      "content": "![img-75.jpeg](img-75.jpeg)",
+      "type": "image",
+      "imageId": "img-75.jpeg"
+    },
+    {
+      "topLeftX": 180,
+      "topLeftY": 913,
+      "bottomRightX": 501,
+      "bottomRightY": 934,
+      "content": "Now do activities B, C and D in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 941,
+      "bottomRightX": 99,
+      "bottomRightY": 957,
+      "content": "44",
+      "type": "footer"
+    }
+  ]
+}

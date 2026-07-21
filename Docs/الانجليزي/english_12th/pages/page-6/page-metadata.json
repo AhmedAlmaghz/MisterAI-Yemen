@@ -1,0 +1,126 @@
+{
+  "index": 5,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 191,
+      "topLeftY": 61,
+      "bottomRightX": 419,
+      "bottomRightY": 80,
+      "content": "UNIT 1 DESCRIBING THINGS",
+      "type": "header"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 100,
+      "bottomRightX": 656,
+      "bottomRightY": 114,
+      "content": "1.1",
+      "type": "header"
+    },
+    {
+      "topLeftX": 191,
+      "topLeftY": 100,
+      "bottomRightX": 538,
+      "bottomRightY": 127,
+      "content": "# Shapes, coverings and materials",
+      "type": "title"
+    },
+    {
+      "topLeftX": 191,
+      "topLeftY": 135,
+      "bottomRightX": 602,
+      "bottomRightY": 172,
+      "content": "Here are some words to describe things. Match them with the pictures and write your answers in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 191,
+      "bottomRightX": 137,
+      "bottomRightY": 208,
+      "content": "Shapes",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 215,
+      "bottomRightX": 635,
+      "bottomRightY": 361,
+      "content": "![img-2.jpeg](img-2.jpeg)",
+      "type": "image",
+      "imageId": "img-4.jpeg"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 404,
+      "bottomRightX": 204,
+      "bottomRightY": 421,
+      "content": "Animal coverings",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 427,
+      "bottomRightX": 635,
+      "bottomRightY": 572,
+      "content": "![img-3.jpeg](img-3.jpeg)",
+      "type": "image",
+      "imageId": "img-3.jpeg"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 615,
+      "bottomRightX": 147,
+      "bottomRightY": 633,
+      "content": "Made of",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 639,
+      "bottomRightX": 635,
+      "bottomRightY": 789,
+      "content": "![img-4.jpeg](img-4.jpeg)",
+      "type": "image",
+      "imageId": "img-4.jpeg"
+    },
+    {
+      "topLeftX": 196,
+      "topLeftY": 816,
+      "bottomRightX": 622,
+      "bottomRightY": 851,
+      "content": "Can you describe other things using any of the words above?\nMake sentences like these:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 196,
+      "topLeftY": 868,
+      "bottomRightX": 346,
+      "bottomRightY": 918,
+      "content": "An orange is around.\nA dog has hair.\nA window is made of glass.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 196,
+      "topLeftY": 934,
+      "bottomRightX": 441,
+      "bottomRightY": 954,
+      "content": "Now do activity B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 628,
+      "topLeftY": 941,
+      "bottomRightX": 638,
+      "bottomRightY": 956,
+      "content": "1",
+      "type": "footer"
+    }
+  ]
+}

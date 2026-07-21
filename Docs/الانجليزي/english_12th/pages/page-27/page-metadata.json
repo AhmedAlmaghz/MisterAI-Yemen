@@ -1,0 +1,227 @@
+{
+  "index": 26,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 67,
+      "topLeftY": 102,
+      "bottomRightX": 84,
+      "bottomRightY": 114,
+      "content": "3.8",
+      "type": "header"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 101,
+      "bottomRightX": 357,
+      "bottomRightY": 125,
+      "content": "## Applying for a job",
+      "type": "title"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 137,
+      "bottomRightX": 532,
+      "bottomRightY": 170,
+      "content": "Read this job advertisement and think about the job requirements. Then do activities A and B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 186,
+      "topLeftY": 204,
+      "bottomRightX": 538,
+      "bottomRightY": 223,
+      "content": "### ADULT EDUCATION DEVELOPMENT WORKER",
+      "type": "title"
+    },
+    {
+      "topLeftX": 148,
+      "topLeftY": 232,
+      "bottomRightX": 569,
+      "bottomRightY": 290,
+      "content": "The Ministry of Education is looking for a confident and well-educated individual to work locally in their adult education programme. The post involves teaching adults with learning difficulties in their own homes, so a driving licence is desirable. The successful applicants will have good communication skills, experience of teaching and be computer literate.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 298,
+      "bottomRightX": 224,
+      "bottomRightY": 313,
+      "content": "Age range: 21-25",
+      "type": "text"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 315,
+      "bottomRightX": 402,
+      "bottomRightY": 328,
+      "content": "Starting salary: £18,000-£19,500 pa according to experience",
+      "type": "text"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 336,
+      "bottomRightX": 436,
+      "bottomRightY": 351,
+      "content": "Apply in writing to: Mrs Jill Castle • PO Box 0086 • London S9 3QK",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 388,
+      "bottomRightX": 510,
+      "bottomRightY": 421,
+      "content": "Now read the letters of application below. How well do the applicants fit the requirements of the job?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 275,
+      "topLeftY": 459,
+      "bottomRightX": 368,
+      "bottomRightY": 489,
+      "content": "17 Wood Road\nManchester M29 4TF",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 489,
+      "bottomRightX": 209,
+      "bottomRightY": 533,
+      "content": "Mrs Jill Castle\nPO Box 0086\nLondon S9 3QK",
+      "type": "text"
+    },
+    {
+      "topLeftX": 324,
+      "topLeftY": 551,
+      "bottomRightX": 368,
+      "bottomRightY": 564,
+      "content": "March 18",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 581,
+      "bottomRightX": 214,
+      "bottomRightY": 595,
+      "content": "Dear Mrs Castle",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 597,
+      "bottomRightX": 342,
+      "bottomRightY": 626,
+      "content": "I am interested in applying for the teaching post advertisement in today's Daily News.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 626,
+      "bottomRightX": 366,
+      "bottomRightY": 749,
+      "content": "I am 24 years old and am a qualified Primary School teacher. I have taught since I was 21 and have worked in different parts of the country. I have also had training in adult education and for the past six months I have been doing evening classes for adults with learning difficulties. I have been using computers in this work. Furthermore I have recently passed the driving test. My present salary is £15,000 per annum.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 749,
+      "bottomRightX": 352,
+      "bottomRightY": 795,
+      "content": "I look forward to hearing from you in the near future and would you be grateful for the chance of attending an interview.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 795,
+      "bottomRightX": 209,
+      "bottomRightY": 810,
+      "content": "Yours sincerely,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 810,
+      "bottomRightX": 209,
+      "bottomRightY": 855,
+      "content": "Kate Ash (Miss)",
+      "type": "signature"
+    },
+    {
+      "topLeftX": 506,
+      "topLeftY": 454,
+      "bottomRightX": 587,
+      "bottomRightY": 488,
+      "content": "140 Tower Road\nLiverpool L9 9QZ",
+      "type": "text"
+    },
+    {
+      "topLeftX": 379,
+      "topLeftY": 497,
+      "bottomRightX": 449,
+      "bottomRightY": 559,
+      "content": "Mrs Jill Castle\nPO Box 0086\nLondon S9 3QK\nMarch 20",
+      "type": "text"
+    },
+    {
+      "topLeftX": 383,
+      "topLeftY": 572,
+      "bottomRightX": 457,
+      "bottomRightY": 590,
+      "content": "Dear Mrs. Castle",
+      "type": "text"
+    },
+    {
+      "topLeftX": 383,
+      "topLeftY": 593,
+      "bottomRightX": 574,
+      "bottomRightY": 637,
+      "content": "I am writing to apply for the job of teacher as advertised in the Daily News of March 18.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 383,
+      "topLeftY": 622,
+      "bottomRightX": 602,
+      "bottomRightY": 742,
+      "content": "I am 23 years old and have been working in adult education for two years. As a result, I have had a lot of experience in this field. I have had a full driving licence for three years. Although I have no experience of working on computers, I am very willing to learn. At the moment I am earning £21,000 a year.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 734,
+      "bottomRightX": 549,
+      "bottomRightY": 773,
+      "content": "I look forward to hearing from you.\nYours sincerely,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 394,
+      "topLeftY": 773,
+      "bottomRightX": 449,
+      "bottomRightY": 833,
+      "content": "Tim Brook",
+      "type": "signature"
+    },
+    {
+      "topLeftX": 253,
+      "topLeftY": 876,
+      "bottomRightX": 457,
+      "bottomRightY": 893,
+      "content": "Now do activity C in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 942,
+      "bottomRightX": 96,
+      "bottomRightY": 956,
+      "content": "22",
+      "type": "footer"
+    }
+  ]
+}

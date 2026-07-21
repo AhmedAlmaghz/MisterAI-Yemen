@@ -1,0 +1,101 @@
+{
+  "index": 6,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 62,
+      "topLeftY": 62,
+      "bottomRightX": 84,
+      "bottomRightY": 79,
+      "content": "1.3",
+      "type": "header"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 62,
+      "bottomRightX": 231,
+      "bottomRightY": 87,
+      "content": "# Lost",
+      "type": "title"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 112,
+      "bottomRightX": 576,
+      "bottomRightY": 167,
+      "content": "**Listen to how the passenger speaks. How does he feel? Answer the questions in Workbook activity A. Listen and repeat the conversation.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 188,
+      "bottomRightX": 407,
+      "bottomRightY": 505,
+      "content": "**Passenger:** Excuse me! Excuse me, miss!  \n **Clerk:** Can I help you, sir?  \n **Passenger:** Yes. I've just got off the plane from Paris, but my luggage hasn't arrived yet.  \n **Clerk:** Can you describe your luggage, sir?  \n **Passenger:** What am I going to do? No clothes! Nothing!  \n **Clerk:** Calm down, sir. There's no point in getting upset. Now, can you describe your luggage?  \n **Passenger:** Two suitcases.  \n **Clerk:** Are they the same size?  \n **Passenger:** No. One is bigger than the other.  \n **Clerk:** Are they the same colour?  \n **Passenger:** Well, they're both green, but the smaller one is a very light green.  \n **Clerk:** Ok. What shape are they?  \n **Passenger:** The larger one is rectangular. The smaller one is more square-looking.  \n **Clerk:** Now, don't worry, sir. Give me your luggage tags and we'll soon find them.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 423,
+      "topLeftY": 180,
+      "bottomRightX": 636,
+      "bottomRightY": 506,
+      "content": "![img-5.jpeg](img-5.jpeg)",
+      "type": "image",
+      "imageId": "img-5.jpeg"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 518,
+      "bottomRightX": 575,
+      "bottomRightY": 572,
+      "content": "**Listen to how the girl speaks. How does she feel? Answer the question in Workbook activity C. Listen and repeat the conversation.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 516,
+      "bottomRightX": 218,
+      "bottomRightY": 930,
+      "content": "![img-6.jpeg](img-6.jpeg)",
+      "type": "image",
+      "imageId": "img-6.jpeg"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 589,
+      "bottomRightX": 617,
+      "bottomRightY": 855,
+      "content": "**Girl:** Excuse me, officer. Can you help me, please? My name is June, and I've lost my sister, Kate.  \n **Officer:** Oh, dear! How old is she?  \n **Girl:** Ten. She's my twin sister. She's the same age as me.  \n **Officer:** And does she look the same as you?  \n **Girl:** No, not really. She's not as tall as me. And she's a little bit fatter. She eats a lot you see.  \n **Officer:** Is her hair the same colours as yours?  \n **Girl:** Yes, but mine isn't as long as hers. Hers is much longer.  \n **Officer:** What is she wearing?  \n **Girl:** The same as I am ... except her T-shirt is red.  \n **Officer:** And when did you last see her?  \n **Girl:** Oh. About half an hour ago.  \n **Officer:** All right. Don't worry. Come along with me and we'll soon find your sister.  \n **Girl:** Ok. Thank you.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 863,
+      "bottomRightX": 565,
+      "bottomRightY": 879,
+      "content": "**Take turns to describe similar objects or people.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 225,
+      "topLeftY": 898,
+      "bottomRightX": 530,
+      "bottomRightY": 915,
+      "content": "**Now do activities C and D in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 942,
+      "bottomRightX": 96,
+      "bottomRightY": 956,
+      "content": "2",
+      "type": "footer"
+    }
+  ]
+}

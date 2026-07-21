@@ -1,0 +1,52 @@
+{
+  "index": 1,
+  "dimensions": {
+    "dpi": 65,
+    "height": 1016,
+    "width": 678
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 222,
+      "topLeftY": 115,
+      "bottomRightX": 622,
+      "bottomRightY": 152,
+      "content": "تم تحميل ورفع المادة على منصة",
+      "type": "text"
+    },
+    {
+      "topLeftX": 33,
+      "topLeftY": 236,
+      "bottomRightX": 622,
+      "bottomRightY": 391,
+      "content": "# الامجاد التعليمي",
+      "type": "title"
+    },
+    {
+      "topLeftX": 51,
+      "topLeftY": 475,
+      "bottomRightX": 593,
+      "bottomRightY": 527,
+      "content": "للعودة الى الموقع اكتب في بحث جوجل",
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 591,
+      "bottomRightX": 187,
+      "bottomRightY": 696,
+      "content": "![img-1.jpeg](img-1.jpeg)",
+      "type": "image",
+      "imageId": "img-1.jpeg"
+    },
+    {
+      "topLeftX": 219,
+      "topLeftY": 590,
+      "bottomRightX": 407,
+      "bottomRightY": 626,
+      "content": "الامجاد التعليمي",
+      "type": "text"
+    }
+  ]
+}

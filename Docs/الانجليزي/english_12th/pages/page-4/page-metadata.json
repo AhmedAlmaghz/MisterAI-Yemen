@@ -1,0 +1,129 @@
+{
+  "index": 3,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 313,
+      "topLeftY": 57,
+      "bottomRightX": 394,
+      "bottomRightY": 75,
+      "content": "# Contents",
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 74,
+      "bottomRightX": 242,
+      "bottomRightY": 91,
+      "content": "## Unit 1 Describing things",
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 91,
+      "bottomRightX": 625,
+      "bottomRightY": 200,
+      "content": "|  Shapes, coverings and materials | 1 | **Arts reader** |   |\n| --- | --- | --- | --- |\n|  Lost | 2 | A difficult choice? | 51  |\n|  An unusual animal | 3 | Proverbs and idioms | 52  |\n|  Language review 1 | 4 |  |   |\n|  The countryside | 5 | **Science reader** |   |\n|  A drive in the countryside | 6 | Acids and alkalis | 65  |\n|  Language review 2 | 7 | States of matter | 66  |\n|  A view from a window | 8 |  |   |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 213,
+      "bottomRightX": 245,
+      "bottomRightY": 232,
+      "content": "## Unit 2 Reporting events",
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 232,
+      "bottomRightX": 625,
+      "bottomRightY": 344,
+      "content": "|  Newspaper headlines | 9 | **Arts reader** |   |\n| --- | --- | --- | --- |\n|  Today's news | 10 | Telford Hall Episode 1 | 53  |\n|  Don and Debbie: dreamers | 11 | A famous play by Shakespeare | 54  |\n|  Language review 3 | 12 |  |   |\n|  Natural disasters | 13 | **Science reader** |   |\n|  A newspaper report | 14 | Light | 67  |\n|  Language review 4 | 15 | Sound | 68  |\n|  Armenia - 7, December 1988 | 16 |  |   |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 353,
+      "bottomRightX": 245,
+      "bottomRightY": 371,
+      "content": "## Unit 3 Looking for a job",
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 373,
+      "bottomRightX": 625,
+      "bottomRightY": 486,
+      "content": "|  Getting work experience | 17 | **Arts reader** |   |\n| --- | --- | --- | --- |\n|  Thinking about the future | 18 | Telford Hall Episode 2 | 55  |\n|  Getting careers advice | 19 | Critics and criticism | 57  |\n|  Language review 5 | 20 |  |   |\n|  Jobs and qualities | 21 | **Science reader** |   |\n|  Applying for a job | 22 | Arab scientists | 69  |\n|  Language review 6 | 23 | Vaccinations | 70  |\n|  A business letter | 24 |  |   |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 496,
+      "bottomRightX": 346,
+      "bottomRightY": 515,
+      "content": "## Unit 4 Tables, flow charts and diagrams",
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 516,
+      "bottomRightX": 625,
+      "bottomRightY": 632,
+      "content": "|  Food | 25 | **Arts reader** |   |\n| --- | --- | --- | --- |\n|  Learning to cook | 26 | Telford Hall Episode 3 | 58  |\n|  Agriculture in Yemen | 27 | Calligraphy | 60  |\n|  Language review 7 | 28 |  |   |\n|  Words and more words | 29 | **Science reader** |   |\n|  Investigating the world around us | 30 | Experimental procedures | 71  |\n|  Language review 8 | 31 | Internal combustion engine | 72  |\n|  Frozen peas | 32 |  |   |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 637,
+      "bottomRightX": 260,
+      "bottomRightY": 656,
+      "content": "## Unit 5 Working things out",
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 657,
+      "bottomRightX": 625,
+      "bottomRightY": 770,
+      "content": "|  Word sets | 33 | **Arts reader** |   |\n| --- | --- | --- | --- |\n|  Possibilities | 34 | A poem | 61  |\n|  Puzzles and riddles | 35 | Strange happenings | 62  |\n|  Language review 9 | 36 |  |   |\n|  The mystery of the *Mary Celeste* | 37 | **Science reader** |   |\n|  What could have happened? | 38 | The Moon | 73  |\n|  Language review 10 | 39 | Radioactivity | 74  |\n|  Tracks in the sand | 40 |  |   |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 781,
+      "bottomRightX": 224,
+      "bottomRightY": 800,
+      "content": "## Unit 6 Looking back",
+      "type": "title"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 801,
+      "bottomRightX": 334,
+      "bottomRightY": 957,
+      "content": "|  Emergencies in the news | 41  |\n| --- | --- |\n|  A lucky escape | 42  |\n|  Accident at Jebel Kebir | 43  |\n|  Saving Anwar | 44  |\n|  How a hospital works | 45  |\n|  Working in public service | 46  |\n|  Huge changes in Libyan health care | 47  |\n|  Discovering Yemen | 48  |\n|  Tourism and the future | 49  |\n|  **Arts reader** | 50-62  |\n|  **Science reader** | 64-74  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 991,
+      "bottomRightX": 125,
+      "bottomRightY": 1000,
+      "content": "--",
+      "type": "footer"
+    }
+  ]
+}

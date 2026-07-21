@@ -1,0 +1,193 @@
+{
+  "index": 7,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 212,
+      "topLeftY": 61,
+      "bottomRightX": 398,
+      "bottomRightY": 87,
+      "content": "## An unusual animal",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 62,
+      "bottomRightX": 655,
+      "bottomRightY": 78,
+      "content": "1.4",
+      "type": "header"
+    },
+    {
+      "topLeftX": 212,
+      "topLeftY": 99,
+      "bottomRightX": 606,
+      "bottomRightY": 137,
+      "content": "Look at the pictures and the title of the magazine article.\nWhat do you think the article is about? What or who is Rama?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 163,
+      "bottomRightX": 586,
+      "bottomRightY": 235,
+      "content": "# Rama - the cama",
+      "type": "title"
+    },
+    {
+      "topLeftX": 175,
+      "topLeftY": 240,
+      "bottomRightX": 279,
+      "bottomRightY": 265,
+      "content": "## The cat family",
+      "type": "title"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 271,
+      "bottomRightX": 225,
+      "bottomRightY": 384,
+      "content": "![img-7.jpeg](img-7.jpeg)",
+      "type": "image",
+      "imageId": "img-7.jpeg"
+    },
+    {
+      "topLeftX": 237,
+      "topLeftY": 263,
+      "bottomRightX": 344,
+      "bottomRightY": 376,
+      "content": "![img-8.jpeg](img-8.jpeg)",
+      "type": "image",
+      "imageId": "img-8.jpeg"
+    },
+    {
+      "topLeftX": 416,
+      "topLeftY": 223,
+      "bottomRightX": 526,
+      "bottomRightY": 245,
+      "content": "## The dog family",
+      "type": "title"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 251,
+      "bottomRightX": 467,
+      "bottomRightY": 367,
+      "content": "![img-9.jpeg](img-9.jpeg)",
+      "type": "image",
+      "imageId": "img-9.jpeg"
+    },
+    {
+      "topLeftX": 475,
+      "topLeftY": 243,
+      "bottomRightX": 583,
+      "bottomRightY": 358,
+      "content": "![img-10.jpeg](img-10.jpeg)",
+      "type": "image",
+      "imageId": "img-10.jpeg"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 379,
+      "bottomRightX": 374,
+      "bottomRightY": 564,
+      "content": "Animals are divided into families. The house-cat is of the same family as its much bigger cousins, the lions of Africa and the tigers of India. The dog, the wolf and the jackal are part of the dog family. If animals are part of the same family, it is sometimes possible to crossbreed them to make a new animal. This was done several years ago when a lion was crossbred with a tiger, giving us a new animal called a 'liger'. Now, it has been done again. The new animal is called a 'cama', and has been given the name Rama.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 547,
+      "bottomRightX": 383,
+      "bottomRightY": 701,
+      "content": "Rama the cama was born in Dubai in January, 1998. It is a cross between a male camel and a female llama. Although they are from the same family of animals, they are very different. Camels live mainly in hot countries like Arabia, whereas llamas live in mountainous parts of South America where it gets very, very cold. Because of the intense cold at heights of 8,000 metres, llamas have coats of long, heavy wool.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 682,
+      "bottomRightX": 388,
+      "bottomRightY": 793,
+      "content": "So what does Rama look like? Unlike its father, it has no hump on its back. Like its father, it has the short ears and the long tail of the camel. It is bigger than a llama but not as big as a camel. However, the wool coat of the llama, which is very valuable, unlike the hair coat of the camel, which has little value.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 371,
+      "bottomRightX": 596,
+      "bottomRightY": 659,
+      "content": "![img-11.jpeg](img-11.jpeg)",
+      "type": "image",
+      "imageId": "img-11.jpeg"
+    },
+    {
+      "topLeftX": 399,
+      "topLeftY": 682,
+      "bottomRightX": 451,
+      "bottomRightY": 729,
+      "content": "The most\nwell-known\ncrossbreed",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 458,
+      "topLeftY": 664,
+      "bottomRightX": 601,
+      "bottomRightY": 797,
+      "content": "![img-12.jpeg](img-12.jpeg)",
+      "type": "image",
+      "imageId": "img-12.jpeg"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 830,
+      "bottomRightX": 525,
+      "bottomRightY": 849,
+      "content": "**Read the article. Then answer these questions.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 860,
+      "bottomRightX": 440,
+      "bottomRightY": 877,
+      "content": "Is it possible to crossbreed a cat and a dog?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 875,
+      "bottomRightX": 573,
+      "bottomRightY": 893,
+      "content": "Why would camas like Rama find it hard to live in the wild in Arabia?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 892,
+      "bottomRightX": 593,
+      "bottomRightY": 911,
+      "content": "Is it right to crossbreed animals to make new animals? What do you think?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 224,
+      "topLeftY": 922,
+      "bottomRightX": 501,
+      "bottomRightY": 940,
+      "content": "**Now do activities A and B in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 625,
+      "topLeftY": 942,
+      "bottomRightX": 636,
+      "bottomRightY": 956,
+      "content": "3",
+      "type": "footer"
+    }
+  ]
+}

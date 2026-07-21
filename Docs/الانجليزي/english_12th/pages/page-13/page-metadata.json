@@ -1,0 +1,100 @@
+{
+  "index": 12,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 58,
+      "topLeftY": 99,
+      "bottomRightX": 80,
+      "bottomRightY": 112,
+      "content": "1.11",
+      "type": "header"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 97,
+      "bottomRightX": 442,
+      "bottomRightY": 120,
+      "content": "## A view from a window",
+      "type": "title"
+    },
+    {
+      "topLeftX": 229,
+      "topLeftY": 133,
+      "bottomRightX": 538,
+      "bottomRightY": 169,
+      "content": "Look at the four paragraphs. Decide what part of the view the girl is describing in each.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 170,
+      "bottomRightX": 636,
+      "bottomRightY": 862,
+      "content": "![img-18.jpeg](img-18.jpeg)",
+      "type": "image",
+      "imageId": "img-18.jpeg"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 419,
+      "bottomRightX": 585,
+      "bottomRightY": 500,
+      "content": "It was six o'clock in the morning. Jane opened the curtains of her bedroom window and looked out. She did this every time she got up, because it was a quiet time and she liked the view. Far away on the horizon was a wall of white mist. Jane knew that it would disappear as the day got hotter.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 500,
+      "bottomRightX": 600,
+      "bottomRightY": 597,
+      "content": "A little bit nearer was the wood that Jane loved. She often walked home through that wood after school, trying to count the trees. She knew that there were hundreds of them but she did not know how many. As she stood at the window she could hear the birds in the trees, even from a distance. They were already awake, singing their early morning songs.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 597,
+      "bottomRightX": 599,
+      "bottomRightY": 694,
+      "content": "Jane looked to her left. In a nearby field there were more than twenty cows. They were all still lying down, chewing the cud. 'A cow's mouth never stops moving', she thought. In the field next to the cows were two horses, a mare and her two-week-old foal. Jane watched for a few minutes as he suckled his mother, getting plenty of rich milk that would make him grow.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 694,
+      "bottomRightX": 601,
+      "bottomRightY": 790,
+      "content": "Just below Jane's window a number of chickens were cackling noisily, scratching in the dust with their claws and pecking with their beaks. Jane did not know what they could find to eat. They were fed twice a day, but that did not stop them from looking for more. Suddenly Jane was hungry. It was time to get dressed and have breakfast.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 801,
+      "bottomRightX": 585,
+      "bottomRightY": 871,
+      "content": "**'Far away' is a phrase telling you where things are. Find similar phrases in the passage. Does the description move from near to far or the other way around?**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 285,
+      "topLeftY": 878,
+      "bottomRightX": 542,
+      "bottomRightY": 895,
+      "content": "**Now do activities A and B in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 914,
+      "bottomRightX": 98,
+      "bottomRightY": 926,
+      "content": "8",
+      "type": "footer"
+    }
+  ]
+}

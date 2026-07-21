@@ -1,0 +1,156 @@
+{
+  "index": 56,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 247,
+      "topLeftY": 64,
+      "bottomRightX": 292,
+      "bottomRightY": 79,
+      "content": "ARTS 1",
+      "type": "header"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 98,
+      "bottomRightX": 414,
+      "bottomRightY": 123,
+      "content": "# A difficult choice?",
+      "type": "title"
+    },
+    {
+      "topLeftX": 99,
+      "topLeftY": 157,
+      "bottomRightX": 332,
+      "bottomRightY": 248,
+      "content": "Olivia Lee was travelling in a taxi when the taxi-driver started talking to her. He told her that he had 11-year-old twin daughters. One of them was very ill with a kidney disease.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 241,
+      "bottomRightX": 335,
+      "bottomRightY": 282,
+      "content": "'Why don't you give her one of your kidneys?' asked Olivia, 'or her sister could",
+      "type": "text"
+    },
+    {
+      "topLeftX": 341,
+      "topLeftY": 149,
+      "bottomRightX": 418,
+      "bottomRightY": 167,
+      "content": "give her one.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 343,
+      "topLeftY": 154,
+      "bottomRightX": 570,
+      "bottomRightY": 197,
+      "content": "'What would you know about it?' asked the taxi-driver.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 344,
+      "topLeftY": 188,
+      "bottomRightX": 577,
+      "bottomRightY": 263,
+      "content": "Olivia told him that she was a kidney donor; she had given one of her kidneys to her brother. The taxi-driver stopped the taxi to hear her story.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 303,
+      "bottomRightX": 341,
+      "bottomRightY": 505,
+      "content": "Olivia had not seen her brother, Michael, for a long time. She was shocked when she saw him. He had always been athletic, lively and good fun. Now he was thin, tired and ill. He had a kidney infection that could kill him. He had two choices. He could wait for somebody with healthy kidneys to die, hope that they matched his, and have a kidney transplant. His second choice was to spend the rest of his life connected to a machine that would do the job of his kidneys for him.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 498,
+      "bottomRightX": 345,
+      "bottomRightY": 586,
+      "content": "Olivia immediately decided to give Michael one of her kidneys. She knew that, although people normally have two kidneys, some people are born with only one and live normal lives.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 123,
+      "topLeftY": 577,
+      "bottomRightX": 356,
+      "bottomRightY": 795,
+      "content": "Olivia told the taxi-driver that when she arrived at the hospital, the doctor had explained that there is always some risk in an operation, but the risk is small for a healthy person. However, the operation would be more serious for Olivia than for her brother. He would have to cut deeply into Olivia's body to remove her kidney without damaging it. The scar from the cut would be 30 centimetres long. She also learned that she would be in hospital for a week to ten days and then have to rest for three to four weeks.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 790,
+      "bottomRightX": 344,
+      "bottomRightY": 847,
+      "content": "Nevertheless, the operation was successful. Michael is now leading a normal, healthy life. Olivia has a scar to",
+      "type": "text"
+    },
+    {
+      "topLeftX": 352,
+      "topLeftY": 281,
+      "bottomRightX": 573,
+      "bottomRightY": 374,
+      "content": "remind her of the operation, but she does not feel any different. Her advice to the taxi-driver was this: 'If you are close to somebody, don't hold back. It's worth the pain and the small risk.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 362,
+      "bottomRightX": 588,
+      "bottomRightY": 422,
+      "content": "That may be so, but it is also true that Olivia gave her brother the greatest gift she could have given him – life.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 428,
+      "bottomRightX": 580,
+      "bottomRightY": 470,
+      "content": "(This story is true, but the names have been changed.)",
+      "type": "text"
+    },
+    {
+      "topLeftX": 363,
+      "topLeftY": 468,
+      "bottomRightX": 613,
+      "bottomRightY": 826,
+      "content": "![img-83.jpeg](img-83.jpeg)",
+      "type": "image",
+      "imageId": "img-83.jpeg"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 894,
+      "bottomRightX": 310,
+      "bottomRightY": 909,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 247,
+      "topLeftY": 911,
+      "bottomRightX": 533,
+      "bottomRightY": 946,
+      "content": "* From what you now know, would you donate one of your kidneys to a brother or sister?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 942,
+      "bottomRightX": 98,
+      "bottomRightY": 957,
+      "content": "51",
+      "type": "footer"
+    }
+  ]
+}

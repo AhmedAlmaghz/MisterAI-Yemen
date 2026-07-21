@@ -1,0 +1,363 @@
+{
+  "index": 15,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 192,
+      "topLeftY": 65,
+      "bottomRightX": 483,
+      "bottomRightY": 90,
+      "content": "# Don and Debbie: dreamers",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 65,
+      "bottomRightX": 657,
+      "bottomRightY": 81,
+      "content": "2.4",
+      "type": "header"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 103,
+      "bottomRightX": 570,
+      "bottomRightY": 121,
+      "content": "Listen to the conversation. What does Jim think of Don's dream?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 122,
+      "bottomRightX": 420,
+      "bottomRightY": 138,
+      "content": "Do activities A and B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 140,
+      "bottomRightX": 398,
+      "bottomRightY": 156,
+      "content": "Listen and repeat the conversation.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 179,
+      "bottomRightX": 152,
+      "bottomRightY": 193,
+      "content": "Show interest",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 169,
+      "bottomRightX": 516,
+      "bottomRightY": 187,
+      "content": "Don: I had a dream last night. Well, a nightmare, actually.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 187,
+      "bottomRightX": 344,
+      "bottomRightY": 202,
+      "content": "Jim: Really! What about?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 217,
+      "bottomRightX": 177,
+      "bottomRightY": 231,
+      "content": "Ask for clarification",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 203,
+      "bottomRightX": 613,
+      "bottomRightY": 219,
+      "content": "Don: It was awful. I was terrified. There were men with horrible faces and...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 220,
+      "bottomRightX": 549,
+      "bottomRightY": 252,
+      "content": "Jim: Just a minute. Calm down. Begin at the beginning. Now ... Where were you?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 254,
+      "bottomRightX": 148,
+      "bottomRightY": 268,
+      "content": "Set the scene",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 253,
+      "bottomRightX": 502,
+      "bottomRightY": 270,
+      "content": "Don: I dreamt that we were working in the fields and ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 270,
+      "bottomRightX": 405,
+      "bottomRightY": 286,
+      "content": "Jim: Who was? Who were you with?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 287,
+      "bottomRightX": 620,
+      "bottomRightY": 320,
+      "content": "Don: My brother. My elder brother. We were planting seed for next year. And I was driving the tractor. And it was brilliant weather. Then suddenly ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 320,
+      "bottomRightX": 459,
+      "bottomRightY": 337,
+      "content": "Jim: Slow down. Slow down. What happened?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 341,
+      "bottomRightX": 148,
+      "bottomRightY": 354,
+      "content": "Tell the story",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 337,
+      "bottomRightX": 606,
+      "bottomRightY": 354,
+      "content": "Don: I heard somebody shouting. Then I saw two men running towards us.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 92,
+      "topLeftY": 355,
+      "bottomRightX": 177,
+      "bottomRightY": 367,
+      "content": "Ask for clarification",
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 354,
+      "bottomRightX": 321,
+      "bottomRightY": 370,
+      "content": "Jim: Who were they?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 371,
+      "bottomRightX": 604,
+      "bottomRightY": 403,
+      "content": "Don: I don't know. But they were really scary. One was holding a gun. My brother and I wanted to run but we couldn't move. It was terrible.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 194,
+      "topLeftY": 403,
+      "bottomRightX": 363,
+      "bottomRightY": 420,
+      "content": "Jim: So how did you escape?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 420,
+      "bottomRightX": 289,
+      "bottomRightY": 437,
+      "content": "Don: I woke up.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 454,
+      "bottomRightX": 585,
+      "bottomRightY": 471,
+      "content": "Listen to the conversation. What does Jennie think of Debbie's dream?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 473,
+      "bottomRightX": 359,
+      "bottomRightY": 490,
+      "content": "Do activities C and D in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 492,
+      "bottomRightX": 337,
+      "bottomRightY": 509,
+      "content": "Listen and repeat the conversation.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 532,
+      "bottomRightX": 578,
+      "bottomRightY": 551,
+      "content": "Debbie: I had a brilliant dream last night. It was wonderful. I didn't want to wake up.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 551,
+      "bottomRightX": 438,
+      "bottomRightY": 567,
+      "content": "Jennie: Oh, no. Not again. Well, what was this one about?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 567,
+      "bottomRightX": 613,
+      "bottomRightY": 584,
+      "content": "Debbie: I dreamt that I was flying in a balloon. The moon was shining and the stars were ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 584,
+      "bottomRightX": 447,
+      "bottomRightY": 600,
+      "content": "Jennie: Just a minute. You were flying in a balloon at night!",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 600,
+      "bottomRightX": 591,
+      "bottomRightY": 617,
+      "content": "Debbie: Yes. It was beautiful. I was flying high above the clouds. And then suddenly ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 617,
+      "bottomRightX": 281,
+      "bottomRightY": 634,
+      "content": "Jennie: You saw a spaceship.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 634,
+      "bottomRightX": 339,
+      "bottomRightY": 650,
+      "content": "Debbie: No. I heard a bird talking to me.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 650,
+      "bottomRightX": 339,
+      "bottomRightY": 667,
+      "content": "Jennie: You heard a bird talking to you!",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 667,
+      "bottomRightX": 510,
+      "bottomRightY": 684,
+      "content": "Debbie: Yes. It told me to get out of the balloon and climb onto its back.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 684,
+      "bottomRightX": 314,
+      "bottomRightY": 700,
+      "content": "Jennie: And you got out, of course.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 700,
+      "bottomRightX": 604,
+      "bottomRightY": 733,
+      "content": "Debbie: Of course. We flew over the mountains and over the sea. I could see lots of small boats about a kilometre below me. It was wonderful. But then it ended.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 734,
+      "bottomRightX": 292,
+      "bottomRightY": 750,
+      "content": "Jennie: Why? What happened?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 750,
+      "bottomRightX": 425,
+      "bottomRightY": 767,
+      "content": "Debbie: I lost my hold on the bird's feathers and fell off.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 768,
+      "bottomRightX": 433,
+      "bottomRightY": 784,
+      "content": "Jennie: And how did you survive this one-kilometre fall?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 784,
+      "bottomRightX": 222,
+      "bottomRightY": 800,
+      "content": "Debbie: I woke up.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 826,
+      "bottomRightX": 533,
+      "bottomRightY": 863,
+      "content": "Ask questions about one of your partner's dreams and answer questions about one of your own.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 625,
+      "topLeftY": 944,
+      "bottomRightX": 638,
+      "bottomRightY": 958,
+      "content": "11",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 994,
+      "bottomRightX": 127,
+      "bottomRightY": 1003,
+      "content": "--",
+      "type": "footer"
+    }
+  ]
+}

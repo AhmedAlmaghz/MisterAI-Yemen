@@ -1,0 +1,123 @@
+{
+  "index": 10,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 62,
+      "topLeftY": 110,
+      "bottomRightX": 80,
+      "bottomRightY": 124,
+      "content": "15",
+      "type": "header"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 106,
+      "bottomRightX": 470,
+      "bottomRightY": 131,
+      "content": "## A drive in the countryside",
+      "type": "title"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 141,
+      "bottomRightX": 571,
+      "bottomRightY": 177,
+      "content": "**Read this description. As you read, try to imagine the scene as the driver travels through the countryside.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 189,
+      "bottomRightX": 386,
+      "bottomRightY": 331,
+      "content": "Last year, I spent my holiday in Wales, where the scenery is wonderful. One bright, sunny day I decided to go for a drive. I drove out of town along the coast road. The sea was to my left about two kilometres away. Between the sea and the road was farmland. In one field there were a lot of cows with their heads down, grazing. In another field, closer to me, a farmer on a tractor was ploughing. Behind the plough were lots of birds, looking for something to eat in the newly turned over soil.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 327,
+      "bottomRightX": 583,
+      "bottomRightY": 469,
+      "content": "To the right of the road were some high, rocky hills. I turned off the main coast road and soon I was in a deep valley. Hills rose on both sides of the road. At first, the road climbed gently, but as I drove higher, it got steeper and steeper. Further up I could see a river to the left. I drove higher and higher and the river got narrower and narrower, until it was just a stream.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 485,
+      "bottomRightX": 588,
+      "bottomRightY": 597,
+      "content": "Near the top of the hill, the road ended. I got out of the car and climbed to the peak to look at the view of the valley below. At the end of the valley I could see the farmer on his tractor. Away in the distance I could just make out the sea. As I looked, I began to feel hungry and thirsty.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 609,
+      "bottomRightX": 514,
+      "bottomRightY": 737,
+      "content": "I went back down to the stream below. The water was cold and clear and tasted very good. I sat on a rock to eat my sandwiches, my back warmed by the sun. Suddenly a cloud came across the sun. I felt cold. A mist came down over the mountain. Soon I would not be able to see where I was going. I knew I had to leave. I put away a half-eaten sandwich, got into the car and drove back down the valley.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 753,
+      "bottomRightX": 529,
+      "bottomRightY": 788,
+      "content": "**Read the first paragraph carefully and think about how it is organized.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 788,
+      "bottomRightX": 481,
+      "bottomRightY": 803,
+      "content": "Which side of the road did the writer look at first?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 804,
+      "bottomRightX": 409,
+      "bottomRightY": 820,
+      "content": "What was furthest away from him?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 821,
+      "bottomRightX": 365,
+      "bottomRightY": 835,
+      "content": "What was nearest to him?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 851,
+      "bottomRightX": 550,
+      "bottomRightY": 869,
+      "content": "**Then look at how the other paragraphs are organized.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 238,
+      "topLeftY": 876,
+      "bottomRightX": 492,
+      "bottomRightY": 893,
+      "content": "**Now do activities A and B in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 975,
+      "bottomRightX": 125,
+      "bottomRightY": 1004,
+      "content": "![A small circular logo with a stylized 'A' inside.]()",
+      "type": "footer"
+    }
+  ]
+}

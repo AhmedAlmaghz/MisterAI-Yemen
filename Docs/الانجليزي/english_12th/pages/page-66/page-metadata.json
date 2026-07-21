@@ -1,0 +1,126 @@
+{
+  "index": 65,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 240,
+      "topLeftY": 65,
+      "bottomRightX": 289,
+      "bottomRightY": 82,
+      "content": "ARTS 8",
+      "type": "header"
+    },
+    {
+      "topLeftX": 221,
+      "topLeftY": 94,
+      "bottomRightX": 340,
+      "bottomRightY": 121,
+      "content": "# Calligraphy",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 139,
+      "bottomRightX": 324,
+      "bottomRightY": 238,
+      "content": "The word 'calligraphy' comes from Greek. It means 'beautiful writing'. It is the art of fine handwriting and has been practised in many countries for centuries. In the Far East, a pointed brush is used. In Western and Islamic cultures, a pen is the calligrapher's tool.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 250,
+      "bottomRightX": 206,
+      "bottomRightY": 453,
+      "content": "![img-91.jpeg](img-91.jpeg)",
+      "type": "image",
+      "imageId": "img-91.jpeg"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 243,
+      "bottomRightX": 356,
+      "bottomRightY": 473,
+      "content": "Calligraphy in China has a history going back thousands of years. There was a strong connection between painting and calligraphy because they used similar methods and materials. However, calligraphers were seen as scholars, while painters were seen as ordinary workers. It was not until the 5th century that they were treated as equals.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 504,
+      "bottomRightX": 205,
+      "bottomRightY": 848,
+      "content": "In Western cultures, calligraphy was based on the Roman letters. Different styles were developed from these basic shapes. Calligraphers were often religious men and the most beautiful examples of Western calligraphy are usually found in religious books. The pages are made beautiful by the shapes of the letters, the pictures added as decorations, and by the right colours used.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 232,
+      "topLeftY": 500,
+      "bottomRightX": 363,
+      "bottomRightY": 886,
+      "content": "![img-92.jpeg](img-92.jpeg)",
+      "type": "image",
+      "imageId": "img-92.jpeg"
+    },
+    {
+      "topLeftX": 380,
+      "topLeftY": 139,
+      "bottomRightX": 623,
+      "bottomRightY": 222,
+      "content": "Calligraphy among the followers of Islam was seen as the greatest of the arts, because of the importance of the writing of the Holy Koran. Therefore, many calligraphers concentrated the name of God.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 386,
+      "topLeftY": 236,
+      "bottomRightX": 635,
+      "bottomRightY": 435,
+      "content": "![img-93.jpeg](img-93.jpeg)",
+      "type": "image",
+      "imageId": "img-93.jpeg"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 446,
+      "bottomRightX": 622,
+      "bottomRightY": 677,
+      "content": "As Islam spread, so did calligraphy. The art grew and developed and two main styles appeared. *Kufic*, an angular style for carving in stone, appeared in the 7th century. By the 10th century, *Nashki*, a more flowing style with rounded letters, appeared and *Kufic* had almost disappeared. New forms of calligraphy also appeared in art and architecture. Artists twisted words into circles, squares and other shapes, small enough to fit on a plane or large enough to decorate the wall of a mosque. Birds, fruit, animals and even the shapes of mosques, ships and the Islamic Star and Crescent became part of the calligrapher's art.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 692,
+      "bottomRightX": 623,
+      "bottomRightY": 807,
+      "content": "A number of young artists today are interested in traditional calligraphy. A good example is a piece of modern calligraphy in the shape of the Hand of Fatimah. It was designed as a greeting card by the Lebanese artist Mouna Bassili Sehnaouri some years ago. It reads *Ma sha 'Allah* - 'As God wills'.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 380,
+      "topLeftY": 836,
+      "bottomRightX": 441,
+      "bottomRightY": 851,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 380,
+      "topLeftY": 852,
+      "bottomRightX": 567,
+      "bottomRightY": 900,
+      "content": "- • Is calligraphy important today?\n- • Should writing be easy to read or beautiful?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 619,
+      "topLeftY": 937,
+      "bottomRightX": 635,
+      "bottomRightY": 952,
+      "content": "60",
+      "type": "footer"
+    }
+  ]
+}

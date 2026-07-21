@@ -1,0 +1,126 @@
+{
+  "index": 32,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 61,
+      "bottomRightX": 85,
+      "bottomRightY": 78,
+      "content": "4.6",
+      "type": "header"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 61,
+      "bottomRightX": 339,
+      "bottomRightY": 91,
+      "content": "# Language review 7",
+      "type": "title"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 104,
+      "bottomRightX": 530,
+      "bottomRightY": 146,
+      "content": "### 1 *Use of sequence words and phrases (first, then, next, after that, finally)*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 164,
+      "bottomRightX": 464,
+      "bottomRightY": 184,
+      "content": "You use these words to introduce each stage of a process.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 197,
+      "bottomRightX": 583,
+      "bottomRightY": 326,
+      "content": "|  **Examples:** | **First** you fry the onions and garlic. **Then** you add the spices. **Next** you add the tomatoes. **After that** you cover the mixture. **Finally** you simmer for fifteen minutes.  |\n| --- | --- |\n|  **Note:** | some writers put a comma after each of these sequence words/phrases.  |\n|  **Example:** | **First**, put some water in a pan.  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 341,
+      "bottomRightX": 272,
+      "bottomRightY": 361,
+      "content": "### 2 *Use of the Passive*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 373,
+      "bottomRightX": 547,
+      "bottomRightY": 410,
+      "content": "You use the Passive when you want to make the object more important than the subject.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 414,
+      "bottomRightX": 595,
+      "bottomRightY": 544,
+      "content": "|  **Example:** | **subject** People | **object** grow coffee in Yemen. → Coffee is **grown** in Yemen.  |\n| --- | --- | --- |\n|   | **subject** We can find | **object** fruit trees in some wadis. → Fruit trees **can be found** in some wadis  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 544,
+      "bottomRightX": 580,
+      "bottomRightY": 581,
+      "content": "**Note:** We often omit the original subject in the passive sentence, particularly when it is not important, as in the above examples 'people' and 'we'.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 594,
+      "bottomRightX": 544,
+      "bottomRightY": 615,
+      "content": "### 3 *Use of while + Present continuous with Present simple*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 634,
+      "bottomRightX": 594,
+      "bottomRightY": 670,
+      "content": "You use *while* + Present continuous with the Present simple when you want to show that two actions happen at the same time.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 684,
+      "bottomRightX": 578,
+      "bottomRightY": 722,
+      "content": "|  **Example:** | **First action** | **Second action**  |\n| --- | --- | --- |\n|   | While the mixture is boiling gently, you fry the pieces of fish.  |   |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 731,
+      "bottomRightX": 503,
+      "bottomRightY": 769,
+      "content": "**Find examples of the above language in the texts.**\n**Now do activities A to D in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 941,
+      "bottomRightX": 98,
+      "bottomRightY": 956,
+      "content": "28",
+      "type": "footer"
+    }
+  ]
+}

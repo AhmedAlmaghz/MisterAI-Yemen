@@ -1,0 +1,85 @@
+{
+  "index": 20,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 58,
+      "topLeftY": 62,
+      "bottomRightX": 83,
+      "bottomRightY": 78,
+      "content": "2.11",
+      "type": "header"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 61,
+      "bottomRightX": 520,
+      "bottomRightY": 87,
+      "content": "# Armenia - 7, December 1988",
+      "type": "title"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 108,
+      "bottomRightX": 550,
+      "bottomRightY": 145,
+      "content": "Look at the photographs and read the newsflashes and information about the disaster.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 77,
+      "topLeftY": 158,
+      "bottomRightX": 634,
+      "bottomRightY": 672,
+      "content": "![img-23.jpeg](img-23.jpeg)",
+      "type": "image",
+      "imageId": "img-23.jpeg"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 701,
+      "bottomRightX": 535,
+      "bottomRightY": 733,
+      "content": "**The Richter scale:** The strength of an earthquake is measured on the Richter scale. It was invented by Charles Richter, an American scientist.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 744,
+      "bottomRightX": 535,
+      "bottomRightY": 846,
+      "content": "|  Richter scale | Effects  |\n| --- | --- |\n|  More than 8.0 | Almost total damage  |\n|  More than 7.4 | Great damage  |\n|  7.0 - 7.3 | Serious damage, metal bridges bent  |\n|  6.2 - 6.9 | Considerable damage to buildings  |\n|  5.5 - 6.1 | Slight damage to buildings  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 881,
+      "bottomRightX": 534,
+      "bottomRightY": 899,
+      "content": "Think about the best order for the information.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 207,
+      "topLeftY": 917,
+      "bottomRightX": 528,
+      "bottomRightY": 955,
+      "content": "Now do activities A, B and C in the Workbook before writing your own report.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 938,
+      "bottomRightX": 98,
+      "bottomRightY": 955,
+      "content": "16",
+      "type": "footer"
+    }
+  ]
+}

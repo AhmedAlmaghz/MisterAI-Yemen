@@ -1,0 +1,108 @@
+{
+  "index": 13,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 168,
+      "topLeftY": 61,
+      "bottomRightX": 409,
+      "bottomRightY": 80,
+      "content": "UNIT 2 REPORTING EVENTS",
+      "type": "header"
+    },
+    {
+      "topLeftX": 635,
+      "topLeftY": 100,
+      "bottomRightX": 656,
+      "bottomRightY": 115,
+      "content": "2.1",
+      "type": "header"
+    },
+    {
+      "topLeftX": 169,
+      "topLeftY": 97,
+      "bottomRightX": 413,
+      "bottomRightY": 123,
+      "content": "## Newspaper headlines",
+      "type": "title"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 133,
+      "bottomRightX": 593,
+      "bottomRightY": 217,
+      "content": "A newspaper headline says in a few words what the report below it is about. They generally use shortened, simplified sentences. For example, in English-language headlines, the verb to be, there is/are, and the articles a, an and the are usually left out. Also, they are often written in the simple present tense even when talking about the past or the future.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 236,
+      "bottomRightX": 611,
+      "bottomRightY": 273,
+      "content": "Look at the headlines below and try to work out the meaning of the underlined words.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 263,
+      "bottomRightX": 635,
+      "bottomRightY": 493,
+      "content": "![img-19.jpeg](img-19.jpeg)",
+      "type": "image",
+      "imageId": "img-19.jpeg"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 501,
+      "bottomRightX": 626,
+      "bottomRightY": 555,
+      "content": "Read how to work out the meaning of words. Then look at the underlined words again. Say which clue helped you understand them.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 578,
+      "bottomRightX": 308,
+      "bottomRightY": 595,
+      "content": "### Working out meanings",
+      "type": "title"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 595,
+      "bottomRightX": 616,
+      "bottomRightY": 611,
+      "content": "Remember to use these clues to help you work out the meanings of new works.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 611,
+      "bottomRightX": 628,
+      "bottomRightY": 912,
+      "content": "1 Synonyms - words with the same meaning\nExample: The English lesson starts at 8:45; the History lesson commences at 9:45.\n2 Antonyms - words with the opposite meaning\nExample: Sue is always well dressed; Barry, however, always looks scruffy.\n3 A definition or explanation\nExample: Mona is a diligent, that is to say, a very hard-working pupil.\n4 Examples or illustrations that show the meaning\nExample: Tourists want to buy local artefacts, such as knives, pots and jewellery.\n5 Cause and effect or result; if you understand the cause of something, you can work out the effect, and the other way around.\nExample: Ali has had many accidents because he always drives recklessly.\n6 Purpose - what something does\nExample: I've just bought a telescope so that I can study the stars.\n7 Word formation\nExamples: - two known words make a new word: pain + killer = painkiller\n- suffixes: hope + less = hopeless, dark + en = darken\n- prefixes: un + well = unwell",
+      "type": "list"
+    },
+    {
+      "topLeftX": 168,
+      "topLeftY": 927,
+      "bottomRightX": 484,
+      "bottomRightY": 944,
+      "content": "Now do activities A and B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 625,
+      "topLeftY": 940,
+      "bottomRightX": 636,
+      "bottomRightY": 955,
+      "content": "9",
+      "type": "footer"
+    }
+  ]
+}

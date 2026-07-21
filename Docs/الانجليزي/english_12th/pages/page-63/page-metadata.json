@@ -1,0 +1,139 @@
+{
+  "index": 62,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 232,
+      "topLeftY": 66,
+      "bottomRightX": 284,
+      "bottomRightY": 83,
+      "content": "ARTS 6",
+      "type": "header"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 104,
+      "bottomRightX": 422,
+      "bottomRightY": 129,
+      "content": "# Critics and criticism",
+      "type": "title"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 138,
+      "bottomRightX": 380,
+      "bottomRightY": 154,
+      "content": "### Professional critics of the arts",
+      "type": "title"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 154,
+      "bottomRightX": 607,
+      "bottomRightY": 221,
+      "content": "Why do you watch one film and not another? Why do you buy one compact disc and not another? Perhaps a friend recommended them, and, of course, you have your own personal taste. However, your opinions and tastes as well as your friend's may have been influenced by critics.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 221,
+      "bottomRightX": 601,
+      "bottomRightY": 300,
+      "content": "The verb 'to criticize' means to make a judgement about something or somebody. A critic is a person who makes judgements about the arts, that is literature, sculpture, films, music, television programmes and so on. The critic helps the public to decide whether a new book or film, for example, is good.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 300,
+      "bottomRightX": 599,
+      "bottomRightY": 351,
+      "content": "The reports that critics write are called 'reviews'. After people read reviews they decide whether they want to buy a particular compact disc or watch a particular video.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 367,
+      "bottomRightX": 328,
+      "bottomRightY": 383,
+      "content": "### Making judgements",
+      "type": "title"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 383,
+      "bottomRightX": 606,
+      "bottomRightY": 498,
+      "content": "Critics comment on works of art in many ways. In poetry, the critic looks at the language the poet uses and how well this expresses what he or she wants to say. When discussing a painting, one critic may describe only the technique - how the artist painted the picture. Some critics think that the artist's life is important. One film critic will talk about how interesting the story of the film is; another will concentrate on how it was filmed; another may comment only on the acting.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 513,
+      "bottomRightX": 356,
+      "bottomRightY": 530,
+      "content": "### The importance of critics",
+      "type": "title"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 530,
+      "bottomRightX": 616,
+      "bottomRightY": 578,
+      "content": "Critics are important in two ways. First, they can have an immediate effect on the success of a work of art. If a film gets bad reviews, people might not want to see it. Secondly, critics draw the attention of the public to new works.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 214,
+      "topLeftY": 578,
+      "bottomRightX": 606,
+      "bottomRightY": 612,
+      "content": "Critics help us have a better understanding of the arts. However, they cannot tell us what to think. In the end, we have to make up our own minds.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 630,
+      "bottomRightX": 395,
+      "bottomRightY": 647,
+      "content": "#### Other uses of *critic*, *criticism*, *criticize* and *critical*",
+      "type": "title"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 647,
+      "bottomRightX": 588,
+      "bottomRightY": 780,
+      "content": "1. Ahmed has his **critics**. = There are some people who say that Ahmed does everything wrong.\n2. The new building got a lot of **criticism**. = A lot of people didn't like the new building.\n3. Stop **criticizing** me. = Stop saying I do everything wrong.\n4. Ahmed is a very **critical** person. = Ahmed criticizes things or other people a lot.\n**or**\nThe game has reached a **critical** stage. = The game has reached a very important stage.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 804,
+      "bottomRightX": 279,
+      "bottomRightY": 820,
+      "content": "#### Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 218,
+      "topLeftY": 820,
+      "bottomRightX": 575,
+      "bottomRightY": 871,
+      "content": "- Do you use your own judgement to choose books and videos, or do you wait to hear what other people or critics say?\n- Do you agree that critics do a useful job?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 934,
+      "bottomRightX": 111,
+      "bottomRightY": 949,
+      "content": "57",
+      "type": "footer"
+    }
+  ]
+}

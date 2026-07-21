@@ -1,0 +1,236 @@
+{
+  "index": 57,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 225,
+      "topLeftY": 62,
+      "bottomRightX": 274,
+      "bottomRightY": 79,
+      "content": "ARTS 2",
+      "type": "header"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 89,
+      "bottomRightX": 429,
+      "bottomRightY": 112,
+      "content": "# Proverbs and idioms",
+      "type": "title"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 125,
+      "bottomRightX": 342,
+      "bottomRightY": 192,
+      "content": "'Half a loaf is better than no bread at all' and 'look down your nose at something.' Which is a proverb and which is an idiom? Being able to answer this is a sign that you know - or are on",
+      "type": "text"
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 125,
+      "bottomRightX": 606,
+      "bottomRightY": 192,
+      "content": "the way to knowing - how English works. Of the two, idioms are the most widely used. Choosing the right idiom and using it at the right time is a sign of real progress in English.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 206,
+      "bottomRightX": 207,
+      "bottomRightY": 230,
+      "content": "# Proverbs",
+      "type": "title"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 232,
+      "bottomRightX": 445,
+      "bottomRightY": 267,
+      "content": "A proverb is a sentence that expresses a truth or moral lesson. There are proverbs in most languages and some are very old.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 272,
+      "bottomRightX": 451,
+      "bottomRightY": 291,
+      "content": "Match these English proverbs with the explanations.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 292,
+      "bottomRightX": 154,
+      "bottomRightY": 309,
+      "content": "Proverbs",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 312,
+      "bottomRightX": 303,
+      "bottomRightY": 434,
+      "content": "1 Half a loaf is better than no bread at all.\n2 One man's meat is another man's poison.\n3 Actions speak louder than words.\n4 No man can serve two masters.\n5 One good turn deserves another.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 311,
+      "topLeftY": 292,
+      "bottomRightX": 397,
+      "bottomRightY": 309,
+      "content": "Explanations",
+      "type": "text"
+    },
+    {
+      "topLeftX": 311,
+      "topLeftY": 312,
+      "bottomRightX": 630,
+      "bottomRightY": 452,
+      "content": "a A person cannot serve two opposing groups or ideas.\nb Having something is better than having nothing.\nc A person's actions are more important than what he or she says.\nd If someone does something kind for you, you should return this by doing something just as kind.\ne What is good for one person may not be good for anyone else.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 454,
+      "bottomRightX": 269,
+      "bottomRightY": 471,
+      "content": "What about these proverbs?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 472,
+      "bottomRightX": 465,
+      "bottomRightY": 490,
+      "content": "Many hands make light work. Too many cooks spoil the broth.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 492,
+      "bottomRightX": 483,
+      "bottomRightY": 510,
+      "content": "They have the opposite meaning. Broth, by the way, is a kind of soup.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 523,
+      "bottomRightX": 593,
+      "bottomRightY": 543,
+      "content": "Do you have any pairs of proverbs in Arabic that have opposite meanings?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 571,
+      "bottomRightX": 179,
+      "bottomRightY": 593,
+      "content": "# Idioms",
+      "type": "title"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 596,
+      "bottomRightX": 517,
+      "bottomRightY": 664,
+      "content": "Idioms are very common in English and they can be very difficult for learners to understand because the general meaning is different from the meanings of the words used. Like language, idioms change with time, and some idioms that were widely used ten years ago, can sound old-fashioned today.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 672,
+      "bottomRightX": 457,
+      "bottomRightY": 711,
+      "content": "Sometimes the same word is used in different idioms. Read these idioms and match them to the pictures.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 727,
+      "bottomRightX": 242,
+      "bottomRightY": 746,
+      "content": "lead someone by the nose",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 762,
+      "bottomRightX": 221,
+      "bottomRightY": 782,
+      "content": "pay through the nose",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 797,
+      "bottomRightX": 270,
+      "bottomRightY": 817,
+      "content": "poke your nose into something",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 831,
+      "bottomRightX": 289,
+      "bottomRightY": 851,
+      "content": "look down your nose at something",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 867,
+      "bottomRightX": 310,
+      "bottomRightY": 886,
+      "content": "can't see beyond the end of your nose",
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 723,
+      "bottomRightX": 412,
+      "bottomRightY": 790,
+      "content": "Ahmed should be thinking about getting a job, but he can't see beyond the end of his nose.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 480,
+      "topLeftY": 688,
+      "bottomRightX": 604,
+      "bottomRightY": 739,
+      "content": "Be careful of those chairs! I paid through the nose for them.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 323,
+      "topLeftY": 751,
+      "bottomRightX": 619,
+      "bottomRightY": 913,
+      "content": "![img-84.jpeg](img-84.jpeg)",
+      "type": "image",
+      "imageId": "img-84.jpeg"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 914,
+      "bottomRightX": 507,
+      "bottomRightY": 933,
+      "content": "Can you think of any Arabic idioms that use the same words?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 615,
+      "topLeftY": 941,
+      "bottomRightX": 633,
+      "bottomRightY": 956,
+      "content": "52",
+      "type": "footer"
+    }
+  ]
+}

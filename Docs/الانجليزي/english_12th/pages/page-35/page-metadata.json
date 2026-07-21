@@ -1,0 +1,148 @@
+{
+  "index": 34,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 62,
+      "bottomRightX": 84,
+      "bottomRightY": 78,
+      "content": "4.8",
+      "type": "header"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 61,
+      "bottomRightX": 551,
+      "bottomRightY": 89,
+      "content": "## Investigating the world around us",
+      "type": "title"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 96,
+      "bottomRightX": 585,
+      "bottomRightY": 146,
+      "content": "Aisha Yousif was asked to design a simple experiment on water pressure. She carried out an experiment in the school laboratory and wrote up her results.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 163,
+      "bottomRightX": 615,
+      "bottomRightY": 198,
+      "content": "**Read through the experiment. What did Aisha want to prove? Did she succeed?**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 157,
+      "topLeftY": 246,
+      "bottomRightX": 281,
+      "bottomRightY": 266,
+      "content": "**Name:** Aisha Yousif",
+      "type": "text"
+    },
+    {
+      "topLeftX": 165,
+      "topLeftY": 264,
+      "bottomRightX": 270,
+      "bottomRightY": 282,
+      "content": "**Date:** 11.12.1999",
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 276,
+      "bottomRightX": 410,
+      "bottomRightY": 301,
+      "content": "**TITLE:** An investigation into water pressure.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 289,
+      "bottomRightX": 489,
+      "bottomRightY": 319,
+      "content": "**QUESTION:** Why is a dam thicker at the bottom than at the top?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 119,
+      "topLeftY": 306,
+      "bottomRightX": 503,
+      "bottomRightY": 349,
+      "content": "**RESEARCH:** When you dive under water, the further you go down, the more your ears hurt.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 341,
+      "bottomRightX": 462,
+      "bottomRightY": 369,
+      "content": "**HYPOTHESIS:** The deeper the water, the greater the pressure.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 358,
+      "bottomRightX": 470,
+      "bottomRightY": 399,
+      "content": "**MATERIALS:** One 2-litre plastic bottle, a tray or basin, a nail, water and pair of scissors.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 392,
+      "bottomRightX": 513,
+      "bottomRightY": 533,
+      "content": "1. Cut the top off the plastic bottle.\n2. Use a nail to make four holes in the bottle at different levels from top to bottom.\n3. Put the bottle in the tray or basin.\n4. Cover the holes with your fingers, and then have a friend fill the bottle with water.\n5. When the bottle is full, take your fingers away from the holes and study the flow of water.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 523,
+      "bottomRightX": 506,
+      "bottomRightY": 585,
+      "content": "**DATA:** Four jets of water came out of the bottle. The jet at the top was the shortest and the jet at the bottom was the longest. The other two jets were in-between.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 579,
+      "bottomRightX": 354,
+      "bottomRightY": 736,
+      "content": "**CONCLUSION:** The length of the jet is related to the pressure of the water - the greater the pressure, the longer the jet. The longest jet is at the greatest depth. The data therefore confirms the hypothesis.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 355,
+      "topLeftY": 593,
+      "bottomRightX": 634,
+      "bottomRightY": 837,
+      "content": "![img-45.jpeg](img-45.jpeg)",
+      "type": "image",
+      "imageId": "img-45.jpeg"
+    },
+    {
+      "topLeftX": 183,
+      "topLeftY": 868,
+      "bottomRightX": 489,
+      "bottomRightY": 886,
+      "content": "Now do activities A and B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 939,
+      "bottomRightX": 100,
+      "bottomRightY": 956,
+      "content": "30",
+      "type": "footer"
+    }
+  ]
+}

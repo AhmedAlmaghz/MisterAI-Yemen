@@ -1,0 +1,116 @@
+{
+  "index": 47,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 156,
+      "topLeftY": 59,
+      "bottomRightX": 419,
+      "bottomRightY": 85,
+      "content": "## Accident at Jebel Kebir",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 63,
+      "bottomRightX": 656,
+      "bottomRightY": 78,
+      "content": "6.3",
+      "type": "header"
+    },
+    {
+      "topLeftX": 153,
+      "topLeftY": 97,
+      "bottomRightX": 612,
+      "bottomRightY": 136,
+      "content": "Look at the picture. Guess what has happened and what is happening now. Then read the text to find out if you were right.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 141,
+      "bottomRightX": 635,
+      "bottomRightY": 354,
+      "content": "![img-74.jpeg](img-74.jpeg)",
+      "type": "image",
+      "imageId": "img-74.jpeg"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 338,
+      "bottomRightX": 610,
+      "bottomRightY": 469,
+      "content": "In the school holidays Anwar always helped his father Kassim with the farm. One morning, they were checking the line of beehives below the high, broken rocks of Jebel Kebir. The had nearly finished when they heard a loud crash above them. They looked up. A large rock was starting to roll. 'Look out!' shouted Kassim. Other rocks were starting to move too. 'Get back!' The heavy rocks were rolling and bouncing down from the mountain, and the ground shook. Frightened by the noise, hundreds and thousands of bees rose from the hives. 'Run, Anwar!'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 446,
+      "bottomRightX": 602,
+      "bottomRightY": 575,
+      "content": "But Anwar tripped and fell to the shaking ground. His hat and the thin material covering his face fell off. The noise of the rocks - and now the bees - was terrible. A large rock bounced and rolled past him, just missing his head. Kassim turned and saw what was happening. His son might be killed! He started to run back, but the angry bees were there first. In a second, hundreds of them were covering. Anwar's hands, face and neck. Kassim rushed to his son, hitting out at the bees and trying to push them away. He half pulled and half carried Anwar to safety.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 326,
+      "topLeftY": 571,
+      "bottomRightX": 360,
+      "bottomRightY": 582,
+      "content": "***",
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 567,
+      "bottomRightX": 593,
+      "bottomRightY": 622,
+      "content": "As Kassim raced back to the village in his pick-up, he kept looking at his son beside him. Anwar groaned. The bee stings had made his face and hands look huge, and he was in a lot of pain.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 615,
+      "bottomRightX": 590,
+      "bottomRightY": 776,
+      "content": "Ten long minutes later, the pick-up screamed to a stop outside the clinic. District Nurse Salwa Mafouz was there. She was saying goodbye to her last patients and was getting ready to leave. Kassim jumped out, ran round to the other door and pulled his son out. Anwar's eyes were closed and he was almost unconscious. The two of them carried Anwar into the clinic, and Salwa started work immediately. 'He's been stung hundreds of times,' she said. 'I've never seen anything like it!' Then she held his wrist to check his pulse. She could only just feel it. 'Quick!' she said. 'We must get him to hospital in Hajjah.' They put Anwar on the back seat of her car, and she drove away at high speed. Kassim followed in the pick-up.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 155,
+      "topLeftY": 815,
+      "bottomRightX": 337,
+      "bottomRightY": 833,
+      "content": "### Answer these questions.",
+      "type": "title"
+    },
+    {
+      "topLeftX": 155,
+      "topLeftY": 840,
+      "bottomRightX": 508,
+      "bottomRightY": 875,
+      "content": "1. What turned an ordinary job into a terrifying incident?\n2. What turned the incident into a major medical emergency?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 155,
+      "topLeftY": 924,
+      "bottomRightX": 470,
+      "bottomRightY": 942,
+      "content": "Now do activities A and B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 620,
+      "topLeftY": 941,
+      "bottomRightX": 639,
+      "bottomRightY": 956,
+      "content": "43",
+      "type": "footer"
+    }
+  ]
+}

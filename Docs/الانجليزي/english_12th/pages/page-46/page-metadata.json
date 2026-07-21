@@ -1,0 +1,115 @@
+{
+  "index": 45,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 188,
+      "topLeftY": 61,
+      "bottomRightX": 376,
+      "bottomRightY": 79,
+      "content": "UNIT 6 LOOKING BACK",
+      "type": "header"
+    },
+    {
+      "topLeftX": 184,
+      "topLeftY": 94,
+      "bottomRightX": 447,
+      "bottomRightY": 120,
+      "content": "# Emergencies in the news",
+      "type": "title"
+    },
+    {
+      "topLeftX": 635,
+      "topLeftY": 106,
+      "bottomRightX": 655,
+      "bottomRightY": 121,
+      "content": "6.1",
+      "type": "header"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 132,
+      "bottomRightX": 597,
+      "bottomRightY": 167,
+      "content": "Read the newspaper articles below and match them to two of these headlines.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 316,
+      "topLeftY": 180,
+      "bottomRightX": 606,
+      "bottomRightY": 276,
+      "content": "# FAMILY SAVED FROM\nBURNING HOME",
+      "type": "title"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 271,
+      "bottomRightX": 462,
+      "bottomRightY": 392,
+      "content": "# DRIVERS INJURED IN\nHIGHWAY CRASH AND FIRE",
+      "type": "title"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 411,
+      "bottomRightX": 601,
+      "bottomRightY": 499,
+      "content": "# HIT-AND-RUN DRIVER\nINJURES STUDENT",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 551,
+      "bottomRightX": 269,
+      "bottomRightY": 714,
+      "content": "Alia Nawaz, 18, was\nbadly injured yesterday in a\nhorrific accident in Harib\nStreet. Walking home from\nschool at 1.30, she was hit by\na blue Suzuki jeep which\ndrove straight on. Police\nOfficer Ali Aziz, on his way\nback to 22 May Street Police",
+      "type": "text"
+    },
+    {
+      "topLeftX": 263,
+      "topLeftY": 535,
+      "bottomRightX": 431,
+      "bottomRightY": 701,
+      "content": "Station form highway patrol,\narrived first on the scene. He\nimmediately called an\nambulance for Alia, who had\na broken leg and a back\ninjury. Aziz says, 'This man\nmust be caught. If you saw\nthe incident, please phone\n08 111111 immediately.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 252,
+      "topLeftY": 725,
+      "bottomRightX": 419,
+      "bottomRightY": 900,
+      "content": "Mother of two Mrs Khalifa\nAl-Yamani, her son Amri, 5, and\ndaughter Shareefa, 2, were\nrescued yesterday from a fire at\ntheir flat in Medina Road. The\nfire was seen by husband\nMustapha when he was\nreturning from work at 2.00.\nAfter calling the fire service on\nhis mobile, he rushed to the",
+      "type": "text"
+    },
+    {
+      "topLeftX": 430,
+      "topLeftY": 727,
+      "bottomRightX": 598,
+      "bottomRightY": 883,
+      "content": "rescue. He was soon joined by\ntwo fire engines from Medina\nRoad Fire Station. Mustapha,\nhelped by Fire Officer Nasser\nBadawi, quickly carried his wife\nand children to safety. They\nwere taken by ambulance to\nhospital, where Mrs Yamani was\ntreated for burns on her arms.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 932,
+      "bottomRightX": 476,
+      "bottomRightY": 949,
+      "content": "Now do activities A and B in the Workbook.",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 621,
+      "topLeftY": 941,
+      "bottomRightX": 639,
+      "bottomRightY": 956,
+      "content": "41",
+      "type": "footer"
+    }
+  ]
+}

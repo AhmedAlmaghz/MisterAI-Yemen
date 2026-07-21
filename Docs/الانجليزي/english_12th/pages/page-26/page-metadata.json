@@ -1,0 +1,315 @@
+{
+  "index": 25,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 271,
+      "topLeftY": 65,
+      "bottomRightX": 470,
+      "bottomRightY": 92,
+      "content": "# Job and qualities",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 65,
+      "bottomRightX": 659,
+      "bottomRightY": 81,
+      "content": "3.6",
+      "type": "header"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 104,
+      "bottomRightX": 193,
+      "bottomRightY": 124,
+      "content": "## Names of jobs",
+      "type": "title"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 134,
+      "bottomRightX": 599,
+      "bottomRightY": 167,
+      "content": "Some names of jobs describe what the person does very clearly. For example, taxi-driver.\nThe two nouns combine to make one word and are called compounds.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 168,
+      "bottomRightX": 342,
+      "bottomRightY": 183,
+      "content": "Sometimes they are joined: shopkeeper",
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 183,
+      "bottomRightX": 360,
+      "bottomRightY": 199,
+      "content": "Sometimes they have a hyphen: life-guard",
+      "type": "text"
+    },
+    {
+      "topLeftX": 111,
+      "topLeftY": 199,
+      "bottomRightX": 412,
+      "bottomRightY": 216,
+      "content": "Sometimes they stay as two words: English teacher",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 232,
+      "bottomRightX": 441,
+      "bottomRightY": 250,
+      "content": "### Say what each of these people does in their job:",
+      "type": "title"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 265,
+      "bottomRightX": 384,
+      "bottomRightY": 281,
+      "content": "Example: taxi-driver: A taxi-driver dives taxis.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 281,
+      "bottomRightX": 518,
+      "bottomRightY": 329,
+      "content": "Note: In American English programme is always spelt 'program'. In British English this spelling is used only in connection with computers. It is both a noun and a verb.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 151,
+      "topLeftY": 337,
+      "bottomRightX": 528,
+      "bottomRightY": 388,
+      "content": "tourist guide firefighter bookseller taxi-driver\ncomputer programmer dressmaker film director newsreader\nscience teacher bank manager project manager",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 400,
+      "bottomRightX": 499,
+      "bottomRightY": 433,
+      "content": "In 'taxi-driver' there is no 's' at the end of taxi. When nouns are used as adjectives, They are always singular.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 447,
+      "bottomRightX": 533,
+      "bottomRightY": 466,
+      "content": "### Find other examples in the list. Can you think of any others?",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 486,
+      "bottomRightX": 153,
+      "bottomRightY": 505,
+      "content": "## Qualities",
+      "type": "title"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 515,
+      "bottomRightX": 584,
+      "bottomRightY": 550,
+      "content": "If you want to be a teacher you must be patient. In an advertisement the employer will ask for someone who shows patience.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 569,
+      "bottomRightX": 627,
+      "bottomRightY": 589,
+      "content": "### Use the adjectives and nouns below to make sentences about other jobs.",
+      "type": "title"
+    },
+    {
+      "topLeftX": 137,
+      "topLeftY": 602,
+      "bottomRightX": 258,
+      "bottomRightY": 668,
+      "content": "polite politeness\ndiligent diligence\nfriendly friendliness\nable ability",
+      "type": "text"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 603,
+      "bottomRightX": 530,
+      "bottomRightY": 668,
+      "content": "patient patience\nconscientious conscientiousness\nconfident confidence\ncomputer literate computer literacy",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 685,
+      "bottomRightX": 469,
+      "bottomRightY": 703,
+      "content": "### What do you think these underlined phrases mean?",
+      "type": "title"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 713,
+      "bottomRightX": 318,
+      "bottomRightY": 731,
+      "content": "Applicants will have good people skills.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 731,
+      "bottomRightX": 408,
+      "bottomRightY": 746,
+      "content": "The successful candidate will have a telephone manner.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 746,
+      "bottomRightX": 287,
+      "bottomRightY": 762,
+      "content": "Good keyboard skills are essential.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 762,
+      "bottomRightX": 394,
+      "bottomRightY": 779,
+      "content": "All our sales people have good communication skills.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 791,
+      "bottomRightX": 620,
+      "bottomRightY": 828,
+      "content": "### You need to be able to do different things in different jobs. In which jobs should you or must you...",
+      "type": "title"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 840,
+      "bottomRightX": 153,
+      "bottomRightY": 856,
+      "content": "be able to...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 856,
+      "bottomRightX": 195,
+      "bottomRightY": 873,
+      "content": "... use a computer?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 873,
+      "bottomRightX": 250,
+      "bottomRightY": 890,
+      "content": "... speak a foreign language?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 890,
+      "bottomRightX": 292,
+      "bottomRightY": 907,
+      "content": "Note: good/bad at doing something",
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 840,
+      "bottomRightX": 329,
+      "bottomRightY": 856,
+      "content": "be good at...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 856,
+      "bottomRightX": 392,
+      "bottomRightY": 873,
+      "content": "... dealing with people?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 255,
+      "topLeftY": 873,
+      "bottomRightX": 434,
+      "bottomRightY": 890,
+      "content": "... explaining things to people?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 442,
+      "topLeftY": 840,
+      "bottomRightX": 533,
+      "bottomRightY": 856,
+      "content": "be willing to...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 442,
+      "topLeftY": 856,
+      "bottomRightX": 638,
+      "bottomRightY": 873,
+      "content": "... work long and irregular hours?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 442,
+      "topLeftY": 873,
+      "bottomRightX": 500,
+      "bottomRightY": 889,
+      "content": "... travel?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 918,
+      "bottomRightX": 426,
+      "bottomRightY": 935,
+      "content": "### Now do activities A, B and C in the Workbook.",
+      "type": "title"
+    },
+    {
+      "topLeftX": 622,
+      "topLeftY": 944,
+      "bottomRightX": 638,
+      "bottomRightY": 958,
+      "content": "21",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 974,
+      "bottomRightX": 95,
+      "bottomRightY": 1013,
+      "content": "SOM",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 994,
+      "bottomRightX": 127,
+      "bottomRightY": 1003,
+      "content": "--",
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "index": 36,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 36,
+      "topLeftY": 65,
+      "bottomRightX": 85,
+      "bottomRightY": 81,
+      "content": "4.11 4.12",
+      "type": "header"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 65,
+      "bottomRightX": 312,
+      "bottomRightY": 93,
+      "content": "# Frozen peas",
+      "type": "title"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 103,
+      "bottomRightX": 511,
+      "bottomRightY": 141,
+      "content": "Read this description of the way peas are frozen.\nThen do activities A and B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 108,
+      "topLeftY": 196,
+      "bottomRightX": 300,
+      "bottomRightY": 855,
+      "content": "![img-46.jpeg](img-46.jpeg)",
+      "type": "image",
+      "imageId": "img-46.jpeg"
+    },
+    {
+      "topLeftX": 314,
+      "topLeftY": 196,
+      "bottomRightX": 610,
+      "bottomRightY": 360,
+      "content": "Frozen peas are fresher than the peas you buy in the market or in a shop. This is because frozen peas are processed within two or three hours of being picked or harvested. Ordinary peas are first sent to the market and then on to shops. This can take many hours or even days. All this time the peas are getting less and less fresh.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 316,
+      "topLeftY": 379,
+      "bottomRightX": 613,
+      "bottomRightY": 685,
+      "content": "For top quality, peas must be processed as quickly as possible, the quicker the better. On arrival at the processing factory, the softer peas are chosen for freezing and the harder peas kept for canning. The peas are quickly cleaned by fans and then thoroughly washed. Next the peas are passed through boiling water for one minute, or through steam for two or three minutes, a process known as blanching. After that they are cooled to less than 20°C and passed through salt water or brine. They are then washed again in clean water. Finally they are quick-frozen. The whole process takes about half an hour.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 703,
+      "bottomRightX": 615,
+      "bottomRightY": 848,
+      "content": "The frozen peas are packed into big bags and put into cold storage at -18°C. They may be stored for weeks or even months before being removed. They are then re-packed into smaller bags and sent in refrigerated trucks to shops and supermarkets.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 181,
+      "topLeftY": 877,
+      "bottomRightX": 486,
+      "bottomRightY": 915,
+      "content": "Use this information to fill in the flow chart in Workbook activity C.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 939,
+      "bottomRightX": 99,
+      "bottomRightY": 955,
+      "content": "32",
+      "type": "footer"
+    }
+  ]
+}

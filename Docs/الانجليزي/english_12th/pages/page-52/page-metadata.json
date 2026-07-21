@@ -1,0 +1,156 @@
+{
+  "index": 51,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 212,
+      "topLeftY": 62,
+      "bottomRightX": 587,
+      "bottomRightY": 91,
+      "content": "# Huge changes in Libyan health care",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 64,
+      "bottomRightX": 676,
+      "bottomRightY": 81,
+      "content": "6.8 6.9",
+      "type": "header"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 111,
+      "bottomRightX": 627,
+      "bottomRightY": 167,
+      "content": "Read the title of the page, the title of the magazine article and the introduction to the article. What do you think the article will be about?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 185,
+      "bottomRightX": 599,
+      "bottomRightY": 222,
+      "content": "Now read the text. What important things happened in Dr Badawi's life in 1960, 1967, 1969, 1973, and 1987?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 101,
+      "topLeftY": 251,
+      "bottomRightX": 609,
+      "bottomRightY": 289,
+      "content": "# A LONG LIFE IN MEDICINE",
+      "type": "title"
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 311,
+      "bottomRightX": 337,
+      "bottomRightY": 355,
+      "content": "Dr Suleiman Badawi, Senior Surgeon at Tripoli Central Hospital since 1987, looks back on his life in the Libyan Republic.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 364,
+      "bottomRightX": 344,
+      "bottomRightY": 655,
+      "content": "![img-80.jpeg](img-80.jpeg)",
+      "type": "image",
+      "imageId": "img-80.jpeg"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 661,
+      "bottomRightX": 352,
+      "bottomRightY": 760,
+      "content": "I remember the day in 1960 when I decided to become a doctor. I was 16, and two months earlier a good friend of mine, Sadiq, had died of tuberculosis. Now it seemed my younger sister, Fareeda, was going to die too. She had measles, and her temperature was very high. We knew measles was easy to cure - with proper medical care. But the nearest doctor was 200 kilometres away. I",
+      "type": "text"
+    },
+    {
+      "topLeftX": 357,
+      "topLeftY": 307,
+      "bottomRightX": 622,
+      "bottomRightY": 365,
+      "content": "felt very angry as we sat with Fareeda. 'Why should good people like Sadiq and Fareeda die? I asked myself. Disease and death were common in our little country town, where there were no medical facilities at all.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 357,
+      "topLeftY": 366,
+      "bottomRightX": 622,
+      "bottomRightY": 453,
+      "content": "Thanks be to Allah, Fareeda's temperature began to go down the next day, and she slowly got better. However, I was still angry. 'This can't go on', I thought. 'There should be medical help for everyone, not just for a few people in the cities.' That was the day my future was decided.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 357,
+      "topLeftY": 454,
+      "bottomRightX": 622,
+      "bottomRightY": 527,
+      "content": "At that time, there were no training facilities for doctors in Libya, and I had to go to Cairo. Two years after qualifying, in 1969, when I was completing further training in a large hospital in Alexandria, news of the new Republic came.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 357,
+      "topLeftY": 528,
+      "bottomRightX": 622,
+      "bottomRightY": 602,
+      "content": "The Republic put people at the centre of society. And for a better society, everybody needed good health care. This was exactly what I believed! The situation soon began to improve and now we have more doctors for every 1,000 patients than almost anywhere in the world.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 357,
+      "topLeftY": 602,
+      "bottomRightX": 622,
+      "bottomRightY": 676,
+      "content": "In the old days, trachoma was a terrible disease that made many people blind. As an eye surgeon, I was extremely interested in this area of medicine. It was a great moment in my life when I was asked to run the new Trachoma Centre in Benghazi in 1973.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 357,
+      "topLeftY": 676,
+      "bottomRightX": 622,
+      "bottomRightY": 765,
+      "content": "It is wonderful that we now have good health care, with trained medical staff in health centres and hospitals everywhere. Through hard work, we have at last stopped the terrible diseases of yesterday - malaria, tuberculosis and trachoma. I am only sorry that Sadiq cannot be here to see all these changes.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 209,
+      "topLeftY": 808,
+      "bottomRightX": 596,
+      "bottomRightY": 861,
+      "content": "Imagine that you have been told to chose one of the jobs that you have read about in the last two lessons. Which would it be, and why? Which would you not want to do?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 210,
+      "topLeftY": 877,
+      "bottomRightX": 475,
+      "bottomRightY": 893,
+      "content": "Now do activities A to D in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 622,
+      "topLeftY": 944,
+      "bottomRightX": 638,
+      "bottomRightY": 958,
+      "content": "47",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 975,
+      "bottomRightX": 94,
+      "bottomRightY": 1014,
+      "content": "[LOGO]",
+      "type": "footer"
+    }
+  ]
+}

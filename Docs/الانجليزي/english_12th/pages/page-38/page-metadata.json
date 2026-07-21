@@ -1,0 +1,124 @@
+{
+  "index": 37,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 184,
+      "topLeftY": 61,
+      "bottomRightX": 429,
+      "bottomRightY": 80,
+      "content": "UNIT 5 WORKING THINGS OUT",
+      "type": "header"
+    },
+    {
+      "topLeftX": 635,
+      "topLeftY": 72,
+      "bottomRightX": 656,
+      "bottomRightY": 88,
+      "content": "5.1",
+      "type": "header"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 95,
+      "bottomRightX": 288,
+      "bottomRightY": 118,
+      "content": "## Word sets",
+      "type": "title"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 129,
+      "bottomRightX": 545,
+      "bottomRightY": 147,
+      "content": "Look at these words. What do they have in common?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 190,
+      "topLeftY": 154,
+      "bottomRightX": 357,
+      "bottomRightY": 171,
+      "content": "table sofa chair armchair",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 183,
+      "bottomRightX": 404,
+      "bottomRightY": 199,
+      "content": "Answer: They are all pieces of furniture.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 217,
+      "bottomRightX": 573,
+      "bottomRightY": 282,
+      "content": "A group of connected words is called a **word set**. The name of this set is *furniture*. Learning words as a set is one way of helping you remember them. The picture on this page illustrates words connected with travelling by sea.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 290,
+      "bottomRightX": 562,
+      "bottomRightY": 327,
+      "content": "In Workbook activity A, match the words below with the numbers in the pictures.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 135,
+      "topLeftY": 336,
+      "bottomRightX": 596,
+      "bottomRightY": 370,
+      "content": "mast pulling up the sail rowing deck cabin horizon climbing aboard bow\noar telescope fishing boat tanker stern net",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 392,
+      "bottomRightX": 630,
+      "bottomRightY": 723,
+      "content": "![img-47.jpeg](img-47.jpeg)",
+      "type": "image",
+      "imageId": "img-47.jpeg"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 735,
+      "bottomRightX": 562,
+      "bottomRightY": 770,
+      "content": "Look at the sentences below. Mark them true or false in Workbook activity B.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 784,
+      "bottomRightX": 559,
+      "bottomRightY": 927,
+      "content": "- A There is a large tanker on the horizon.\n- B There is one sailor in the cabin.\n- C The fishing boat has three masts.\n- D There are some fish on the deck.\n- E Some sailors are pulling up the flag.\n- F Some sailor with the telescope is standing in the stern of the boat.\n- G Three sailors are climbing aboard the fishing boat.\n- H One man has lost an oar.\n- I Some people are rowing away from the fishing boat.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 177,
+      "topLeftY": 935,
+      "bottomRightX": 481,
+      "bottomRightY": 954,
+      "content": "Now do activities C and D in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 620,
+      "topLeftY": 941,
+      "bottomRightX": 639,
+      "bottomRightY": 957,
+      "content": "33",
+      "type": "footer"
+    }
+  ]
+}

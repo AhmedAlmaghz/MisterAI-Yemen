@@ -1,0 +1,206 @@
+{
+  "index": 38,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 61,
+      "bottomRightX": 86,
+      "bottomRightY": 78,
+      "content": "5.2",
+      "type": "header"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 61,
+      "bottomRightX": 305,
+      "bottomRightY": 87,
+      "content": "# Possibilities",
+      "type": "title"
+    },
+    {
+      "topLeftX": 172,
+      "topLeftY": 103,
+      "bottomRightX": 501,
+      "bottomRightY": 138,
+      "content": "Three children are looking at something that they have found.\nThey are trying to work out what it is.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 172,
+      "topLeftY": 153,
+      "bottomRightX": 376,
+      "bottomRightY": 172,
+      "content": "Look at what they are saying.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 82,
+      "topLeftY": 175,
+      "bottomRightX": 625,
+      "bottomRightY": 387,
+      "content": "![img-48.jpeg](img-48.jpeg)",
+      "type": "image",
+      "imageId": "img-48.jpeg"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 407,
+      "bottomRightX": 353,
+      "bottomRightY": 426,
+      "content": "Talk about what these objects might be.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 447,
+      "bottomRightX": 625,
+      "bottomRightY": 547,
+      "content": "![img-49.jpeg](img-49.jpeg)",
+      "type": "image",
+      "imageId": "img-49.jpeg"
+    },
+    {
+      "topLeftX": 79,
+      "topLeftY": 561,
+      "bottomRightX": 255,
+      "bottomRightY": 579,
+      "content": "Discuss the possibilities.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 595,
+      "bottomRightX": 242,
+      "bottomRightY": 612,
+      "content": "What would happen if ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 612,
+      "bottomRightX": 305,
+      "bottomRightY": 684,
+      "content": "1 ... there was no more rain in Yemen?\n2 ... all planes stopped flying?\n3 ... all plants stopped growing?\n4 ... there was no more electricity?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 706,
+      "bottomRightX": 182,
+      "bottomRightY": 742,
+      "content": "I've no idea.\nI haven't a clue.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 106,
+      "topLeftY": 751,
+      "bottomRightX": 206,
+      "bottomRightY": 891,
+      "content": "![img-50.jpeg](img-50.jpeg)",
+      "type": "image",
+      "imageId": "img-50.jpeg"
+    },
+    {
+      "topLeftX": 219,
+      "topLeftY": 713,
+      "bottomRightX": 310,
+      "bottomRightY": 850,
+      "content": "![img-51.jpeg](img-51.jpeg)",
+      "type": "image",
+      "imageId": "img-51.jpeg"
+    },
+    {
+      "topLeftX": 215,
+      "topLeftY": 858,
+      "bottomRightX": 373,
+      "bottomRightY": 912,
+      "content": "If there was no more rain in\nYemen, the whole country\nwould turn to desert.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 341,
+      "topLeftY": 598,
+      "bottomRightX": 473,
+      "bottomRightY": 696,
+      "content": "![img-52.jpeg](img-52.jpeg)",
+      "type": "image",
+      "imageId": "img-52.jpeg"
+    },
+    {
+      "topLeftX": 486,
+      "topLeftY": 598,
+      "bottomRightX": 604,
+      "bottomRightY": 696,
+      "content": "![img-53.jpeg](img-53.jpeg)",
+      "type": "image",
+      "imageId": "img-53.jpeg"
+    },
+    {
+      "topLeftX": 334,
+      "topLeftY": 702,
+      "bottomRightX": 425,
+      "bottomRightY": 810,
+      "content": "![img-54.jpeg](img-54.jpeg)",
+      "type": "image",
+      "imageId": "img-54.jpeg"
+    },
+    {
+      "topLeftX": 431,
+      "topLeftY": 702,
+      "bottomRightX": 517,
+      "bottomRightY": 792,
+      "content": "![img-55.jpeg](img-55.jpeg)",
+      "type": "image",
+      "imageId": "img-55.jpeg"
+    },
+    {
+      "topLeftX": 522,
+      "topLeftY": 702,
+      "bottomRightX": 609,
+      "bottomRightY": 792,
+      "content": "![img-56.jpeg](img-56.jpeg)",
+      "type": "image",
+      "imageId": "img-56.jpeg"
+    },
+    {
+      "topLeftX": 392,
+      "topLeftY": 800,
+      "bottomRightX": 509,
+      "bottomRightY": 912,
+      "content": "![img-57.jpeg](img-57.jpeg)",
+      "type": "image",
+      "imageId": "img-57.jpeg"
+    },
+    {
+      "topLeftX": 522,
+      "topLeftY": 800,
+      "bottomRightX": 609,
+      "bottomRightY": 912,
+      "content": "![img-58.jpeg](img-58.jpeg)",
+      "type": "image",
+      "imageId": "img-58.jpeg"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 939,
+      "bottomRightX": 100,
+      "bottomRightY": 956,
+      "content": "34",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 173,
+      "topLeftY": 934,
+      "bottomRightX": 489,
+      "bottomRightY": 954,
+      "content": "Now do activities A, B and C in the Workbook.",
+      "type": "footer"
+    }
+  ]
+}

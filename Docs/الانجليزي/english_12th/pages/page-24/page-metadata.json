@@ -1,0 +1,332 @@
+{
+  "index": 23,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 195,
+      "topLeftY": 61,
+      "bottomRightX": 437,
+      "bottomRightY": 89,
+      "content": "# Getting careers advice",
+      "type": "title"
+    },
+    {
+      "topLeftX": 634,
+      "topLeftY": 61,
+      "bottomRightX": 656,
+      "bottomRightY": 79,
+      "content": "3.4",
+      "type": "header"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 107,
+      "bottomRightX": 609,
+      "bottomRightY": 125,
+      "content": "Many schools have Career Advisors to help school-leavers plan their careers.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 140,
+      "bottomRightX": 604,
+      "bottomRightY": 194,
+      "content": "**Listen to how the school-leaver speaks. How does he feel? Answer the questions in Workbook activities A and B. Listen and repeat the conversation.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 204,
+      "bottomRightX": 151,
+      "bottomRightY": 233,
+      "content": "Offer Help\nask for advice",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 204,
+      "bottomRightX": 458,
+      "bottomRightY": 308,
+      "content": "**Career Advisor:** Now, how can I help you?\n**School-leaver:** Well, it's just that ... I don't know ... I need your advice. I've no idea what I want to do after I leave school. I've been thinking about it but ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 314,
+      "bottomRightX": 166,
+      "bottomRightY": 329,
+      "content": "Ask about family",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 306,
+      "bottomRightX": 446,
+      "bottomRightY": 373,
+      "content": "**Career Advisor:** What do your parents do?\n**School-leaver:** My father's an engineer and my mother's a Maths teacher.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 369,
+      "bottomRightX": 142,
+      "bottomRightY": 384,
+      "content": "Give advice",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 372,
+      "bottomRightX": 449,
+      "bottomRightY": 407,
+      "content": "**Career Advisor:** Then why not train to be a Maths teacher?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 397,
+      "bottomRightX": 169,
+      "bottomRightY": 411,
+      "content": "Turn down advice",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 406,
+      "bottomRightX": 450,
+      "bottomRightY": 439,
+      "content": "**School-leaver:** I'm no good at Maths. I'm hopeless at it.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 439,
+      "bottomRightX": 428,
+      "bottomRightY": 457,
+      "content": "**Career Advisor:** What are you good at?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 456,
+      "bottomRightX": 462,
+      "bottomRightY": 491,
+      "content": "**School-leaver:** Um... History... and Geography ... and ... that's it.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 493,
+      "bottomRightX": 166,
+      "bottomRightY": 522,
+      "content": "Talk about recent\nexperience",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 490,
+      "bottomRightX": 565,
+      "bottomRightY": 524,
+      "content": "**Career Advisor:** What work experience have you had?\n**School-leaver:** Well, recently I've been working at the hospital.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 523,
+      "bottomRightX": 420,
+      "bottomRightY": 541,
+      "content": "**Career Advisor:** And do you enjoy it?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 540,
+      "bottomRightX": 393,
+      "bottomRightY": 557,
+      "content": "**School-leaver:** Yes, very much.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 562,
+      "bottomRightX": 142,
+      "bottomRightY": 576,
+      "content": "Give advice",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 556,
+      "bottomRightX": 434,
+      "bottomRightY": 573,
+      "content": "**Career Advisor:** If I were you, I would...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 474,
+      "topLeftY": 204,
+      "bottomRightX": 635,
+      "bottomRightY": 477,
+      "content": "![img-30.jpeg](img-30.jpeg)",
+      "type": "image",
+      "imageId": "img-30.jpeg"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 604,
+      "bottomRightX": 590,
+      "bottomRightY": 622,
+      "content": "**Make your own conversation using the sentences below.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 149,
+      "topLeftY": 671,
+      "bottomRightX": 272,
+      "bottomRightY": 687,
+      "content": "ASKING FOR ADVICE",
+      "type": "text"
+    },
+    {
+      "topLeftX": 155,
+      "topLeftY": 689,
+      "bottomRightX": 265,
+      "bottomRightY": 703,
+      "content": "Can you help me, please?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 113,
+      "topLeftY": 706,
+      "bottomRightX": 306,
+      "bottomRightY": 721,
+      "content": "I need some advice on what to do after school.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 117,
+      "topLeftY": 724,
+      "bottomRightX": 303,
+      "bottomRightY": 738,
+      "content": "I don't know what to do. Can you advise me?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 446,
+      "topLeftY": 671,
+      "bottomRightX": 565,
+      "bottomRightY": 687,
+      "content": "ACCEPTING ADVICE",
+      "type": "text"
+    },
+    {
+      "topLeftX": 465,
+      "topLeftY": 689,
+      "bottomRightX": 546,
+      "bottomRightY": 703,
+      "content": "That's a good idea.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 434,
+      "topLeftY": 706,
+      "bottomRightX": 578,
+      "bottomRightY": 721,
+      "content": "That's a very good piece of advice.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 482,
+      "topLeftY": 724,
+      "bottomRightX": 528,
+      "bottomRightY": 738,
+      "content": "I'll do that.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 164,
+      "topLeftY": 780,
+      "bottomRightX": 255,
+      "bottomRightY": 794,
+      "content": "GIVING ADVICE",
+      "type": "text"
+    },
+    {
+      "topLeftX": 162,
+      "topLeftY": 796,
+      "bottomRightX": 258,
+      "bottomRightY": 811,
+      "content": "If I were you, I would...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 110,
+      "topLeftY": 815,
+      "bottomRightX": 309,
+      "bottomRightY": 829,
+      "content": "If I were in your shoes, I would study Medicine.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 166,
+      "topLeftY": 831,
+      "bottomRightX": 253,
+      "bottomRightY": 846,
+      "content": "Why not/don't you...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 848,
+      "bottomRightX": 296,
+      "bottomRightY": 864,
+      "content": "The best thing for you to do would be to...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 434,
+      "topLeftY": 780,
+      "bottomRightX": 578,
+      "bottomRightY": 794,
+      "content": "TURNING DOWN ADVICE",
+      "type": "text"
+    },
+    {
+      "topLeftX": 447,
+      "topLeftY": 796,
+      "bottomRightX": 565,
+      "bottomRightY": 811,
+      "content": "That's not a very good idea.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 460,
+      "topLeftY": 815,
+      "bottomRightX": 551,
+      "bottomRightY": 829,
+      "content": "I don't like doing that.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 441,
+      "topLeftY": 831,
+      "bottomRightX": 565,
+      "bottomRightY": 846,
+      "content": "I'm not good/very bad at that.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 620,
+      "topLeftY": 941,
+      "bottomRightX": 638,
+      "bottomRightY": 957,
+      "content": "19",
+      "type": "footer"
+    }
+  ]
+}

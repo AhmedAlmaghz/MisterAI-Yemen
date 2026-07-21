@@ -1,0 +1,142 @@
+{
+  "index": 43,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 196,
+      "topLeftY": 61,
+      "bottomRightX": 445,
+      "bottomRightY": 90,
+      "content": "# Language review 10",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 64,
+      "bottomRightX": 659,
+      "bottomRightY": 80,
+      "content": "5.9",
+      "type": "header"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 105,
+      "bottomRightX": 236,
+      "bottomRightY": 124,
+      "content": "## 1 Modal verbs - 2",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 136,
+      "bottomRightX": 578,
+      "bottomRightY": 155,
+      "content": "There are different ways of talking about how something happened in the past.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 163,
+      "bottomRightX": 633,
+      "bottomRightY": 232,
+      "content": "Suggesting a possible explanation-may/might/could+ have+ past participle\nDeciding on an explanation - must + have + past participle\nNot accepting the suggestion or decision - cannot/could not + have + past participle\nGiving reasons for (not) accepting a suggestion or decision - because",
+      "type": "list"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 247,
+      "bottomRightX": 533,
+      "bottomRightY": 352,
+      "content": "|  Examples: | The sailors may/might/could have mutinied. The sailors must have mutinied. The sailors cannot/could not have mutinied. The sailors of the Mary Celeste may (not) have mutinied because Captain Morehouse found a sword stained with blood.  |\n| --- | --- |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 374,
+      "bottomRightX": 358,
+      "bottomRightY": 395,
+      "content": "## 2 Verb + object + infinitive with to",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 405,
+      "bottomRightX": 480,
+      "bottomRightY": 423,
+      "content": "This is a very common sentence pattern, used with many verbs.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 430,
+      "bottomRightX": 452,
+      "bottomRightY": 501,
+      "content": "|  Examples: | He ordered his crew to put up signal flags. The teacher wants us to work harder. I would like you to come home early. My mother asked me to help her.  |\n| --- | --- |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 522,
+      "bottomRightX": 270,
+      "bottomRightY": 543,
+      "content": "## 3 Reflexive pronouns",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 553,
+      "bottomRightX": 550,
+      "bottomRightY": 571,
+      "content": "The reflexive pronoun is used when the subject of a verb is also the object.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 579,
+      "bottomRightX": 452,
+      "bottomRightY": 706,
+      "content": "|  Singular | Plural  |\n| --- | --- |\n|  myself | ourselves  |\n|  yourself | yourselves  |\n|  himself | themselves  |\n|  herself |   |\n|  itself |   |\n|  Example: The passengers decided to drown themselves.  |   |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 751,
+      "bottomRightX": 434,
+      "bottomRightY": 771,
+      "content": "Find examples of this language in the texts.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 788,
+      "bottomRightX": 452,
+      "bottomRightY": 806,
+      "content": "Now do activities A, B and C in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 620,
+      "topLeftY": 943,
+      "bottomRightX": 638,
+      "bottomRightY": 958,
+      "content": "39",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 974,
+      "bottomRightX": 95,
+      "bottomRightY": 1013,
+      "content": "WOM",
+      "type": "footer"
+    }
+  ]
+}

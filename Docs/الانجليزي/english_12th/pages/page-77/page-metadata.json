@@ -1,0 +1,222 @@
+{
+  "index": 76,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 237,
+      "topLeftY": 61,
+      "bottomRightX": 311,
+      "bottomRightY": 79,
+      "content": "SCIENCE 7",
+      "type": "header"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 95,
+      "bottomRightX": 494,
+      "bottomRightY": 121,
+      "content": "# Experimental procedures",
+      "type": "title"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 91,
+      "bottomRightX": 208,
+      "bottomRightY": 235,
+      "content": "![img-120.jpeg](img-120.jpeg)",
+      "type": "image",
+      "imageId": "img-120.jpeg"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 137,
+      "bottomRightX": 503,
+      "bottomRightY": 235,
+      "content": "When you carry out a scientific experiment, every stage of the process should be recorded and written up as a full report to show your results and conclusions. Such reports help you think about what you did and point you towards possible solutions to problems.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 235,
+      "bottomRightX": 478,
+      "bottomRightY": 285,
+      "content": "Without a correctly written-up procedure, it is impossible to monitor scientific progress or exchange scientific information.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 230,
+      "topLeftY": 283,
+      "bottomRightX": 512,
+      "bottomRightY": 350,
+      "content": "The starting point for scientific experiments is to answer a question, for example: *What happens when you heat wood/metal/plastic?* Experiments should always be measurable and show cause and effect.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 514,
+      "topLeftY": 107,
+      "bottomRightX": 632,
+      "bottomRightY": 341,
+      "content": "![img-121.jpeg](img-121.jpeg)",
+      "type": "image",
+      "imageId": "img-121.jpeg"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 243,
+      "bottomRightX": 208,
+      "bottomRightY": 337,
+      "content": "![img-122.jpeg](img-122.jpeg)",
+      "type": "image",
+      "imageId": "img-122.jpeg"
+    },
+    {
+      "topLeftX": 91,
+      "topLeftY": 363,
+      "bottomRightX": 437,
+      "bottomRightY": 401,
+      "content": "Reports on experimental procedures should follow these (or similar) guidelines:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 282,
+      "topLeftY": 462,
+      "bottomRightX": 419,
+      "bottomRightY": 484,
+      "content": "# Writing experiments",
+      "type": "title"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 503,
+      "bottomRightX": 508,
+      "bottomRightY": 520,
+      "content": "Your name: ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 530,
+      "bottomRightX": 508,
+      "bottomRightY": 547,
+      "content": "Date: ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 145,
+      "topLeftY": 558,
+      "bottomRightX": 508,
+      "bottomRightY": 574,
+      "content": "TITLE: ...",
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 579,
+      "bottomRightX": 365,
+      "bottomRightY": 605,
+      "content": "QUESTION: The question should be detailed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 602,
+      "bottomRightX": 600,
+      "bottomRightY": 633,
+      "content": "RESEARCH: This should be one or two sentences describing the information you know about the question. It should be the information on which you base your hypothesis.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 633,
+      "bottomRightX": 566,
+      "bottomRightY": 663,
+      "content": "HYPOTHESIS: This is an educated guess – a statement based on your previous research and experience that should answer the question.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 121,
+      "topLeftY": 663,
+      "bottomRightX": 445,
+      "bottomRightY": 684,
+      "content": "MATERIALS: A list of **everything** needed for the experiment.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 684,
+      "bottomRightX": 590,
+      "bottomRightY": 704,
+      "content": "PROCEDURE: A step-by-step list of **numbered** instructions showing how to do the experiment. Each step should start on a new line and usually begin with a verb.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 159,
+      "topLeftY": 704,
+      "bottomRightX": 549,
+      "bottomRightY": 725,
+      "content": "DATA: This is information collected during the experiment. It should include:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 208,
+      "topLeftY": 725,
+      "bottomRightX": 507,
+      "bottomRightY": 781,
+      "content": "- all measurements and observations\n- tables showing the data\n- numerical data shown as graphs",
+      "type": "list"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 781,
+      "bottomRightX": 507,
+      "bottomRightY": 801,
+      "content": "SUMMARY: The summary is one or two sentences that explain the data.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 801,
+      "bottomRightX": 339,
+      "bottomRightY": 822,
+      "content": "CONCLUSION: This can have four parts :",
+      "type": "text"
+    },
+    {
+      "topLeftX": 211,
+      "topLeftY": 811,
+      "bottomRightX": 369,
+      "bottomRightY": 914,
+      "content": "- analyse the data\n- see if your hypothesis was correct\n- describe or explain your evidence\n- identify experimental errors",
+      "type": "list"
+    },
+    {
+      "topLeftX": 381,
+      "topLeftY": 837,
+      "bottomRightX": 449,
+      "bottomRightY": 853,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 381,
+      "topLeftY": 854,
+      "bottomRightX": 593,
+      "bottomRightY": 926,
+      "content": "- What experiments would you like to carry out?\n- Why are experiments important for progress?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 103,
+      "topLeftY": 939,
+      "bottomRightX": 118,
+      "bottomRightY": 955,
+      "content": "71",
+      "type": "footer"
+    }
+  ]
+}

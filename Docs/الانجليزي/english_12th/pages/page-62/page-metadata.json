@@ -1,0 +1,189 @@
+{
+  "index": 61,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 241,
+      "topLeftY": 69,
+      "bottomRightX": 289,
+      "bottomRightY": 86,
+      "content": "ARTS 5",
+      "type": "header"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 105,
+      "bottomRightX": 367,
+      "bottomRightY": 404,
+      "content": "![img-87.jpeg](img-87.jpeg)",
+      "type": "image",
+      "imageId": "img-87.jpeg"
+    },
+    {
+      "topLeftX": 179,
+      "topLeftY": 351,
+      "bottomRightX": 306,
+      "bottomRightY": 377,
+      "content": "Shakespeare's birthplace!",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 419,
+      "bottomRightX": 303,
+      "bottomRightY": 501,
+      "content": "The next Saturday morning, they were walking around this famous town, which is about three hours' drive from Norton. They stopped in front of one of the many old houses still standing in Stratford.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 501,
+      "bottomRightX": 223,
+      "bottomRightY": 517,
+      "content": "'Here we are,' said Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 517,
+      "bottomRightX": 310,
+      "bottomRightY": 550,
+      "content": "'You mean this is the actual house?' asked Ahmed, surprised.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 550,
+      "bottomRightX": 308,
+      "bottomRightY": 598,
+      "content": "'Yes,' answered Bob. 'This is the actual house where Shakespeare was born on April 23rd, 1564.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 598,
+      "bottomRightX": 324,
+      "bottomRightY": 663,
+      "content": "Ahmed could not believe it. He knew that Shakespeare was born in Stratford, but he had never imagined that the actual house would still be there.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 104,
+      "topLeftY": 663,
+      "bottomRightX": 245,
+      "bottomRightY": 681,
+      "content": "'Let's go in,' suggested Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 681,
+      "bottomRightX": 325,
+      "bottomRightY": 809,
+      "content": "All the furniture in the house was from the 16th century. In the living room there were heavy wooden chairs and cupboards. Even the cooking equipment in the kitchen was from that period. Upstairs they walked through the room where Shakespeare was born and saw the desk where he studied as a schoolboy. Ahmed was fascinated.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 827,
+      "bottomRightX": 313,
+      "bottomRightY": 891,
+      "content": "They stayed the night at the local Youth Hostel and spent the next morning rowing on the River Avon, which gives the town part of its name.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 891,
+      "bottomRightX": 309,
+      "bottomRightY": 925,
+      "content": "'What's that?' asked Ahmed, pointing to a huge brick building by the side of the river.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 338,
+      "topLeftY": 167,
+      "bottomRightX": 628,
+      "bottomRightY": 521,
+      "content": "![img-88.jpeg](img-88.jpeg)",
+      "type": "image",
+      "imageId": "img-88.jpeg"
+    },
+    {
+      "topLeftX": 393,
+      "topLeftY": 459,
+      "bottomRightX": 557,
+      "bottomRightY": 504,
+      "content": "The Royal Shakespeare Theatre on the River Avon",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 525,
+      "bottomRightX": 593,
+      "bottomRightY": 590,
+      "content": "'The Royal Shakespeare Theatre,' answered Bob. 'They perform Shakespeare's plays there. They do three of four different ones every year.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 590,
+      "bottomRightX": 561,
+      "bottomRightY": 622,
+      "content": "'How many plays did he write?' asked Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 373,
+      "topLeftY": 622,
+      "bottomRightX": 496,
+      "bottomRightY": 639,
+      "content": "'Thirty-seven,' said Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 655,
+      "bottomRightX": 593,
+      "bottomRightY": 834,
+      "content": "Before they left Stratford, Ahmed wanted to buy some souvenirs. In the tourist shops, you could buy Shakespeare teapots, Shakespeare dolls, and even Shakespeare toothbrushes. Everything had 'Shakespeare' on it. Ahmed bought a book of photographs of the town. He also bought some copies of Shakespeare's plays and a special mirror. Shakespeare's beard, eyebrows and hair were painted on the mirror so that when you looked at yourself, you looked like Shakespeare.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 360,
+      "topLeftY": 834,
+      "bottomRightX": 587,
+      "bottomRightY": 867,
+      "content": "'I'll give it Khaled,' said Ahmed. 'I think he will like it.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 363,
+      "topLeftY": 884,
+      "bottomRightX": 421,
+      "bottomRightY": 898,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 363,
+      "topLeftY": 899,
+      "bottomRightX": 523,
+      "bottomRightY": 916,
+      "content": "- Explain Eid Al-Fitr in English.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 596,
+      "topLeftY": 935,
+      "bottomRightX": 612,
+      "bottomRightY": 949,
+      "content": "56",
+      "type": "footer"
+    }
+  ]
+}

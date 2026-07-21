@@ -1,0 +1,141 @@
+{
+  "index": 29,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 164,
+      "topLeftY": 61,
+      "bottomRightX": 547,
+      "bottomRightY": 80,
+      "content": "UNIT 4 TABLES, FLOW CHARTS AND DIAGRAMS",
+      "type": "header"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 104,
+      "bottomRightX": 246,
+      "bottomRightY": 129,
+      "content": "# Food",
+      "type": "title"
+    },
+    {
+      "topLeftX": 637,
+      "topLeftY": 107,
+      "bottomRightX": 655,
+      "bottomRightY": 121,
+      "content": "4.1",
+      "type": "header"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 143,
+      "bottomRightX": 622,
+      "bottomRightY": 180,
+      "content": "Here are some words connected with food and its preparation.\nMatch them with the pictures in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 197,
+      "bottomRightX": 255,
+      "bottomRightY": 217,
+      "content": "Things grown in Yemen",
+      "type": "text"
+    },
+    {
+      "topLeftX": 100,
+      "topLeftY": 234,
+      "bottomRightX": 628,
+      "bottomRightY": 253,
+      "content": "A dates B figs C mangoes D papayas E sorghum F apricots G grapes H pears",
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 274,
+      "bottomRightX": 628,
+      "bottomRightY": 404,
+      "content": "![img-32.jpeg](img-32.jpeg)",
+      "type": "image",
+      "imageId": "img-32.jpeg"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 410,
+      "bottomRightX": 363,
+      "bottomRightY": 428,
+      "content": "Answer these questions:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 436,
+      "bottomRightX": 376,
+      "bottomRightY": 488,
+      "content": "1 What grows in the mountains?\n2 What grows on trees?\n3 What is a grain crop?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 505,
+      "bottomRightX": 411,
+      "bottomRightY": 524,
+      "content": "Things we do when we prepare and cook food",
+      "type": "text"
+    },
+    {
+      "topLeftX": 140,
+      "topLeftY": 544,
+      "bottomRightX": 588,
+      "bottomRightY": 563,
+      "content": "I boil J squeeze K peel L crush M grate N chop O grill P grind",
+      "type": "text"
+    },
+    {
+      "topLeftX": 97,
+      "topLeftY": 581,
+      "bottomRightX": 628,
+      "bottomRightY": 710,
+      "content": "![img-33.jpeg](img-33.jpeg)",
+      "type": "image",
+      "imageId": "img-33.jpeg"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 723,
+      "bottomRightX": 363,
+      "bottomRightY": 741,
+      "content": "Answer these questions:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 748,
+      "bottomRightX": 434,
+      "bottomRightY": 848,
+      "content": "1 Can you peel a fig?\n2 Can you grind sorghum?\n3 What do you get if you squeeze a lemon?\n4 In what ways do you generally:\n- prepare vegetables?\n- turn fruit into a drink?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 187,
+      "topLeftY": 910,
+      "bottomRightX": 434,
+      "bottomRightY": 928,
+      "content": "Now do activity B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 620,
+      "topLeftY": 941,
+      "bottomRightX": 639,
+      "bottomRightY": 957,
+      "content": "25",
+      "type": "footer"
+    }
+  ]
+}

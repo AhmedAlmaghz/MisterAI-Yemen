@@ -1,0 +1,135 @@
+{
+  "index": 71,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 208,
+      "topLeftY": 64,
+      "bottomRightX": 282,
+      "bottomRightY": 81,
+      "content": "SCIENCE 2",
+      "type": "header"
+    },
+    {
+      "topLeftX": 201,
+      "topLeftY": 99,
+      "bottomRightX": 372,
+      "bottomRightY": 123,
+      "content": "## States of matter",
+      "type": "title"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 138,
+      "bottomRightX": 593,
+      "bottomRightY": 171,
+      "content": "In science, the word 'matter' is used to describe what things are made of. Matter comes in three different forms, called states: solid, liquid and gas.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 200,
+      "topLeftY": 172,
+      "bottomRightX": 600,
+      "bottomRightY": 271,
+      "content": "Solids have a fixed shape that cannot easily be changed. Liquids have no fixed shape and can only be picked up in a container. Gases are even less easy to hold. They have to be kept in closed containers or they will escape into the air and spread very quickly. For example, you will soon be able to smell gas all over your house even if there is just a small leak in the gas container in your kitchen.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 295,
+      "bottomRightX": 342,
+      "bottomRightY": 435,
+      "content": "The kinetic theory states that matter is made up of particles that are always in motion – always moving. This theory helps us understand the different properties that matter has in its three states. In a solid, particles are packed together like balls in a box and can hardly move. Heating the solid gives the particles more energy. They move",
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 295,
+      "bottomRightX": 621,
+      "bottomRightY": 364,
+      "content": "more quickly, and are pushed apart. If there is enough heat, the particles have enough room to change places. This is when the solid becomes a liquid.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 366,
+      "bottomRightX": 628,
+      "bottomRightY": 433,
+      "content": "More heat makes the particles move even faster and travel further apart. They can then move freely to fill any space they are in. This third state of matter is called gas.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 94,
+      "topLeftY": 442,
+      "bottomRightX": 261,
+      "bottomRightY": 581,
+      "content": "![img-103.jpeg](img-103.jpeg)",
+      "type": "image",
+      "imageId": "img-103.jpeg"
+    },
+    {
+      "topLeftX": 278,
+      "topLeftY": 442,
+      "bottomRightX": 444,
+      "bottomRightY": 579,
+      "content": "![img-104.jpeg](img-104.jpeg)",
+      "type": "image",
+      "imageId": "img-104.jpeg"
+    },
+    {
+      "topLeftX": 462,
+      "topLeftY": 442,
+      "bottomRightX": 627,
+      "bottomRightY": 578,
+      "content": "![img-105.jpeg](img-105.jpeg)",
+      "type": "image",
+      "imageId": "img-105.jpeg"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 600,
+      "bottomRightX": 250,
+      "bottomRightY": 615,
+      "content": "### The three states of water",
+      "type": "title"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 617,
+      "bottomRightX": 364,
+      "bottomRightY": 687,
+      "content": "Water is the only substance that is easy to find in the three states of solid, liquid and gas – as ice, water and water vapour or steam. The properties of water are very important for life on Earth.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 86,
+      "topLeftY": 689,
+      "bottomRightX": 636,
+      "bottomRightY": 940,
+      "content": "![img-106.jpeg](img-106.jpeg)",
+      "type": "image",
+      "imageId": "img-106.jpeg"
+    },
+    {
+      "topLeftX": 618,
+      "topLeftY": 944,
+      "bottomRightX": 634,
+      "bottomRightY": 958,
+      "content": "66",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 975,
+      "bottomRightX": 94,
+      "bottomRightY": 1014,
+      "content": "S",
+      "type": "footer"
+    }
+  ]
+}

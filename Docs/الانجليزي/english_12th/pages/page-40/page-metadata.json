@@ -1,0 +1,181 @@
+{
+  "index": 39,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 177,
+      "topLeftY": 62,
+      "bottomRightX": 390,
+      "bottomRightY": 87,
+      "content": "# Puzzles and riddles",
+      "type": "title"
+    },
+    {
+      "topLeftX": 634,
+      "topLeftY": 62,
+      "bottomRightX": 656,
+      "bottomRightY": 78,
+      "content": "5.4",
+      "type": "header"
+    },
+    {
+      "topLeftX": 175,
+      "topLeftY": 104,
+      "bottomRightX": 582,
+      "bottomRightY": 155,
+      "content": "Understanding some reading tests is like solving a puzzle. Things are not always stated or described directly. The reader has to infer what the writer is talking about.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 175,
+      "topLeftY": 172,
+      "bottomRightX": 612,
+      "bottomRightY": 208,
+      "content": "**Read the puzzles below and work out what the answers might be. Activities A, B and C in the Workbook will help you think.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 224,
+      "bottomRightX": 281,
+      "bottomRightY": 240,
+      "content": "**A More than one possible answer:**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 240,
+      "bottomRightX": 145,
+      "bottomRightY": 256,
+      "content": "*What is it?*",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 257,
+      "bottomRightX": 344,
+      "bottomRightY": 390,
+      "content": "1 His day's work was over. He sat down and looked at the object on the table. He smiled, picked it up and put it to his mouth.\n2 He was walking along the beach when suddenly he saw it lying on the sand. He went over and had a good look at it. 'I can use this,' he said to himself. He picked it up carefully and took it home.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 398,
+      "bottomRightX": 339,
+      "bottomRightY": 702,
+      "content": "![img-59.jpeg](img-59.jpeg)",
+      "type": "image",
+      "imageId": "img-59.jpeg"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 711,
+      "bottomRightX": 174,
+      "bottomRightY": 728,
+      "content": "Where are they?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 729,
+      "bottomRightX": 344,
+      "bottomRightY": 880,
+      "content": "1 He turned to the man in the seat next to him. 'What time do we leave?' he asked. 'Any minute now,' was the reply. Just then he heard the engine start. 'You're right,' he said.\n2 I'm in a large room. People are talking quietly. Somebody comes into the room. Everybody stops chatting. The person starts speaking in a loud voice.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 224,
+      "bottomRightX": 537,
+      "bottomRightY": 240,
+      "content": "**B Only one possible answer.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 240,
+      "bottomRightX": 567,
+      "bottomRightY": 257,
+      "content": "*Who says the following in their job?*",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 257,
+      "bottomRightX": 627,
+      "bottomRightY": 424,
+      "content": "1 'As you can see, the inside of the building is decorated in the Chinese style.'\n2 'I'm afraid we couldn't save the house because there wasn't enough water.'\n3 'Can anybody tell me the name of the highest mountain in Africa?'\n4 These peas will be ready for picking in about three days.\n5 'How long do you wish to remain in the country, sir?'",
+      "type": "list"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 442,
+      "bottomRightX": 604,
+      "bottomRightY": 458,
+      "content": "*What objects might say something like this?*",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 458,
+      "bottomRightX": 640,
+      "bottomRightY": 659,
+      "content": "1 'People kick me all the time but it doesn't worry me. It makes them happy, especially when they put me in the net.'\n2 'People keep me in a safe place and use me when they want to buy things. I have a different name in most countries.'\n3 'Without me you have to do your Mathematics homework in your head or on paper.'\n4 'North, south, east or west - I'll show you where they are.'\n5 'Hold me, jump off a mountain and fly like a bird.'",
+      "type": "list"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 664,
+      "bottomRightX": 557,
+      "bottomRightY": 682,
+      "content": "*What do these people feel? Why?*",
+      "type": "text"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 683,
+      "bottomRightX": 615,
+      "bottomRightY": 716,
+      "content": "1 He paced up and down the waiting room in the hospital.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 388,
+      "topLeftY": 725,
+      "bottomRightX": 602,
+      "bottomRightY": 839,
+      "content": "![img-60.jpeg](img-60.jpeg)",
+      "type": "image",
+      "imageId": "img-60.jpeg"
+    },
+    {
+      "topLeftX": 369,
+      "topLeftY": 842,
+      "bottomRightX": 618,
+      "bottomRightY": 875,
+      "content": "2 She covered her face when she heard the news.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 883,
+      "bottomRightX": 611,
+      "bottomRightY": 900,
+      "content": "**Now do activity D in the Workbook.**",
+      "type": "text"
+    },
+    {
+      "topLeftX": 620,
+      "topLeftY": 941,
+      "bottomRightX": 639,
+      "bottomRightY": 957,
+      "content": "35",
+      "type": "footer"
+    }
+  ]
+}

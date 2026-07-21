@@ -1,0 +1,27 @@
+{
+  "index": 69,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 266,
+      "topLeftY": 244,
+      "bottomRightX": 452,
+      "bottomRightY": 377,
+      "content": "# Science reader",
+      "type": "title"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 991,
+      "bottomRightX": 127,
+      "bottomRightY": 1001,
+      "content": "---",
+      "type": "footer"
+    }
+  ]
+}

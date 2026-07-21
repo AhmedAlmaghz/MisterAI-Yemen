@@ -1,0 +1,228 @@
+{
+  "index": 64,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 234,
+      "topLeftY": 64,
+      "bottomRightX": 284,
+      "bottomRightY": 81,
+      "content": "ARTS 7",
+      "type": "header"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 138,
+      "bottomRightX": 317,
+      "bottomRightY": 171,
+      "content": "'Our names, Ahmed: they're not on the list!' said Bob, worried.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 171,
+      "bottomRightX": 330,
+      "bottomRightY": 204,
+      "content": "'You're looking in the wrong place,' said another student. 'Look at the top of the list.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 204,
+      "bottomRightX": 339,
+      "bottomRightY": 270,
+      "content": "Bob had been looking for the two names among the B and C grades, but under grade A were the names Robert Wilson and Ahmed Hassan Al-Hadrami.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 270,
+      "bottomRightX": 344,
+      "bottomRightY": 304,
+      "content": "'That will make your father happy,' said Bob. 'When are you going home, by the way?'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 304,
+      "bottomRightX": 331,
+      "bottomRightY": 320,
+      "content": "'The day after tomorrow,' replied Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 335,
+      "bottomRightX": 328,
+      "bottomRightY": 369,
+      "content": "'Now, Bob, you will take care of the taxi while I'm away, won't you?' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 369,
+      "bottomRightX": 334,
+      "bottomRightY": 402,
+      "content": "'Of course,' said Bob. 'Don't worry about a thing.'",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 402,
+      "bottomRightX": 317,
+      "bottomRightY": 451,
+      "content": "They were standing on the platform of Norton Central station, waiting for the London train. It was raining.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 451,
+      "bottomRightX": 302,
+      "bottomRightY": 483,
+      "content": "'It was raining when I arrived,' said Ahmed.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 483,
+      "bottomRightX": 339,
+      "bottomRightY": 500,
+      "content": "'At least the rain is warmer now,' said Bob.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 109,
+      "topLeftY": 500,
+      "bottomRightX": 330,
+      "bottomRightY": 533,
+      "content": "The train arrived. Ahmed got in, stood by the door and opened the window.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 250,
+      "topLeftY": 583,
+      "bottomRightX": 320,
+      "bottomRightY": 640,
+      "content": "Telford Hall,\nNorton,\nFriday.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 664,
+      "bottomRightX": 255,
+      "bottomRightY": 685,
+      "content": "Dear Mr and Mrs Wilson,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 118,
+      "topLeftY": 682,
+      "bottomRightX": 328,
+      "bottomRightY": 762,
+      "content": "Thank you very much for having me to stay for the past few days. I had a wonderful time and you really made me feel like one of the family.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 757,
+      "bottomRightX": 323,
+      "bottomRightY": 802,
+      "content": "I hope one day that I will be able to repay your kindness and hospitality.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 143,
+      "topLeftY": 802,
+      "bottomRightX": 234,
+      "bottomRightY": 819,
+      "content": "Thank you again.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 162,
+      "topLeftY": 820,
+      "bottomRightX": 227,
+      "bottomRightY": 837,
+      "content": "Best wishes,",
+      "type": "text"
+    },
+    {
+      "topLeftX": 162,
+      "topLeftY": 837,
+      "bottomRightX": 202,
+      "bottomRightY": 854,
+      "content": "Ahmed",
+      "type": "text"
+    },
+    {
+      "topLeftX": 361,
+      "topLeftY": 138,
+      "bottomRightX": 632,
+      "bottomRightY": 457,
+      "content": "![img-90.jpeg](img-90.jpeg)",
+      "type": "image",
+      "imageId": "img-90.jpeg"
+    },
+    {
+      "topLeftX": 381,
+      "topLeftY": 458,
+      "bottomRightX": 588,
+      "bottomRightY": 485,
+      "content": "Looking down on London from the plane",
+      "type": "caption"
+    },
+    {
+      "topLeftX": 366,
+      "topLeftY": 539,
+      "bottomRightX": 596,
+      "bottomRightY": 589,
+      "content": "'See you in October ...' he shouted through the window as the train moved out of the station.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 366,
+      "topLeftY": 589,
+      "bottomRightX": 574,
+      "bottomRightY": 622,
+      "content": "'Have a good journey ...' shouted Bob, waving at his disappearing friend.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 366,
+      "topLeftY": 638,
+      "bottomRightX": 606,
+      "bottomRightY": 819,
+      "content": "Ahmed sat down and looked out at the countryside moving past. Nine months ago, it had seemed strange to him, but now he knew it so well. He started thinking about the places he had been and the friends he had made. There were so many. The train stopped. He was in Euston station. Four hours later, he was sitting in the plane looking out over London. He could see the city clearly. Then the plane went up through the clouds Ten hours later, he would be home.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 837,
+      "bottomRightX": 431,
+      "bottomRightY": 853,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 371,
+      "topLeftY": 854,
+      "bottomRightX": 564,
+      "bottomRightY": 920,
+      "content": "- Does your family spend Fridays in a traditional way?\n- Compare your Fridays with English Saturdays.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 81,
+      "topLeftY": 939,
+      "bottomRightX": 98,
+      "bottomRightY": 954,
+      "content": "59",
+      "type": "footer"
+    }
+  ]
+}

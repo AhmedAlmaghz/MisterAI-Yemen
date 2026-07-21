@@ -1,0 +1,180 @@
+{
+  "index": 28,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 38,
+      "topLeftY": 102,
+      "bottomRightX": 83,
+      "bottomRightY": 115,
+      "content": "3.11 3.12",
+      "type": "header"
+    },
+    {
+      "topLeftX": 249,
+      "topLeftY": 102,
+      "bottomRightX": 402,
+      "bottomRightY": 123,
+      "content": "# A business letter",
+      "type": "title"
+    },
+    {
+      "topLeftX": 124,
+      "topLeftY": 142,
+      "bottomRightX": 309,
+      "bottomRightY": 457,
+      "content": "![img-31.jpeg](img-31.jpeg)",
+      "type": "image",
+      "imageId": "img-31.jpeg"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 461,
+      "bottomRightX": 313,
+      "bottomRightY": 612,
+      "content": "- A The sender's address\n- B The name and address of the receiver\n- C The sender's signature\n- D The greeting, e.g. Dear Sir\n- E The close, e.g. Yours faithfully\n- F Information about the sender\n- G A reference to the advertisement\n- H The sender's name typed or printed\n- I The date\n- J Asking for an interview",
+      "type": "list"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 145,
+      "bottomRightX": 585,
+      "bottomRightY": 175,
+      "content": "This diagram shows the layout of a good formal letter. It is an application for a job that was advertised in a newspaper.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 187,
+      "bottomRightX": 599,
+      "bottomRightY": 234,
+      "content": "Match the boxes with the correct descriptions in the list below the letter. Write your answers in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 249,
+      "bottomRightX": 574,
+      "bottomRightY": 312,
+      "content": "Note: If you use the greeting Dear Sir, or Dear Madam, you must use Yours faithfully, to close.\nIf you use the greeting Dear Mr/Mrs Jones, for example, you must use Yours sincerely, to close.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 325,
+      "bottomRightX": 583,
+      "bottomRightY": 358,
+      "content": "Write a business letter in answer to this job advertisement in the Daily News of April 20th.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 340,
+      "topLeftY": 383,
+      "bottomRightX": 579,
+      "bottomRightY": 419,
+      "content": "# Fantastic Job Opportunity!",
+      "type": "title"
+    },
+    {
+      "topLeftX": 340,
+      "topLeftY": 425,
+      "bottomRightX": 559,
+      "bottomRightY": 489,
+      "content": "Have you ever wanted to work on a newspaper?\nWe are looking for young men and women to train as reporters and photographers for a new general interest magazine for people under 25.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 340,
+      "topLeftY": 488,
+      "bottomRightX": 579,
+      "bottomRightY": 533,
+      "content": "No experience is necessary but the successful applicants must be willing to work hard and already have a wide range of interests.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 340,
+      "topLeftY": 535,
+      "bottomRightX": 580,
+      "bottomRightY": 571,
+      "content": "Write and tell us all about yourself and why you think we should give you the chance to join our exciting team.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 336,
+      "topLeftY": 582,
+      "bottomRightX": 570,
+      "bottomRightY": 613,
+      "content": "Write to: The Editor, The Daily News, PO Box 0055, London S18 9HP",
+      "type": "text"
+    },
+    {
+      "topLeftX": 127,
+      "topLeftY": 645,
+      "bottomRightX": 330,
+      "bottomRightY": 661,
+      "content": "Now do activity B in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 681,
+      "bottomRightX": 580,
+      "bottomRightY": 711,
+      "content": "When writing a letter of application, you must sell yourself, that is, you must give as much interesting information about yourself as you can.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 134,
+      "topLeftY": 716,
+      "bottomRightX": 269,
+      "bottomRightY": 732,
+      "content": "Answer these questions:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 139,
+      "topLeftY": 737,
+      "bottomRightX": 334,
+      "bottomRightY": 873,
+      "content": "- Which school subjects do you like most? Why?\n- What interests or hobbies do you have? Give details. If you like music, say which music and why; if you play sport, say which sport and why.\n- Have you ever had any work experience? What was it?\n- Have you done anything connected with the job itself? What was it?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 368,
+      "topLeftY": 716,
+      "bottomRightX": 565,
+      "bottomRightY": 758,
+      "content": "- Have you travelled? Where to, when and why?\n- Do you have any ambitions? What are they?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 374,
+      "topLeftY": 770,
+      "bottomRightX": 434,
+      "bottomRightY": 783,
+      "content": "Remember!",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 783,
+      "bottomRightX": 544,
+      "bottomRightY": 856,
+      "content": "- Lay out your letter correctly.\n- Refer to the advertisement.\n- Ask for an interview.\n- Keep the letter short, but do not miss out anything important.\n- Use the correct form of address.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 942,
+      "bottomRightX": 96,
+      "bottomRightY": 956,
+      "content": "24",
+      "type": "footer"
+    }
+  ]
+}

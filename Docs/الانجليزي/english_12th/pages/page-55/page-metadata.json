@@ -1,0 +1,27 @@
+{
+  "index": 54,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 166,
+      "topLeftY": 128,
+      "bottomRightX": 625,
+      "bottomRightY": 829,
+      "content": "الإدارة العامة للمناهج",
+      "type": "text"
+    },
+    {
+      "topLeftX": 112,
+      "topLeftY": 989,
+      "bottomRightX": 125,
+      "bottomRightY": 999,
+      "content": "11",
+      "type": "footer"
+    }
+  ]
+}

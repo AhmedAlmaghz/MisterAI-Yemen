@@ -1,0 +1,149 @@
+{
+  "index": 66,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 251,
+      "topLeftY": 65,
+      "bottomRightX": 305,
+      "bottomRightY": 83,
+      "content": "ARTS 9",
+      "type": "header"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 94,
+      "bottomRightX": 318,
+      "bottomRightY": 121,
+      "content": "# A poem",
+      "type": "title"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 175,
+      "bottomRightX": 189,
+      "bottomRightY": 198,
+      "content": "# LEISURE",
+      "type": "title"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 198,
+      "bottomRightX": 357,
+      "bottomRightY": 222,
+      "content": "by William Henry Davies 1871-1940",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 235,
+      "bottomRightX": 330,
+      "bottomRightY": 273,
+      "content": "What is this life if, full of care,\nWe have no time to stand and stare.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 287,
+      "bottomRightX": 337,
+      "bottomRightY": 325,
+      "content": "No time to stand beneath the boughs\nAnd stare as long as sheep or cows.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 341,
+      "bottomRightX": 356,
+      "bottomRightY": 379,
+      "content": "No time to see, when woods we pass,\nWhere squirrels hide their nuts in grass.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 395,
+      "bottomRightX": 352,
+      "bottomRightY": 431,
+      "content": "No time to see, in broad daylight,\nStreams full of stars like skies at night.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 446,
+      "bottomRightX": 363,
+      "bottomRightY": 483,
+      "content": "No time to turn at Beauty's glance,\nAnd watch her feet, how they can dance.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 499,
+      "bottomRightX": 325,
+      "bottomRightY": 537,
+      "content": "No time to wait till her mouth can\nEnrich that smile her eyes began.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 116,
+      "topLeftY": 552,
+      "bottomRightX": 335,
+      "bottomRightY": 590,
+      "content": "A poor life this if, full of care,\nWe have no time to stand and stare.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 169,
+      "topLeftY": 616,
+      "bottomRightX": 348,
+      "bottomRightY": 715,
+      "content": "|  care | worry  |\n| --- | --- |\n|  stare | look closely  |\n|  boughs | branches  |\n|  squirrels | small animals  |\n|  broad daylight | full light of day  |\n|  streams | small rivers  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 358,
+      "topLeftY": 239,
+      "bottomRightX": 633,
+      "bottomRightY": 724,
+      "content": "![img-94.jpeg](img-94.jpeg)",
+      "type": "image",
+      "imageId": "img-94.jpeg"
+    },
+    {
+      "topLeftX": 198,
+      "topLeftY": 764,
+      "bottomRightX": 630,
+      "bottomRightY": 784,
+      "content": "Listen to the poem. Does listening help you to understand it?",
+      "type": "text"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 799,
+      "bottomRightX": 270,
+      "bottomRightY": 816,
+      "content": "# Discussion",
+      "type": "title"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 816,
+      "bottomRightX": 443,
+      "bottomRightY": 849,
+      "content": "- Do you agree with the poet's view?\n- Add ones stanza (two lines) to this poem.",
+      "type": "list"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 934,
+      "bottomRightX": 101,
+      "bottomRightY": 952,
+      "content": "61",
+      "type": "footer"
+    }
+  ]
+}

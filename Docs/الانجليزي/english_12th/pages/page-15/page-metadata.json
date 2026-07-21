@@ -1,0 +1,324 @@
+{
+  "index": 14,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 64,
+      "topLeftY": 62,
+      "bottomRightX": 85,
+      "bottomRightY": 79,
+      "content": "2.2",
+      "type": "header"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 61,
+      "bottomRightX": 321,
+      "bottomRightY": 87,
+      "content": "## Today's news",
+      "type": "title"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 100,
+      "bottomRightX": 572,
+      "bottomRightY": 135,
+      "content": "On one page of some British newspapers, there is a summary of important reports in the rest of the newspaper.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 146,
+      "bottomRightX": 622,
+      "bottomRightY": 184,
+      "content": "Look quickly at the summary below and answer the questions as fast as you can. Write your answers in Workbook activity A.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 185,
+      "topLeftY": 235,
+      "bottomRightX": 525,
+      "bottomRightY": 263,
+      "content": "# IN THE DAILY POST TODAY",
+      "type": "title"
+    },
+    {
+      "topLeftX": 203,
+      "topLeftY": 282,
+      "bottomRightX": 250,
+      "bottomRightY": 299,
+      "content": "# NEWS",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 317,
+      "bottomRightX": 225,
+      "bottomRightY": 334,
+      "content": "# Roman dam found",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 334,
+      "bottomRightX": 332,
+      "bottomRightY": 364,
+      "content": "A giant dam built by the Romans nearly 2,000 years ago has been discovered in the south of England.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 315,
+      "topLeftY": 360,
+      "bottomRightX": 350,
+      "bottomRightY": 373,
+      "content": "Page 2",
+      "type": "text"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 375,
+      "bottomRightX": 203,
+      "bottomRightY": 392,
+      "content": "# Arctic ice scare",
+      "type": "title"
+    },
+    {
+      "topLeftX": 98,
+      "topLeftY": 392,
+      "bottomRightX": 331,
+      "bottomRightY": 434,
+      "content": "The arctic ice layer is half as thick as it was ten years ago, a scientist working at the North Pole said yesterday.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 315,
+      "topLeftY": 417,
+      "bottomRightX": 350,
+      "bottomRightY": 430,
+      "content": "Page 5",
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 446,
+      "bottomRightX": 213,
+      "bottomRightY": 482,
+      "content": "# Heat wave victim recovers",
+      "type": "title"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 483,
+      "bottomRightX": 218,
+      "bottomRightY": 554,
+      "content": "American tourist Ed Shaw, who collapsed in the unusually hot weather a week ago, came out of hospital yesterday.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 547,
+      "bottomRightX": 218,
+      "bottomRightY": 560,
+      "content": "Page 3",
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 563,
+      "bottomRightX": 175,
+      "bottomRightY": 581,
+      "content": "# Castle to go",
+      "type": "title"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 581,
+      "bottomRightX": 214,
+      "bottomRightY": 622,
+      "content": "The old castle on the edge of the capital is to be demolished.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 613,
+      "bottomRightX": 224,
+      "bottomRightY": 626,
+      "content": "Page 10",
+      "type": "text"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 633,
+      "bottomRightX": 165,
+      "bottomRightY": 650,
+      "content": "# Fog crash",
+      "type": "title"
+    },
+    {
+      "topLeftX": 95,
+      "topLeftY": 651,
+      "bottomRightX": 224,
+      "bottomRightY": 706,
+      "content": "In Norton, two people were injured, one seriously, in a car crash in yesterday's fog.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 182,
+      "topLeftY": 694,
+      "bottomRightX": 224,
+      "bottomRightY": 707,
+      "content": "Page 4",
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 446,
+      "bottomRightX": 347,
+      "bottomRightY": 463,
+      "content": "# 'Miracle' Rescue",
+      "type": "title"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 464,
+      "bottomRightX": 354,
+      "bottomRightY": 561,
+      "content": "Two swimmers were rescued from the sea during yesterday's storm. 'It's a miracle they were found,' a Rescue Services spokesman said. 'We can't explain it'.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 547,
+      "bottomRightX": 354,
+      "bottomRightY": 560,
+      "content": "Page 3",
+      "type": "text"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 577,
+      "bottomRightX": 330,
+      "bottomRightY": 614,
+      "content": "# Boxer marries sweetheart",
+      "type": "title"
+    },
+    {
+      "topLeftX": 231,
+      "topLeftY": 615,
+      "bottomRightX": 350,
+      "bottomRightY": 685,
+      "content": "Champion boxer Dick Turpin married his childhood sweetheart at a private ceremony last Saturday.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 320,
+      "topLeftY": 674,
+      "bottomRightX": 354,
+      "bottomRightY": 687,
+      "content": "Page 2",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 278,
+      "bottomRightX": 617,
+      "bottomRightY": 514,
+      "content": "![img-20.jpeg](img-20.jpeg)",
+      "type": "image",
+      "imageId": "img-20.jpeg"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 520,
+      "bottomRightX": 573,
+      "bottomRightY": 538,
+      "content": "# Wind Turbines Start Operation",
+      "type": "title"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 538,
+      "bottomRightX": 610,
+      "bottomRightY": 567,
+      "content": "These wind turbines on White Hill came into operation yesterday, providing power for over 600 homes.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 583,
+      "bottomRightX": 568,
+      "bottomRightY": 601,
+      "content": "# Many dead in crash",
+      "type": "title"
+    },
+    {
+      "topLeftX": 362,
+      "topLeftY": 601,
+      "bottomRightX": 487,
+      "bottomRightY": 656,
+      "content": "An Air International airplane crashed in thick forest in Central Russia last week",
+      "type": "text"
+    },
+    {
+      "topLeftX": 431,
+      "topLeftY": 642,
+      "bottomRightX": 487,
+      "bottomRightY": 656,
+      "content": "Front page",
+      "type": "text"
+    },
+    {
+      "topLeftX": 496,
+      "topLeftY": 583,
+      "bottomRightX": 574,
+      "bottomRightY": 619,
+      "content": "# Rare bird excitement",
+      "type": "title"
+    },
+    {
+      "topLeftX": 496,
+      "topLeftY": 619,
+      "bottomRightX": 625,
+      "bottomRightY": 703,
+      "content": "A black stork has been seen in this country for the first time in ten years. A large group of bird-watchers observed the rare bird at the weekend.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 590,
+      "topLeftY": 688,
+      "bottomRightX": 625,
+      "bottomRightY": 701,
+      "content": "Page 2",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 749,
+      "bottomRightX": 625,
+      "bottomRightY": 842,
+      "content": "1 On which page is there a story about:\na) a rescue? b) the Arctic? c) a wedding?\nd) a bird? e) a plane? f) wind turbines?\n2 Who said the rescue was a miracle?\n3 What is the scare at the North Pole?\n4 When was the marriage ceremony?\n5 Why were the bird-watches excited?\n6 Where did the plane crash?\n7 How much power do the turbines provide?",
+      "type": "list"
+    },
+    {
+      "topLeftX": 174,
+      "topLeftY": 870,
+      "bottomRightX": 475,
+      "bottomRightY": 887,
+      "content": "Now do activities B and C in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 80,
+      "topLeftY": 940,
+      "bottomRightX": 98,
+      "bottomRightY": 956,
+      "content": "10",
+      "type": "footer"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "index": 21,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 164,
+      "topLeftY": 61,
+      "bottomRightX": 398,
+      "bottomRightY": 79,
+      "content": "UNIT 3 LOOKING FOR A JOB",
+      "type": "header"
+    },
+    {
+      "topLeftX": 635,
+      "topLeftY": 106,
+      "bottomRightX": 655,
+      "bottomRightY": 121,
+      "content": "3.1",
+      "type": "header"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 104,
+      "bottomRightX": 427,
+      "bottomRightY": 132,
+      "content": "## Getting work experience",
+      "type": "title"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 141,
+      "bottomRightX": 561,
+      "bottomRightY": 207,
+      "content": "Pupils in their last year at school are often not sure what they want to do after they have left. Some companies and organizations try to help young people by offering them 'work experience' - the chance to find out about different jobs by working at the weekends or in the school holidays.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 158,
+      "topLeftY": 222,
+      "bottomRightX": 578,
+      "bottomRightY": 275,
+      "content": "Look back to page 9 and read again how to work out the meaning of words. Then find the meaning of the underlined words in the notices below.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 152,
+      "topLeftY": 318,
+      "bottomRightX": 565,
+      "bottomRightY": 347,
+      "content": "# WORK EXPERIENCE OPPORTUNITIES",
+      "type": "title"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 371,
+      "bottomRightX": 175,
+      "bottomRightY": 384,
+      "content": "WEO 8",
+      "type": "text"
+    },
+    {
+      "topLeftX": 122,
+      "topLeftY": 383,
+      "bottomRightX": 324,
+      "bottomRightY": 511,
+      "content": "Would you like to learn how a large office is run? The Ministry of Health is offering somebody the chance to experience work in the Administration Department and learn about office organization. There are long-term career opportunities for the successful applicant.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 121,
+      "topLeftY": 530,
+      "bottomRightX": 173,
+      "bottomRightY": 544,
+      "content": "WEO 5",
+      "type": "text"
+    },
+    {
+      "topLeftX": 121,
+      "topLeftY": 546,
+      "bottomRightX": 337,
+      "bottomRightY": 688,
+      "content": "Because of the increase in the number of TV programmes for schools, there are many vacancies in the City TV station. This is a WEO for somebody who is interested in news, theatre and music. If you take up a permanent position, you will receive an excellent salary. We believe in paying people well.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 707,
+      "bottomRightX": 166,
+      "bottomRightY": 722,
+      "content": "WEO 2",
+      "type": "text"
+    },
+    {
+      "topLeftX": 114,
+      "topLeftY": 714,
+      "bottomRightX": 326,
+      "bottomRightY": 849,
+      "content": "The Central Hospital is looking for a boy or girl with a knowledge of first-aid. The experience will help you get the qualifications needed to become a nurse or even a doctor. Ask your school office for an application form, fill it in and send it to the hospital.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 382,
+      "topLeftY": 367,
+      "bottomRightX": 436,
+      "bottomRightY": 380,
+      "content": "WEO 7",
+      "type": "text"
+    },
+    {
+      "topLeftX": 377,
+      "topLeftY": 383,
+      "bottomRightX": 576,
+      "bottomRightY": 542,
+      "content": "Would you like to help the Society for the Handicapped organize trips for its members? You will take the members on trips yourself, so a driving licence is required. No experience is necessary and full training will be given in the special needs of the handicapped. This opportunity is for someone interested in social work.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 560,
+      "bottomRightX": 400,
+      "bottomRightY": 573,
+      "content": "WEO 6",
+      "type": "text"
+    },
+    {
+      "topLeftX": 348,
+      "topLeftY": 567,
+      "bottomRightX": 556,
+      "bottomRightY": 667,
+      "content": "The Ministry of the Environment is offering you the chance to save the coast of our country. You must be willing to work in all kinds of weather. A knowledge of plants would be an advantage.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 677,
+      "bottomRightX": 428,
+      "bottomRightY": 690,
+      "content": "WEO 3",
+      "type": "text"
+    },
+    {
+      "topLeftX": 376,
+      "topLeftY": 692,
+      "bottomRightX": 592,
+      "bottomRightY": 866,
+      "content": "If you are interested in working in business, this is a great opportunity. The Tiger Ice-Cream Company is looking for a young man who wants to learn about sales and marketing. At first your duties will include delivering ice-cream to hospital, hotels and restaurants. It is important for us that we choose the right young man, so he must attend an interview at our factory.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 161,
+      "topLeftY": 911,
+      "bottomRightX": 453,
+      "bottomRightY": 926,
+      "content": "Now do activities A to E in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 621,
+      "topLeftY": 942,
+      "bottomRightX": 639,
+      "bottomRightY": 956,
+      "content": "17",
+      "type": "footer"
+    }
+  ]
+}

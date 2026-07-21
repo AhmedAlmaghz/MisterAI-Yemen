@@ -1,0 +1,68 @@
+{
+  "index": 80,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 292,
+      "topLeftY": 403,
+      "bottomRightX": 422,
+      "bottomRightY": 536,
+      "content": "![img-130.jpeg](img-130.jpeg)",
+      "type": "image",
+      "imageId": "img-130.jpeg"
+    },
+    {
+      "topLeftX": 292,
+      "topLeftY": 609,
+      "bottomRightX": 419,
+      "bottomRightY": 634,
+      "content": "الإدارة العامة للمناهج",
+      "type": "text"
+    },
+    {
+      "topLeftX": 195,
+      "topLeftY": 637,
+      "bottomRightX": 318,
+      "bottomRightY": 660,
+      "content": "+967771761429",
+      "type": "text"
+    },
+    {
+      "topLeftX": 367,
+      "topLeftY": 637,
+      "bottomRightX": 509,
+      "bottomRightY": 660,
+      "content": "Curricula.Ye@gmail.com",
+      "type": "text"
+    },
+    {
+      "topLeftX": 193,
+      "topLeftY": 668,
+      "bottomRightX": 376,
+      "bottomRightY": 691,
+      "content": "https://e-learning-moe.edu.ye",
+      "type": "text"
+    },
+    {
+      "topLeftX": 199,
+      "topLeftY": 696,
+      "bottomRightX": 379,
+      "bottomRightY": 716,
+      "content": "https://t.me/Books_Yemen_new",
+      "type": "text"
+    },
+    {
+      "topLeftX": 432,
+      "topLeftY": 675,
+      "bottomRightX": 536,
+      "bottomRightY": 711,
+      "content": "للحصول على المناهج\nالدراسية عبر:",
+      "type": "text"
+    }
+  ]
+}

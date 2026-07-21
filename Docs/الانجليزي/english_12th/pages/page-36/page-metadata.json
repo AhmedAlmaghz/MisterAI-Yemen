@@ -1,0 +1,214 @@
+{
+  "index": 35,
+  "dimensions": {
+    "dpi": 108,
+    "height": 1021,
+    "width": 723
+  },
+  "confidenceScores": null,
+  "blocks": [
+    {
+      "topLeftX": 258,
+      "topLeftY": 64,
+      "bottomRightX": 460,
+      "bottomRightY": 93,
+      "content": "# Language review 8",
+      "type": "title"
+    },
+    {
+      "topLeftX": 636,
+      "topLeftY": 64,
+      "bottomRightX": 663,
+      "bottomRightY": 81,
+      "content": "4.10",
+      "type": "header"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 106,
+      "bottomRightX": 293,
+      "bottomRightY": 126,
+      "content": "## 1 Use of have/get + infinitive",
+      "type": "title"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 137,
+      "bottomRightX": 516,
+      "bottomRightY": 172,
+      "content": "You use these verbs to replace other instruction words such as ask, tell or order.\nUsing have or get focuses on the instruction itself rather than the way it is given.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 181,
+      "bottomRightX": 340,
+      "bottomRightY": 252,
+      "content": "|  Example: | Ask the boy to put away his bag. Have the boy put away his bag. Get the boy to put away his bag.  |\n| --- | --- |\n|  Note: | With have, the infinitive is without to.  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 267,
+      "bottomRightX": 331,
+      "bottomRightY": 286,
+      "content": "## 2 Use of get to show change of state",
+      "type": "title"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 296,
+      "bottomRightX": 398,
+      "bottomRightY": 315,
+      "content": "Get is commonly used to replace the more formal become.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 327,
+      "bottomRightX": 379,
+      "bottomRightY": 346,
+      "content": "Example: He got wet when he went out in the boat.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 366,
+      "bottomRightX": 269,
+      "bottomRightY": 385,
+      "content": "## 3 Use of two comparatives",
+      "type": "title"
+    },
+    {
+      "topLeftX": 83,
+      "topLeftY": 397,
+      "bottomRightX": 536,
+      "bottomRightY": 430,
+      "content": "You use a comparative in each half of a sentence to show how one action causes the other or is related to the other.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 85,
+      "topLeftY": 443,
+      "bottomRightX": 417,
+      "bottomRightY": 461,
+      "content": "Examples: The deeper the water, the greater the pressure.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 461,
+      "bottomRightX": 444,
+      "bottomRightY": 477,
+      "content": "The further you go down, the more your ears hurt.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 477,
+      "bottomRightX": 546,
+      "bottomRightY": 495,
+      "content": "Note: These kinds of sentences are often different from simple comparative sentences.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 495,
+      "bottomRightX": 580,
+      "bottomRightY": 526,
+      "content": "For example, words omitted and word order change. In the first example, words are omitted-in fact, there is no active verb:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 527,
+      "bottomRightX": 590,
+      "bottomRightY": 545,
+      "content": "The deeper (that) the water (becomes), the greater (that) the pressure (becomes).",
+      "type": "text"
+    },
+    {
+      "topLeftX": 84,
+      "topLeftY": 545,
+      "bottomRightX": 593,
+      "bottomRightY": 577,
+      "content": "In the second example there are omitted words and a change in word order. Notice also that the comparative words further, more have become nouns the further, the more:",
+      "type": "text"
+    },
+    {
+      "topLeftX": 160,
+      "topLeftY": 578,
+      "bottomRightX": 413,
+      "bottomRightY": 595,
+      "content": "(As) you go down further, your ears hurt more.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 88,
+      "topLeftY": 607,
+      "bottomRightX": 522,
+      "bottomRightY": 628,
+      "content": "## 4 Parts of speech (nouns, verbs, adjectives, adverbs, prepositions)",
+      "type": "title"
+    },
+    {
+      "topLeftX": 87,
+      "topLeftY": 637,
+      "bottomRightX": 595,
+      "bottomRightY": 671,
+      "content": "It is important to identify what part of speech a word is in a sentence. This helps you guess the meaning of the word if it is new.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 89,
+      "topLeftY": 678,
+      "bottomRightX": 635,
+      "bottomRightY": 718,
+      "content": "|  Example: | adverb | verb | preposition | adjective | noun  |\n| --- | --- | --- | --- | --- | --- |\n|   | Carefully | cut | the top | off | the plastic bottle.  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 731,
+      "bottomRightX": 522,
+      "bottomRightY": 765,
+      "content": "Many words can be different parts of speech. Sometimes the meaning is related, sometimes it is completely different.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 90,
+      "topLeftY": 775,
+      "bottomRightX": 512,
+      "bottomRightY": 897,
+      "content": "|  Examples: | water | noun | = liquid  |\n| --- | --- | --- | --- |\n|   |   |  verb | = give water to  |\n|   |  up | preposition | = movement upwards  |\n|   |   |  verb | = raise  |\n|   |  well | noun | = hole which you can get water from  |\n|   |   |  adjective | = not ill  |\n|   |   |  adverb | = in a good way  |",
+      "type": "table",
+      "tableId": null
+    },
+    {
+      "topLeftX": 93,
+      "topLeftY": 917,
+      "bottomRightX": 525,
+      "bottomRightY": 954,
+      "content": "Find other examples of the above language points in the texts.\nNow do activities A to D in the Workbook.",
+      "type": "text"
+    },
+    {
+      "topLeftX": 623,
+      "topLeftY": 943,
+      "bottomRightX": 638,
+      "bottomRightY": 959,
+      "content": "31",
+      "type": "footer"
+    },
+    {
+      "topLeftX": 62,
+      "topLeftY": 974,
+      "bottomRightX": 95,
+      "bottomRightY": 1014,
+      "content": "WOM",
+      "type": "footer"
+    }
+  ]
+}
